@@ -10,8 +10,15 @@
 
 
 <!-- PROJECT SHIELDS -->
-[![Build Status][build-shield]]()
-[![Contributors][contributors-shield]]()
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for build-url, contributors-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Build Status][build-shield]][build-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -51,6 +58,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
+* [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -123,6 +131,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+
+
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -130,7 +145,7 @@ Contributions are what make the open source community such an amazing place to b
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
@@ -171,8 +186,11 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [build-shield]: https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square
+[build-url]: #
 [contributors-shield]: https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 [license-url]: https://choosealicense.com/licenses/mit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
