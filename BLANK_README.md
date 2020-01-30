@@ -67,7 +67,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues (link to this repository)](https://github.com/protacon/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/protacon/repo/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -78,14 +78,11 @@ See the [open issues (link to this repository)](https://github.com/protacon/repo
 
 ## License
 
-Distributed under the MIT License. Use a license that best suits your needs. 
-Also, add a link to the license.
-
 Copyright (c) 2020 Protacon
 
 ## Contact
 
-Your Name - email@protacon.com - helpdesk@protacon.com
+Your Name - email@protacon.com
 
 ## Acknowledgements
 
