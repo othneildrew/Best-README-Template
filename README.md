@@ -7,7 +7,7 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/cristianprochnow/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -16,14 +16,14 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/cristianprochnow/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/cristianprochnow/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/cristianprochnow/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/cristianprochnow/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -49,7 +49,7 @@
 <br />
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+<h2>Table of Contents</h2>
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
@@ -66,9 +66,13 @@
 <br />
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<h2 id="about-the-project">About The Project</h2>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div align="center">
+
+  [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+</div>
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
@@ -81,8 +85,10 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
+<h2 id="built-with">Built With</h2>
+
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
@@ -90,20 +96,19 @@ This section should list any major frameworks that you built your project using.
 <br />
 
 <!-- GETTING STARTED -->
-## Getting Started
+<h2 id="getting-started">Getting Started</h2>
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+<h3 id="prerequisites">Prerequisites</h3>
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
 ```sh
 npm install npm@latest -g
 ```
-
-### Installation
+<h3 id="installation">Installation</h3>
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -122,7 +127,7 @@ const API_KEY = 'ENTER YOUR API';
 <br />
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<h2 id="usage">Usage</h2>
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -131,14 +136,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <br />
 
 <!-- ROADMAP -->
-## Roadmap
+<h2 id="roadmap">Roadmap</h2>
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/cristianprochnow/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 <br />
 
 <!-- CONTRIBUTING -->
-## Contributing
+<h2 id="contributing">Contributing</h2>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -151,14 +156,14 @@ Contributions are what make the open source community such an amazing place to b
 <br />
 
 <!-- LICENSE -->
-## License
+<h2 id="license">License</h2>
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <br />
 
 <!-- CONTACT -->
-## Contact
+<h2 id="contact">Contact</h2>
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
@@ -167,7 +172,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <br />
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<h2 id="acknowledgements">Acknowledgements</h2>
+
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
@@ -186,18 +192,18 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[repo-size-shield]: https://img.shields.io/github/repo-size/othneildrew/Best-README-Template.svg?style=flat
-[repo-size-url]: https://github.com/othneildrew/Best-README-Template
-[code-size-shield]: https://img.shields.io/github/languages/code-size/othneildrew/Best-README-Template
-[code-size-url]: https://github.com/othneildrew/Best-README-Template
+[contributors-shield]: https://img.shields.io/github/contributors/cristianprochnow/Best-README-Template.svg?style=flat
+[contributors-url]: https://github.com/cristianprochnow/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/cristianprochnow/Best-README-Template.svg?style=flat
+[forks-url]: https://github.com/cristianprochnow/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/cristianprochnow/Best-README-Template.svg?style=flat
+[stars-url]: https://github.com/cristianprochnow/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/cristianprochnow/Best-README-Template.svg?style=flat
+[issues-url]: https://github.com/cristianprochnow/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/cristianprochnow/Best-README-Template.svg?style=flat
+[license-url]: https://github.com/cristianprochnow/Best-README-Template/blob/master/LICENSE.txt
+[repo-size-shield]: https://img.shields.io/github/repo-size/cristianprochnow/Best-README-Template.svg?style=flat
+[repo-size-url]: https://github.com/cristianprochnow/Best-README-Template
+[code-size-shield]: https://img.shields.io/github/languages/code-size/cristianprochnow/Best-README-Template
+[code-size-url]: https://github.com/cristianprochnow/Best-README-Template
 [product-screenshot]: images/screenshot.png
