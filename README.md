@@ -35,7 +35,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<p align="center">
+<div align="center">
 
   [![Contributors][contributors-shield]][contributors-url]
   [![Forks][forks-shield]][forks-url]
@@ -45,7 +45,7 @@
   [![Code Size][code-size-shield]][code-size-url]
   [![MIT License][license-shield]][license-url]
 
-</p>
+</div>
 <br />
 
 <!-- TABLE OF CONTENTS -->
