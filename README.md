@@ -17,133 +17,140 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/AL-SparkGeo/Templates">
+    <img src="/images/sparkgeo-logo.png" width="120" height="120">
   </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+  <h3 align="center">Spatial-on-Demand Health Checker</h3>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [About the Health Checker](#about-the-project)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Health Checker
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This program is the health checker for the Spatial-On-Demand Service Provided by SparkGeo Consulting and MAXAR Techologies. This program allows for intuitive tracking of outages, the ability to add and remove services as necessary, automatic e-mail updates regarding outages all wrapped up in a clean UI that is intuitive to use.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+```markdown
+Features
+-Application that checks the “health” of Spatial-On-Demand Services
+-Can be run on the internet, or locally through Docker
+-Features user accounts for various levels of access, security, and restrictions
+-Features a tagging system for specific items, enabling users to group up various services together and also enable access restrictions on certain tags.
+-Intuitive GUI built in HTML enables ease of navigation throughout the website 
+-Allows for control over various different services, that can be routinely pinged to check that they are active
+```
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+```markdown
+Support for the following layers types:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
-
+Web Map Service
+Web Map Tile Service
+Tile Map Service
+Web Feature Service
+Web Coverage Service
+WPS
+CSW
+SOS
+STA
+WFS3
+FS
+WAF
+URL
+FTP
+Geonode Instance
+GHC-R
+```
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
+-Install Docker
+-Run this command WIP WIP WIP
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
+
+### EC2 Version
+
+Run in Postgis in same EC2 instance as GHC - Used because of SSL errors occasionally with remote copy of postGIS. 
+Create ghc.env file based on ghc.env.example, runs on port 8
+
+### Docker-compose
+
+Run the following to run docker images for the GHC runner and GHC web
+Create GHC.env based on the ghc.env.example
+Enter location for postgis database in aws:
 ```
+SQLALCHEMY_DATABASE_URI
+```
+
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+## EC2
 
+1. Run in Postgis in same EC2 instance as GHC - Used because of SSL errors occasionally with remote copy of postGIS. 
+2. Create ghc.env file based on ghc.env.example, runs on port 8
 
+## Docker-compose
+
+1. Run the following to run docker images for the GHC runner and GHC web
+2. Create GHC.env based on the ghc.env.example
+3. Enter location for postgis database in aws:
+```
+This runs both ghc web and ghc runner - used to run an online instance of postgis   
+$ docker build -t sparkgeo/geohealthcheck .  
+$ docker run --name spkghc --env-file ghc.env -p 8089:80 -v ghc_postgis:/GeoHealthCheck/DB sparkgeo/geohealthcheck:latest
+```
 
 <!-- USAGE EXAMPLES -->
-## Usage
+# Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Front Page
+1. Front page contains uptime information in clearly viewable form: period of health-checking, uptime percentage, and number of services checked
+2. A resource list of all of the differing services is then shown, along with their name, tags, current status, and reliability.
+3. There is also a leaflet map, which displays the location of where the service is hosted (?)
+4. As users add more and more services, the list will begin to populate and more services will be pinged.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+### Adding a Service
+
+1. The add a service button allows the addition of new services.
+2. Resource type is selected from a list, and the URL of the service is input into the field, without query fields
+3. Optional tags can be input to allow for organization and further control, as outlined above.
+4. Upon submission, the user is brought to an edit page.
+
+### Service Maintenance & Further Edits
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
+1. Edit page allows for further changes to how the service is displayed on the website.
+2. Users can change authentication to require more or less for certain users through either basic authentication, or a bearer token. 
+3. Users can be notified of any changes by entering email addresses. 
+4. Webhooks are also enabled allowing for changes to how the data is received from the internet (?)
+5. The name, owner, and tags given prior are also displayed. Recommended that the name matches the tags or is at least very similar.
+6. The check can be configured to run in increments of minutes, minimum being 10 minutes however this can be changed.
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+For further contribution requests
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -159,7 +166,6 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
 <!-- CONTACT -->
 ## Contact
 
@@ -167,24 +173,10 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
-
+This project is based off Geo Health Check by Tom Kralidis [@GeoHealthCheck]()
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
