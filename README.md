@@ -6,9 +6,6 @@
 -->
 
 
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -28,7 +25,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+# Table of Contents
 
 * [About the Health Checker](#about-the-project)
 * [Getting Started](#getting-started)
