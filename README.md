@@ -25,7 +25,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-# Table of Contents
+### Table of Contents
 
 * [About the Health Checker](#about-the-project)
 * [Getting Started](#getting-started)
@@ -125,6 +125,7 @@ Front Page
 2. A resource list of all of the differing services is then shown, along with their name, tags, current status, and reliability.
 3. There is also a leaflet map, which displays the location of where the service is hosted (?)
 4. As users add more and more services, the list will begin to populate and more services will be pinged.
+5. 
 
 ### Adding a Service
 
@@ -141,7 +142,7 @@ Front Page
 3. Users can be notified of any changes by entering email addresses. 
 4. Webhooks are also enabled allowing for changes to how the data is received from the internet (?)
 5. The name, owner, and tags given prior are also displayed. Recommended that the name matches the tags or is at least very similar.
-6. The check can be configured to run in increments of minutes, minimum being 10 minutes however this can be changed.
+6. The check can be configured to run in increments of minutes, minimum being 10 minutes however this can be made more often if necessary.
 
 
 <!-- CONTRIBUTING -->
@@ -150,9 +151,9 @@ Front Page
 For further contribution requests
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch 
 5. Open a Pull Request
 
 
@@ -166,28 +167,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/sparkgeo/sod-geohealthcheck](https://github.com/sparkgeo/sod-geohealthcheck)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-This project is based off Geo Health Check by Tom Kralidis [@GeoHealthCheck]()
+This project is based off Geo Health Check by Tom Kralidis [@GeoHealthCheck]
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
