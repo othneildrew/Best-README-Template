@@ -5,8 +5,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -20,9 +18,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -30,10 +25,8 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://doc.xidipity.com/wp-content/uploads/2020/12/p_site_header_960x960_1.png" alt="Xidipity Logo" width="280" height="280">
   </a>
-
-  <h3 align="center">GitHub Repository</h3>
 </p>
-
+<hr />
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -60,8 +53,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -71,7 +62,7 @@ The goal of Xidipity is to create a high quality WordPress theme with the follow
 1. satisfying to use
 2. versatile in the creation of content
 
-**Satisfying To Use**
+### Satisfying To Use
 
 The first requirement is the theme must display well on a variety of devices. This is known as responsive. Xidipity is designed to ensure a good user experience on mobile, tablet, and desktop devices.
 
@@ -81,7 +72,7 @@ The third requirement is pleasing esthetics. This is satisfied by the use of app
 
 The last requirement is performance. This is satisfied by using the latest in web technologies.
 
-**Versatile in the Creation of Content**
+### Versatile in the Creation of Content
 
 Xidipity uses an enhanced version of the classic editor. The benefit of this decision is the editor utilizes an industry standard interface familiar to all who have used a word process such as Microsoft Word or Google Docs. The new editor comes with twenty five toolbar selections with over ninety options.
 
