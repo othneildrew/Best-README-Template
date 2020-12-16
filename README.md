@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Xidipity GitHub Readme Screenshot](https://raw.githubusercontent.com/WpThemeDev/Best-README-Template/v1.0.0/images/p_readme_960x720_1.png)
 
 The goal of Xidipity is to create a high quality WordPress theme with the following characteristics.
 1. satisfying to use
