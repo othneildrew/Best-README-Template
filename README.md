@@ -40,16 +40,12 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#copyright">Copyright</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -66,7 +62,7 @@ The goal of Xidipity is to create a high quality WordPress theme with the follow
 
 The first requirement is the theme must display well on a variety of devices. This is known as responsive. Xidipity is designed to ensure a good user experience on mobile, tablet, and desktop devices.
 
-The second requirement is read ability. Xidipity uses industry standard Google fonts. The base font family is Roboto matched with Roboto Slab as an alternative for headers.
+The second requirement is readability. Xidipity uses industry standard Google fonts. The base font family is Roboto matched with Roboto Slab as an alternative for headers.
 
 The third requirement is pleasing esthetics. This is satisfied by the use of appropriately selected and matched colors. The design leverages a palette of base, primary, and secondary hues matched using tools from Adobe.
 
@@ -74,9 +70,9 @@ The last requirement is performance. This is satisfied by using the latest in we
 
 ### Versatile in the Creation of Content
 
-Xidipity uses an enhanced version of the classic editor. The benefit of this decision is the editor utilizes an industry standard interface familiar to all who have used a word process such as Microsoft Word or Google Docs. The new editor comes with twenty five toolbar selections with over ninety options.
+Xidipity uses an enhanced version of the classic editor. The benefit of this decision is the editor utilizes an industry standard interface familiar to all who have used a word processor such as Microsoft Word or Google Docs. The new editor comes with twenty five toolbar selections with over ninety options.
 
-Options including but not limited to:
+**Options including but not limited to:**
 - Fonts
   - 5 Google fonts
 - Text Style
@@ -109,23 +105,24 @@ Options including but not limited to:
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [PHP](https://www.php.net/get-involved.php)
 * [CSS](https://www.w3.org/Style/CSS/specs.en.html)
 * [JavaScript](https://www.w3.org/wiki/JavaScript_best_practices)
 
-## Installation
+## Getting Started
+Download the latest release to your device.
+### Installation
 
-1. Download current release
-2. In the WordPress admin panel, go to Appearance -> Themes and click the 'Add New' button
-3. Click 'Upload theme' button
+1. In the WordPress admin panel, go to Appearance -> Themes and click the 'Add New' button
+2. Click 'Upload Theme' button
+3. Click 'Choose File' button
 4. Select the Xidipity theme (zip) file
 5. Click 'Install Now' button
-6. Click on the 'Activate' link to use
+6. Upon completion, click 'activate' link to use
 7. Configure as desired
 8. Create content :)
 
-<!-- LICENSE -->
+<!-- Copyright -->
 ## Copyright
 
 Xidipity WordPress Theme, Copyright 2018 - 2020 John Baer
@@ -146,12 +143,9 @@ GNU General Public License for more details.
 
 Bundled resources in the theme are licensed under GPL or MIT (or both).
 
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@xidipity](https://twitter.com/xidipity) - staff@xidipity.com
 
 Project Link: [https://github.com/WpThemeDev/xidipity](https://github.com/WpThemeDev/xidipity)
