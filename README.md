@@ -118,7 +118,7 @@ Xidipity uses an enhanced version of the classic editor. The benefit of this dec
 
 ## Dependencies
 
-* [Classic Editor plugin by WordPress](https://wordpress.org/plugins/classic-editor/)
+* [Classic Editor](https://wordpress.org/plugins/classic-editor/) plugin by WordPress
 
 ## Getting Started
 
@@ -133,11 +133,12 @@ Download the latest release to your device.
 4. Select the Xidipity theme (zip) file
 5. Click 'Install Now'
 6. Upon completion, click 'activate' link to use
-7. Add classic editor plugin
+7. In the WordPress admin panel, go to Plugins and click the 'Add New'
+8. Search for Classic Editor, install, activate
     - In the WordPress admin panel, go to Settings -> Writing
     - Make classic editor the default
-8. Configure as desired
-8. Create content :)
+9. Configure as desired
+10. Create Something Great :)
 
 <!-- Copyright -->
 ## Copyright
