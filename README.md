@@ -58,7 +58,7 @@ The second requirement is readability. Xidipity uses industry standard Google fo
 
 The third requirement is pleasing esthetics. This is satisfied by the use of appropriately selected and matched colors. The design leverages a palette of base, primary, and secondary hues matched using tools from Adobe.
 
-The last requirement is performance. This is satisfied by using the latest in web technologies.
+The last requirement is performance. This is satisfied by using the latest in web technologies. To further boost performance, it is suggested a plugin like Native Lazyload by Google be installed to reduce image load times. 
 
 ### Versatile in the Creation of Content
 
@@ -114,10 +114,15 @@ Xidipity uses an enhanced version of the classic editor. The benefit of this dec
 * [CSS](https://www.w3.org/Style/CSS/specs.en.html)
 * [JavaScript](https://www.w3.org/wiki/JavaScript_best_practices)
 
+## Dependencies
+
+* [Classic Editor plugin by WordPress](https://wordpress.org/plugins/classic-editor/)
+
 ## Getting Started
 
 Download the latest release to your device.
 
+<!-- Installation -->
 ### Installation
 
 1. In the WordPress admin panel, go to Appearance -> Themes and click the 'Add New' button
@@ -126,7 +131,10 @@ Download the latest release to your device.
 4. Select the Xidipity theme (zip) file
 5. Click 'Install Now' button
 6. Upon completion, click 'activate' link to use
-7. Configure as desired
+7. Add classic editor plugin
+  - In the WordPress admin panel, go to Settings > Writing
+  - Make classic editor the default
+8. Configure as desired
 8. Create content :)
 
 <!-- Copyright -->
