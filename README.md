@@ -142,6 +142,7 @@ Download the latest release to your device.
 ## Copyright
 
 Xidipity WordPress Theme, Copyright 2018 - 2020 John Baer
+
 Xidipity is distributed under the terms of the GNU GPL
 
 This program is free software: you can redistribute it and/or modify
