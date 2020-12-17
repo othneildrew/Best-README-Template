@@ -143,7 +143,10 @@ Download the latest release to your device.
 
 Xidipity WordPress Theme, Copyright 2018 - 2020 John Baer
 
-Xidipity is distributed under the terms of the GNU GPL
+<!-- LICENSE -->
+## License
+
+Xidipity is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -155,10 +158,6 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
-<!-- LICENSE -->
-## License
-
-Bundled resources in the theme are licensed under GPL or MIT (or both).
 
 <!-- CONTACT -->
 ## Contact
