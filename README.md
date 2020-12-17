@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The goal of Xidipity is to create a high quality WordPress theme with the following characteristics.
+Xidipity is a high quality WordPress theme with the following characteristics.
 1. satisfying to use
 2. versatile in the creation of content
 
@@ -68,7 +68,11 @@ Xidipity uses an enhanced version of the classic editor. The benefit of this dec
 
 **Options including but not limited to:**
 - Fonts
-  - 5 Google fonts
+  - Roboto (sans)
+  - Roboto Mono (mono)
+  - Roboto Slab (serif)
+  - Kalam (cursive)
+  - Kaushan Script (fancy)
 - Text Style
 - Font size
 - Text weight
