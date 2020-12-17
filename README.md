@@ -133,7 +133,7 @@ Download the latest release to your device.
 5. Click 'Install Now'
 6. Upon completion, click 'activate' link to use
 7. Add classic editor plugin
-  - In the WordPress admin panel, go to Settings > Writing
+  - In the WordPress admin panel, go to Settings -> Writing
   - Make classic editor the default
 8. Configure as desired
 8. Create content :)
