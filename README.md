@@ -127,10 +127,10 @@ Download the latest release to your device.
 ### Installation
 
 1. In the WordPress admin panel, go to Appearance -> Themes and click the 'Add New' button
-2. Click 'Upload Theme' button
-3. Click 'Choose File' button
+2. Click 'Upload Theme'
+3. Click 'Choose File'
 4. Select the Xidipity theme (zip) file
-5. Click 'Install Now' button
+5. Click 'Install Now'
 6. Upon completion, click 'activate' link to use
 7. Add classic editor plugin
   - In the WordPress admin panel, go to Settings > Writing
