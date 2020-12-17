@@ -19,7 +19,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-![Xidipity GitHub Readme Screenshot](images/p_readme_1200x900_1.png)
+![Xidipity GitHub Readme Screenshot](images/screenshot.png)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
