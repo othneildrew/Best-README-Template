@@ -21,8 +21,6 @@
 
 ![Xidipity GitHub Readme Screenshot](images/p_readme_1200x900_1.png)
 
-<br />
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
