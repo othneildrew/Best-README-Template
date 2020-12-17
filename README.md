@@ -21,12 +21,8 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://doc.xidipity.com/wp-content/uploads/2020/12/p_site_header_960x960_1.png" alt="Xidipity Logo" width="280" height="280">
-  </a>
-</p>
-<hr />
+![Xidipity GitHub Readme Screenshot](https://github.com/WpThemeDev/Best-README-Template/blob/v1.0.0/images/p_readme_1200x900_1.png?raw=true)
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -51,9 +47,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![alt text](https://github.com/[username]/WpThemeDev/Best-README-Template/v1.0.0/images/p_readme_960x720_1.png?raw=true)
-![Xidipity GitHub Readme Screenshot](https://raw.githubusercontent.com/WpThemeDev/Best-README-Template/v1.0.0/images/p_readme_960x720_1.png)
 
 The goal of Xidipity is to create a high quality WordPress theme with the following characteristics.
 1. satisfying to use
@@ -111,7 +104,9 @@ Xidipity uses an enhanced version of the classic editor. The benefit of this dec
 * [JavaScript](https://www.w3.org/wiki/JavaScript_best_practices)
 
 ## Getting Started
+
 Download the latest release to your device.
+
 ### Installation
 
 1. In the WordPress admin panel, go to Appearance -> Themes and click the 'Add New' button
