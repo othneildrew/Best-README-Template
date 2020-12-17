@@ -59,7 +59,7 @@ The second requirement is readability. Xidipity uses industry standard Google fo
 
 The third requirement is pleasing esthetics. This is satisfied by the use of appropriately selected and matched colors. The design leverages a palette of base, primary, and secondary hues matched using tools from Adobe.
 
-The last requirement is performance. This is satisfied by using the latest in web technologies. Much of the theme's design relies on the W3C Flexible Box Module and to further boost performance, it is suggested a plugin like Native Lazyload by Google be installed to reduce image load times. 
+The last requirement is performance. This is satisfied by using the latest in web technologies. Much of the theme's design leverages the W3C Flexible Box Module (flexbox) and to further boost performance, it is suggested a plugin like Native Lazyload by Google be installed to reduce image load times. 
 
 ### Versatile in the Creation of Content
 
