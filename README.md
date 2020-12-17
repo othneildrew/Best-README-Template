@@ -166,7 +166,7 @@ GNU General Public License for more details.
 
 **Twitter**
 
-staff@xidipity](https://twitter.com/xidipity)
+Xidipity](https://twitter.com/xidipity)
 
 **Email**
 
