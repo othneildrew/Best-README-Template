@@ -65,7 +65,7 @@ The last requirement is performance. This is satisfied by using the latest in we
 
 Xidipity uses an enhanced version of the classic editor. The benefit of this decision is the editor utilizes an industry standard interface familiar to all who have used a word processor such as Microsoft Word or Google Docs. The new editor comes with twenty five toolbar selections with over ninety options.
 
-**Options including but not limited to:**
+**Options including but are not limited to:**
 
 - Fonts
   - Roboto (sans)
