@@ -19,9 +19,9 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-<!-- PROJECT LOGO -->
+![Xidipity GitHub Readme Screenshot](images/p_readme_1200x900_1.png)
+
 <br />
-![Xidipity GitHub Readme Screenshot](https://github.com/WpThemeDev/Best-README-Template/blob/v1.0.0/images/p_readme_1200x900_1.png?raw=true)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -67,30 +67,39 @@ The last requirement is performance. This is satisfied by using the latest in we
 Xidipity uses an enhanced version of the classic editor. The benefit of this decision is the editor utilizes an industry standard interface familiar to all who have used a word processor such as Microsoft Word or Google Docs. The new editor comes with twenty five toolbar selections with over ninety options.
 
 **Options including but not limited to:**
+
 - Fonts
   - Roboto (sans)
   - Roboto Mono (mono)
   - Roboto Slab (serif)
   - Kalam (cursive)
-  - Kaushan Script (fancy)
+  - Kaushan Script (fantasy)
 - Text Style
+  - 8 styles
 - Font size
+  - 13 sizes
 - Text weight
+  - 9 weights
 - Text emphasis
+  - 3 styles
 - Text format
+  - 9 formats
 - Duplicate/paint style
 - Apply text color/background color
-  - 90 preset
+  - 90 preset colors
   - custom
 - Clear text format
 - Apply text link
 - Apply text alignment
+  - 7 alignments
 - Add ordered list
   - 5 bullet styles
 - Add unordered list
   - 5 bullet styles
 - Miscellaneous options
+  - 9 options
 - Add vertical spacing
+  - 7 spacing choices
 - Add horizontal rule
   - 8 preset styles
   - custom
