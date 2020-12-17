@@ -164,6 +164,14 @@ GNU General Public License for more details.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@xidipity](https://twitter.com/xidipity) - staff@xidipity.com
+**Twitter**
 
-Project Link: [https://github.com/WpThemeDev/xidipity](https://github.com/WpThemeDev/xidipity)
+staff@xidipity](https://twitter.com/xidipity)
+
+**Email**
+
+[staff@xidipity.com](mailto:staff@xidipity.com)
+
+**Project Link**
+
+[Xidipity WordPress Theme](https://github.com/WpThemeDev/xidipity)
