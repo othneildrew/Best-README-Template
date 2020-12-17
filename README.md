@@ -127,7 +127,7 @@ Download the latest release to your device.
 <!-- Installation -->
 ### Installation
 
-1. In the WordPress admin panel, go to Appearance -> Themes and click the 'Add New' button
+1. In the WordPress admin panel, go to Appearance -> Themes and click the 'Add New'
 2. Click 'Upload Theme'
 3. Click 'Choose File'
 4. Select the Xidipity theme (zip) file
