@@ -103,7 +103,8 @@ Xidipity uses an enhanced version of the classic editor. The benefit of this dec
   - 8 preset styles
   - custom
 - Add table
-- Add 2,3, & 4 columns
+- Add multi coloums
+  - 6 options
 - Add html template
 - Display line numbered code snippets
 - Add icon
