@@ -52,7 +52,7 @@ Xidipity is a high quality WordPress theme with the following characteristics.
 
 ### Satisfying To Use
 
-The first requirement is the theme must display well on a variety of devices. This is known as responsive. Xidipity is designed to ensure a good user experience on mobile, tablet, and desktop devices.
+The first requirement is the theme must display well on a variety of devices. This is known as responsive. Xidipity is designed to ensure a satisfying user experience on mobile, tablet, and desktop devices.
 
 The second requirement is readability. Xidipity uses industry standard Google fonts. The base font family is Roboto matched with Roboto Slab used to style paragraph headers.
 
