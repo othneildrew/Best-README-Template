@@ -32,7 +32,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="![logo_size](https://user-images.githubusercontent.com/73173287/111823758-9f834280-88e5-11eb-807c-a0ccbecca775.jpg)
+">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
