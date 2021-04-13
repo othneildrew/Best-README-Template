@@ -158,9 +158,12 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`][license-url] for more information.
 
+<!-- AUTHOR -->
+## Author
 
+- Author Name - [@github_handle](https://github.com/github_username)
 
 <!-- CONTACT -->
 ## Contact
@@ -184,15 +187,27 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- Contributors Shield -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+<!-- Contributors URL -->
 [contributors-url]: https://github.com/github_username/repo/graphs/contributors
+<!-- Forks Shield -->
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
+<!-- Forks URL -->
 [forks-url]: https://github.com/github_username/repo/network/members
+<!-- Stars Shield -->
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
+<!-- Stars URL -->
 [stars-url]: https://github.com/github_username/repo/stargazers
+<!-- Issues Shield -->
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
+<!-- Issues URL -->
 [issues-url]: https://github.com/github_username/repo/issues
+<!-- License Shield -->
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+<!-- License URL -->
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+<!-- Linkedin Shield -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+<!-- Linkedin URL -->
 [linkedin-url]: https://linkedin.com/in/github_username

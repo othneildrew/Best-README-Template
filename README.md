@@ -166,9 +166,12 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`][license-url] for more information.
 
+<!-- AUTHOR -->
+## Author
 
+- Othneil Drew - [@othneildrew](https://github.com/othneildrew)
 
 <!-- CONTACT -->
 ## Contact
@@ -199,16 +202,28 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- Contributors Shield -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+<!-- Contributors URL -->
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+<!-- Forks Shield -->
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+<!-- Forks URL -->
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+<!-- Stars Shield -->
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+<!-- Stars URL -->
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+<!-- Issues Shield -->
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+<!-- Issues URL -->
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+<!-- License Shield -->
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+<!-- License URL -->
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+<!-- Linkedin Shield -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+<!-- Linkedin URL -->
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
