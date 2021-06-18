@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
+*** umphams, Best-README-Template, steve0xp, email, project_title, project_description
 -->
 
 
@@ -20,37 +20,38 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![MIT License][license-shield]][license-url] -->
+[![LinkedIn][linkedin-shield]][www.linkedin.com/in/phamsteven]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/umphams/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Steven Pham - 2021-06-18 - Solidity Code Challenge (ETHPool)</h3>
 
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a ETHPool contracts (main file called ETHDeposit) that allows users to deposit ETH and collect rewards deposited by contract owner every 7 days. >
+    <!-- <a href="https://github.com/umphams/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/umphams/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/umphams/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/umphams/Best-README-Template/issues">Request Feature</a>
   </p>
-</p>
+</p> -->
 
 
 
@@ -85,18 +86,37 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Here's a blank template to get started:
+This repo contains my first attempt at a solution to the below "Smart Contract Challenge." I will likely revisit this repo and implement better coding methods!
+
+# Smart Contract Challenge
+
+### Setup a project and create a contract
+
+ETHPool provides a service where people can deposit ETH and they will receive weekly rewards. Users must be able to take out their deposits along with their portion of rewards at any time. New rewards are deposited into the pool by the ETHPool team each week (i.e. it is a trusted setup).
+
+Design and code a contract for ETHPool, take all the assumptions you need to move forward.
+
+You can use any development tools you prefer: Hardhat, Truffle, Brownie, Solidity, Vyper.
+
+Useful resources:
+- Solidity Docs: https://docs.soliditylang.org/en/v0.8.4
+- Educational Resource: https://github.com/austintgriffith/scaffold-eth
+
+### Deploy your contract
+
+Deploy the contract to any Ethereum testnet of your preference. Keep record of the deployed address.
+<!-- Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+`umphams`, `Best-README-Template`, `steve0xp`, `email`, `project_title`, `project_description` -->
 
 
-### Built With
+<!-- ### Built With
 
 * []()
 * []()
-* []()
+* []() -->
 
 
 
@@ -108,37 +128,44 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* remix
   ```sh
-  npm install npm@latest -g
+  https://remix.ethereum.org/  ```
   ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/umphams/Best-README-Template.git
    ```
-2. Install NPM packages
+2. Deploy smart contracts on rinkeby testnet
    ```sh
-   npm install
+   *I used remix to deploy for simplicity
+   a. ERC20.sol
+   b. ETHDeposit.sol
    ```
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!-- ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+1. 2021-06-18: Submit PR for PR Review.
+2. 2021-06-19: PR Review and outline changes to make for betterment of contracts.
+3. 2021-06-21: Submit v0.2.0 for PR Review.
+4. 2021-06-22: PR Review of v0.2.0 and archive project for now.
+
+<!-- See the [open issues](https://github.com/umphams/Best-README-Template/issues) for a list of proposed features (and known issues). -->
 
 
 
@@ -165,16 +192,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@steve0xp](https://twitter.com/steve0xp) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/umphams/Best-README-Template](https://github.com/umphams/Best-README-Template)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
+* [Best-README-Template Creators](https://github.com/othneildrew/Best-README-Template)
 * []()
 * []()
 
@@ -184,15 +211,15 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/umphams/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/umphams/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/umphams/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/umphams/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/umphams/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/umphams/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/umphams/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/umphams/repo/issues
+[license-shield]: https://img.shields.io/github/license/umphams/repo.svg?style=for-the-badge
+[license-url]: https://github.com/umphams/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/umphams
