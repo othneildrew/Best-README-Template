@@ -89,7 +89,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+`github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `project_title`, `project_description`
 
 
 ### Built With
@@ -180,6 +180,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 
 
+README template based on [othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
