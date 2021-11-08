@@ -98,7 +98,7 @@ GitHub पर कई बेहतरीन README टेम्प्लेट �
 -   [प्रतिक्रिया.जेएस](https://reactjs.org/)
 -   [Vue.js](https://vuejs.org/)
 -   [कोणीय](https://angular.io/)
--   [दुर्बल](https://svelte.dev/)
+-   [Svelte](https://svelte.dev/)
 -   [laravel](https://laravel.com)
 -   [बूटस्ट्रैप](https://getbootstrap.com)
 -   [jQuery](https://jquery.com)
@@ -198,7 +198,7 @@ _अधिक उदाहरणों के लिए, कृपया दे�
 
 आपका नाम -[@your_twitter](https://twitter.com/your_username)-[ईमेल@एक्साम्प्ले.कॉम](mailto:email@example.com)
 
-परियोजना लिंक:[हत्तपः://गिटहब.कॉम/योर\_यूजरनाम/रेपो\_नाम](https://github.com/your_username/repo_name)
+Project Link: [हत्तपः://गिटहब.कॉम/योर\_यूजरनाम/रेपो\_नाम](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
