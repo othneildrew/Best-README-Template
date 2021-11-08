@@ -179,7 +179,7 @@ _有关更多示例，请参阅[文档](https://example.com)_
 1.  分叉项目
 2.  创建您的功能分支（`git checkout -b feature/AmazingFeature`)
 3.  提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
-4.  推送到分支（`git push origin feature/AmazingFeature`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  打开拉取请求
 
 <p align="right">(<a href="#top">back to top</a>)</p>
