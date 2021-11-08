@@ -209,7 +209,7 @@ _لمزيد من الأمثلة ، يرجى الرجوع إلى[توثيق](http
 استخدم هذه المساحة لسرد الموارد التي تجدها مفيدة وتريد أن تنسب إليها. لقد قمت بتضمين عدد قليل من المفضلة لبدء الأشياء!
 
 -   [اختر ترخيصًا مفتوح المصدر](https://choosealicense.com)
--   [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+-   [ورقة الغش في GitHub Emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 -   [ورقة غش مالفين فليكس بوكس](https://flexbox.malven.co/)
 -   [ورقة غش مالفين للشبكة](https://grid.malven.co/)
 -   [Img Shields](https://shields.io)
