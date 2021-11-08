@@ -84,7 +84,7 @@ Voici pourquoi:
 -   Vous ne devriez pas faire les mêmes tâches encore et encore, comme créer un fichier README à partir de zéro
 -   Vous devriez appliquer les principes DRY pour le reste de votre vie :sourire:
 
-Bien sûr, aucun modèle ne servira à tous les projets car vos besoins peuvent être différents. J'en rajouterai donc prochainement. Vous pouvez également suggérer des modifications en forçant ce dépôt et en créant une demande d'extraction ou en ouvrant un problème. Merci à toutes les personnes qui ont contribué à l'expansion de ce modèle !
+Bien sûr, aucun modèle ne servira à tous les projets car vos besoins peuvent être différents. J'en rajouterai donc prochainement. Vous pouvez également suggérer des modifications en forçant ce dépôt et en créant une pull request ou en ouvrant un problème. Merci à toutes les personnes qui ont contribué à l'expansion de ce modèle !
 
 Utilisez le`BLANK_README.md`pour commencer.
 
@@ -156,7 +156,7 @@ _Pour plus d'exemples, veuillez vous référer au[Documentation](https://example
 ## Feuille de route
 
 -   [x] Ajouter un journal des modifications
--   [x] Ajouter des liens de retour en haut
+-   [x] Ajouter des liens vers le haut
 -   \[] Ajouter des modèles supplémentaires avec/des exemples
 -   \[] Ajoutez un document « composants » pour copier-coller facilement des sections du fichier readme
 -   \[] Prise en charge multilingue
