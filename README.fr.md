@@ -76,15 +76,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Il existe de nombreux excellents modèles README disponibles sur GitHub ; Cependant, je n'en ai pas trouvé qui correspondait vraiment à mes besoins, j'ai donc créé celui-ci amélioré. Je veux créer un modèle README tellement incroyable que ce sera le dernier dont vous aurez besoin - je pense que c'est ça.
+Il existe de nombreux excellents modèles README disponibles sur GitHub ; cependant, je n'en ai pas trouvé qui corresponde vraiment à mes besoins, alors j'ai créé celui-ci amélioré. Je veux créer un modèle README si étonnant que ce sera le dernier dont vous aurez besoin - je pense que c'est tout.
 
 Voici pourquoi:
 
--   Votre temps doit être consacré à la création de quelque chose d'incroyable. Un projet qui résout un problème et aide les autres
--   Vous ne devriez pas faire les mêmes tâches encore et encore, comme créer un fichier README à partir de zéro
--   Vous devriez appliquer les principes DRY pour le reste de votre vie :sourire:
+-   Votre temps devrait être concentré sur la création de quelque chose d'incroyable. Un projet qui résout un problème et aide les autres
+-   You shouldn't be doing the same tasks over and over like creating a README from scratch
+-   Vous devriez appliquer les principes DRY pour le reste de votre vie :smile:
 
-Bien sûr, aucun modèle ne servira à tous les projets car vos besoins peuvent être différents. J'en rajouterai donc prochainement. Vous pouvez également suggérer des modifications en forçant ce dépôt et en créant une pull request ou en ouvrant un problème. Merci à toutes les personnes qui ont contribué à l'expansion de ce modèle !
+Bien sûr, aucun modèle ne servira à tous les projets puisque vos besoins peuvent être différents. J'en ajouterai donc d'autres prochainement. Vous pouvez également suggérer des modifications en bifurquant ce référentiel et en créant une demande d'extraction ou en ouvrant un problème. Merci à toutes les personnes qui ont contribué à l'expansion de ce modèle !
 
 Utilisez le`BLANK_README.md`pour commencer.
 
@@ -92,7 +92,7 @@ Utilisez le`BLANK_README.md`pour commencer.
 
 ### Construit avec
 
-Cette section doit répertorier tous les principaux frameworks/bibliothèques utilisés pour amorcer votre projet. Laissez tous les add-ons/plugins pour la section des remerciements. Voici quelques exemples.
+Cette section doit répertorier tous les principaux frameworks/bibliothèques utilisés pour démarrer votre projet. Laissez tous les add-ons/plugins pour la section des remerciements. Voici quelques exemples.
 
 -   [Suivant.js](https://nextjs.org/)
 -   [React.js](https://reactjs.org/)
@@ -101,7 +101,7 @@ Cette section doit répertorier tous les principaux frameworks/bibliothèques ut
 -   [Svelte](https://svelte.dev/)
 -   [Laravel](https://laravel.com)
 -   [Amorcer](https://getbootstrap.com)
--   [JQuery](https://jquery.com)
+-   [JQueryName](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -110,11 +110,11 @@ Cette section doit répertorier tous les principaux frameworks/bibliothèques ut
 ## Commencer
 
 Ceci est un exemple de la façon dont vous pouvez donner des instructions sur la configuration de votre projet localement.
-Pour obtenir une copie locale opérationnelle, suivez ces exemples d'étapes simples.
+Pour obtenir une copie locale opérationnelle, suivez ces étapes d'exemple simples.
 
 ### Conditions préalables
 
-Ceci est un exemple de la façon de lister les choses dont vous avez besoin pour utiliser le logiciel et comment les installer.
+Ceci est un exemple de la liste des choses dont vous avez besoin pour utiliser le logiciel et comment les installer.
 
 -   au dessus du niveau de la mer
     ```sh
@@ -123,7 +123,7 @@ Ceci est un exemple de la façon de lister les choses dont vous avez besoin pour
 
 ### Installation
 
-_Vous trouverez ci-dessous un exemple de la façon dont vous pouvez informer votre public sur l'installation et la configuration de votre application. Ce modèle ne repose sur aucune dépendance ou service externe._
+_Vous trouverez ci-dessous un exemple de la façon dont vous pouvez expliquer à votre public comment installer et configurer votre application. Ce modèle ne repose sur aucune dépendance ou service externe._
 
 1.  Obtenez une clé API gratuite sur<https://example.com>
 2.  Cloner le dépôt
@@ -145,9 +145,9 @@ _Vous trouverez ci-dessous un exemple de la façon dont vous pouvez informer vot
 
 ## Usage
 
-Utilisez cet espace pour montrer des exemples utiles de la façon dont un projet peut être utilisé. Des captures d'écran supplémentaires, des exemples de code et des démos fonctionnent bien dans cet espace. Vous pouvez également créer un lien vers d'autres ressources.
+Utilisez cet espace pour montrer des exemples utiles d'utilisation d'un projet. Des captures d'écran supplémentaires, des exemples de code et des démos fonctionnent bien dans cet espace. Vous pouvez également créer un lien vers d'autres ressources.
 
-_Pour plus d'exemples, veuillez vous référer au[Documentation](https://example.com)_
+_Pour plus d'exemples, veuillez consulter le[Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -157,11 +157,11 @@ _Pour plus d'exemples, veuillez vous référer au[Documentation](https://example
 
 -   [x] Ajouter un journal des modifications
 -   [x] Ajouter des liens vers le haut
--   \[] Ajouter des modèles supplémentaires avec/des exemples
--   \[] Ajoutez un document « composants » pour copier-coller facilement des sections du fichier readme
--   \[] Prise en charge multilingue
-    -   \[] Chinois
-    -   \[] Espagnol
+-   [ ] Ajouter des modèles supplémentaires avec/exemples
+-   [ ] Ajoutez un document "composants" pour copier et coller facilement des sections du fichier Lisez-moi
+-   [ ] Prise en charge multilingue
+    -   [ ] chinois
+    -   [ ] Espagnol
 
 Voir le[questions ouvertes](https://github.com/othneildrew/Best-README-Template/issues)pour une liste complète des fonctionnalités proposées (et des problèmes connus).
 
@@ -173,14 +173,14 @@ Voir le[questions ouvertes](https://github.com/othneildrew/Best-README-Template/
 
 Les contributions sont ce qui fait de la communauté open source un endroit incroyable pour apprendre, inspirer et créer. Toutes les contributions que vous faites sont**très appréciée**.
 
-Si vous avez une suggestion qui améliorerait les choses, veuillez créer un repo et créer une pull request. Vous pouvez aussi simplement ouvrir un ticket avec le tag "amélioration".
-N'oubliez pas de donner une étoile au projet ! Merci encore!
+Si vous avez une suggestion qui améliorerait cela, veuillez bifurquer le dépôt et créer une demande d'extraction. Vous pouvez aussi simplement ouvrir un ticket avec le tag "amélioration".
+N'oubliez pas de mettre une étoile au projet ! Merci encore!
 
-1.  Fork le projet
+1.  Fourchez le projet
 2.  Créez votre branche de fonctionnalité (`git checkout -b feature/AmazingFeature`)
 3.  Validez vos modifications (`git commit -m 'Add some AmazingFeature'`)
 4.  Pousser vers la branche (`git push origin feature/AmazingFeature`)
-5.  Ouvrir une demande de tirage
+5.  Ouvrir une demande d'extraction
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -206,16 +206,16 @@ Lien du projet :<https://github.com/your_username/repo_name>
 
 ## Remerciements
 
-Utilisez cet espace pour lister les ressources que vous trouvez utiles et auxquelles vous aimeriez donner du crédit. J'ai inclus quelques-uns de mes favoris pour lancer les choses !
+Utilisez cet espace pour répertorier les ressources que vous trouvez utiles et auxquelles vous aimeriez donner du crédit. J'ai inclus quelques-uns de mes favoris pour lancer les choses !
 
 -   [Choisissez une licence Open Source](https://choosealicense.com)
 -   [Aide-mémoire GitHub Emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet)
--   [Aide-mémoire Flexbox de Malven](https://flexbox.malven.co/)
--   [Aide-mémoire de grille de Malven](https://grid.malven.co/)
+-   [Feuille de triche Flexbox de Malven](https://flexbox.malven.co/)
+-   [Grille de triche de Malven](https://grid.malven.co/)
 -   [Img Boucliers](https://shields.io)
 -   [Pages GitHub](https://pages.github.com)
 -   [Police géniale](https://fontawesome.com)
--   [Réagir Icônes](https://react-icons.github.io/react-icons/search)
+-   [Icônes de réaction](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
