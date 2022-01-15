@@ -76,15 +76,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-GitHub 上有许多很棒的 README 模板；但是，我没有找到真正适合我的需求，所以我创建了这个增强版。我想创建一个非常棒的 README 模板，它将成为您需要的最后一个模板——我想就是这样。
+GitHub 上有许多很棒的 README 模板；但是，我没有找到真正适合我需要的，所以我创建了这个增强的。我想创建一个非常棒的 README 模板，这将是你需要的最后一个模板——我想就是这样。
 
 原因如下：
 
--   你的时间应该专注于创造一些惊人的东西。一个解决问题并帮助他人的项目
--   您不应该像从头开始创建自述文件那样一遍又一遍地执行相同的任务
--   你应该在你的余生中贯彻 DRY 原则 :smile:
+-   你的时间应该集中在创造一些令人惊奇的东西上。解决问题并帮助他人的项目
+-   您不应该一遍又一遍地执行相同的任务，例如从头开始创建自述文件
+-   您应该在余生中实施 DRY 原则：微笑：
 
-当然，由于您的需求可能不同，因此没有一种模板可以服务于所有项目。所以我会在不久的将来添加更多。您还可以通过分叉此 repo 并创建拉取请求或打开问题来建议更改。感谢所有为扩展此模板做出贡献的人！
+当然，没有一个模板可以服务于所有项目，因为您的需求可能会有所不同。所以我会在不久的将来添加更多。您还可以通过分叉此 repo 并创建拉取请求或打开问题来建议更改。感谢所有为扩展此模板做出贡献的人！
 
 使用`BLANK_README.md`开始。
 
@@ -92,16 +92,16 @@ GitHub 上有许多很棒的 README 模板；但是，我没有找到真正适�
 
 ### 内置
 
-本节应列出用于引导项目的任何主要框架/库。为确认部分保留任何附加组件/插件。这里有一些例子。
+本节应列出用于引导您的项目的所有主要框架/库。将任何附加组件/插件留给致谢部分。这里有一些例子。
 
 -   [Next.js](https://nextjs.org/)
--   [React.js](https://reactjs.org/)
+-   [反应.js](https://reactjs.org/)
 -   [Vue.js](https://vuejs.org/)
 -   [角](https://angular.io/)
 -   [苗条](https://svelte.dev/)
--   [Laravel](https://laravel.com)
+-   [拉拉维尔](https://laravel.com)
 -   [引导程序](https://getbootstrap.com)
--   [查询](https://jquery.com)
+-   [jQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -109,24 +109,24 @@ GitHub 上有许多很棒的 README 模板；但是，我没有找到真正适�
 
 ## 入门
 
-这是您如何提供有关在本地设置项目的说明的示例。
-要启动并运行本地副本，请遵循这些简单的示例步骤。
+这是一个关于如何在本地设置项目的说明的示例。
+要启动并运行本地副本，请按照以下简单示例步骤操作。
 
 ### 先决条件
 
-这是如何列出使用该软件所需的内容以及如何安装它们的示例。
+这是一个如何列出使用该软件所需的东西以及如何安装它们的示例。
 
--   高于海平面
+-   海平面以上
     ```sh
     npm install npm@latest -g
     ```
 
 ### 安装
 
-_下面是一个示例，说明如何指导受众安装和设置您的应用程序。此模板不依赖任何外部依赖项或服务。_
+_下面是一个示例，说明如何指导您的受众安装和设置您的应用程序。此模板不依赖任何外部依赖项或服务。_
 
-1.  获取免费的 API 密钥，请访问[HTTPS://example.com](https://example.com)
-2.  克隆回购
+1.  获取免费的 API 密钥：<https://example.com>
+2.  克隆仓库
     ```sh
     git clone https://github.com/your_username_/Project-Name.git
     ```
@@ -145,7 +145,7 @@ _下面是一个示例，说明如何指导受众安装和设置您的应用程�
 
 ## 用法
 
-使用此空间来展示如何使用项目的有用示例。其他屏幕截图、代码示例和演示在此领域运行良好。您还可以链接到更多资源。
+使用此空间展示如何使用项目的有用示例。其他屏幕截图、代码示例和演示在此空间中运行良好。您还可以链接到更多资源。
 
 _有关更多示例，请参阅[文档](https://example.com)_
 
@@ -156,14 +156,14 @@ _有关更多示例，请参阅[文档](https://example.com)_
 ## 路线图
 
 -   [x] 添加变更日志
--   [x] 添加返回顶部链接
--   \[] 使用/示例添加其他模板
--   \[] 添加“组件”文档以轻松复制和粘贴自述文件的部分
--   \[] 多语言支持
-    -   \[] 中国人
-    -   \[] 西班牙语
+-   [x] 添加回到顶部链接
+-   [ ] 添加带有/示例的其他模板
+-   [ ] 添加“组件”文档以轻松复制和粘贴自述文件的部分
+-   [ ] 多语言支持
+    -   [ ] 中国人
+    -   [ ] 西班牙语
 
-见[开放式问题](https://github.com/othneildrew/Best-README-Template/issues)有关建议功能（和已知问题）的完整列表。
+见[开放式问题](https://github.com/othneildrew/Best-README-Template/issues)有关提议的功能（和已知问题）的完整列表。
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -171,15 +171,15 @@ _有关更多示例，请参阅[文档](https://example.com)_
 
 ## 贡献
 
-贡献使开源社区成为学习、启发和创造的绝佳场所。你所做的任何贡献都是**不胜感激**.
+贡献使开源社区成为学习、启发和创造的绝佳场所。您所做的任何贡献都是**非常感激**.
 
-如果您有更好的建议，请 fork 存储库并创建拉取请求。您也可以简单地打开带有“增强”标签的问题。
-别忘了给项目打星！再次感谢！
+如果你有一个可以让这变得更好的建议，请分叉回购并创建一个拉取请求。您也可以简单地打开带有“增强”标签的问题。
+别忘了给项目打颗星！再次感谢！
 
 1.  分叉项目
 2.  创建您的功能分支（`git checkout -b feature/AmazingFeature`)
 3.  提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+4.  推送到分支 (`git push origin feature/AmazingFeature`)
 5.  打开拉取请求
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -188,7 +188,7 @@ _有关更多示例，请参阅[文档](https://example.com)_
 
 ## 执照
 
-在 MIT 许可下分发。看`LICENSE.txt`想要查询更多的信息。
+根据 MIT 许可证分发。看`LICENSE.txt`想要查询更多的信息。
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -196,7 +196,7 @@ _有关更多示例，请参阅[文档](https://example.com)_
 
 ## 接触
 
-你的名字 -[@your_twitter](https://twitter.com/your_username)-[email@example.com](mailto:email@example.com)
+你的名字 -[@你的推特](https://twitter.com/your_username)-[email@example.com](mailto:email@example.com)
 
 项目链接：[HTTPS://GitHub.com/有人\_username/repo\_那么](https://github.com/your_username/repo_name)
 
@@ -206,7 +206,7 @@ _有关更多示例，请参阅[文档](https://example.com)_
 
 ## 致谢
 
-使用此空间列出您认为有帮助并希望归功于的资源。我已经包含了一些我最喜欢的东西来开始！
+使用此空间列出您认为有帮助并希望给予赞誉的资源。我已经包括了一些我最喜欢的东西来开始！
 
 -   [选择开源许可证](https://choosealicense.com)
 -   [GitHub 表情符号备忘单](https://www.webpagefx.com/tools/emoji-cheat-sheet)
