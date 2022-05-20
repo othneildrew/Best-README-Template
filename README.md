@@ -104,7 +104,7 @@ Use the `BLANK_README.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
  ![Python badge](images/python-badge.svg)
- [![Pylint badge](images/pylint-badge.svg)](https://www.pylint.org/)
+ ![Pylint badge](images/pylint-badge.svg)
  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
