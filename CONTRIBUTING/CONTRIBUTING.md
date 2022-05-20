@@ -21,4 +21,5 @@ Still interested? Great, you're welcome!
 ## Feature suggestions
 
 If you want to suggest a new feature for one of my projects, feal free to open a new issue on [GitHub](https://github.com/nixe64).
+
 But, **please verify** that you are the first to suggest this feature. Thank you!
