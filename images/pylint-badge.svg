@@ -1,25 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="103.0" height="20">
-    <a xlink:href="https://www.pylint.org/">
-        <linearGradient id="smooth" x2="0" y2="100%">
-            <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
-            <stop offset="1" stop-opacity=".1" />
-        </linearGradient>
-        <clipPath id="round">
-            <rect width="103.0" height="20" rx="3" fill="#fff" />
-        </clipPath>
-        <g clip-path="url(#round)">
-            <rect width="58.0" height="20" fill="#555" />
-            <rect x="58.0" width="45.0" height="20" fill="#007ec6" />
-            <rect width="103.0" height="20" fill="url(#smooth)" />
-        </g>
-        <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="110">
-            <image x="5" y="3" width="14" height="14" xlink:href="./pylint.svg" />
-            <text x="385.0" y="150" fill="#010101" fill-opacity=".3" transform="scale(0.1)" textLength="310.0" lengthAdjust="spacing">pylint</text>
-            <text x="385.0" y="140" transform="scale(0.1)" textLength="310.0" lengthAdjust="spacing">pylint</text>
-            <text x="795.0" y="150" fill="#010101" fill-opacity=".3" transform="scale(0.1)" textLength="350.0" lengthAdjust="spacing">2.13.9</text>
-            <text x="795.0" y="140" transform="scale(0.1)" textLength="350.0" lengthAdjust="spacing">2.13.9</text>
+    <linearGradient id="smooth" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="round">
+        <rect width="103.0" height="20" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#round)">
+        <rect width="58.0" height="20" fill="#555" />
+        <rect x="58.0" width="45.0" height="20" fill="#007ec6" />
+        <rect width="103.0" height="20" fill="url(#smooth)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="110">
+        <image x="5" y="3" width="14" height="14" xlink:href="https://github.com/PyCQA/pylint/tree/main/doc/logo.svg" />
+        <text x="385.0" y="150" fill="#010101" fill-opacity=".3" transform="scale(0.1)" textLength="310.0" lengthAdjust="spacing">pylint</text>
+        <text x="385.0" y="140" transform="scale(0.1)" textLength="310.0" lengthAdjust="spacing">pylint</text>
+        <text x="795.0" y="150" fill="#010101" fill-opacity=".3" transform="scale(0.1)" textLength="350.0" lengthAdjust="spacing">2.13.9</text>
+        <text x="795.0" y="140" transform="scale(0.1)" textLength="350.0" lengthAdjust="spacing">2.13.9</text>
+        <a xlink:href="">
             <rect width="58.0" height="20" fill="rgba(0,0,0,0)" />
+        </a>
+        <a xlink:href="https://www.pylint.org/">
             <rect x="58.0" width="45.0" height="20" fill="rgba(0,0,0,0)" />
-        </g>
-    </a>
+        </a>
+    </g>
 </svg>
