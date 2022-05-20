@@ -112,16 +112,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1049"
      id="namedview111"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-grids="false"
      inkscape:zoom="4.7369289"
-     inkscape:cx="94.948414"
+     inkscape:cx="58.426861"
      inkscape:cy="0.51208553"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg109">
@@ -129,14 +129,14 @@
        position="126,-17.315942"
        orientation="1,0"
        id="guide117"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="63,4.4782609"
        orientation="1,0"
        id="guide119"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
@@ -189,64 +189,6 @@
        x="0"
        y="0"
        style="fill:url(#smooth)" />
-  </g>
-  <g
-     font-size="110"
-     id="g107"
-     style="font-size:110px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff"
-     transform="scale(1.223301,1)">
-    <text
-       x="320"
-       y="130"
-       textLength="310"
-       lengthAdjust="spacing"
-       id="text91"
-       style="fill:#010101;fill-opacity:0.3"
-       transform="scale(0.1)">pylint</text>
-    <text
-       x="320"
-       y="130"
-       textLength="310"
-       lengthAdjust="spacing"
-       id="text93"
-       transform="scale(0.1)">pylint</text>
-    <text
-       x="760"
-       y="130"
-       textLength="350"
-       lengthAdjust="spacing"
-       id="text95"
-       style="fill:#010101;fill-opacity:0.3"
-       transform="scale(0.1)">2.13.9</text>
-    <text
-       x="760"
-       y="130"
-       textLength="350"
-       lengthAdjust="spacing"
-       id="text97"
-       transform="scale(0.1)">2.13.9</text>
-    <a
-       xlink:href="https://github.com/nixe64/"
-       id="a101">
-      <rect
-         width="58"
-         height="20"
-         fill="rgba(0,0,0,0)"
-         id="rect99"
-         x="0"
-         y="0" />
-    </a>
-    <a
-       xlink:href="https://www.pylint.org/"
-       id="a105">
-      <rect
-         x="58"
-         width="45"
-         height="20"
-         fill="rgba(0,0,0,0)"
-         id="rect103"
-         y="0" />
-    </a>
   </g>
   <g
      transform="matrix(0.11026326,0,0,0.11026326,-2.2440674,-2.9608655)"
@@ -351,5 +293,63 @@
            sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
       </g>
     </g>
+  </g>
+  <g
+     font-size="110"
+     id="g107"
+     style="font-size:110px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff"
+     transform="scale(1.223301,1)">
+    <text
+       x="320"
+       y="130"
+       textLength="310"
+       lengthAdjust="spacing"
+       id="text91"
+       style="fill:#010101;fill-opacity:0.3"
+       transform="scale(0.1)">pylint</text>
+    <text
+       x="320"
+       y="130"
+       textLength="310"
+       lengthAdjust="spacing"
+       id="text93"
+       transform="scale(0.1)">pylint</text>
+    <text
+       x="760"
+       y="130"
+       textLength="350"
+       lengthAdjust="spacing"
+       id="text95"
+       style="fill:#010101;fill-opacity:0.3"
+       transform="scale(0.1)">2.13.9</text>
+    <text
+       x="760"
+       y="130"
+       textLength="350"
+       lengthAdjust="spacing"
+       id="text97"
+       transform="scale(0.1)">2.13.9</text>
+    <a
+       xlink:href="https://github.com/nixe64/"
+       id="a101">
+      <rect
+         width="58"
+         height="20"
+         fill="rgba(0,0,0,0)"
+         id="rect99"
+         x="0"
+         y="0" />
+    </a>
+    <a
+       xlink:href="https://www.pylint.org/"
+       id="a105">
+      <rect
+         x="58"
+         width="45"
+         height="20"
+         fill="rgba(0,0,0,0)"
+         id="rect103"
+         y="0" />
+    </a>
   </g>
 </svg>
