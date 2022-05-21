@@ -10,9 +10,9 @@ For help and questions about using one of my projects, please use the [Stack Ove
 
 ### Support Policy
 
-Technical support for the software in my repositories is very limited. This is free software and for that reason the license already says:
+The technical support for the software in my repositories is only possible to a very limited extent. This is free software and for this reason the [license agreement](LICENSE_AGREEMENT) already states::
 
-This program is distributed in the hope that it will be useful,
+**This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    [GNU General Public License](LICENSE.md) for more details
+    [GNU General Public License](LICENSE.md) for more details**
