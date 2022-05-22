@@ -1,5 +1,3 @@
-<one line to give the program's name and a brief idea of what it does.>
-
 This project is based on a Home Assistant Integration
 
 Copyright &copy; home-assistant.io
@@ -9,6 +7,9 @@ you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
 [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+<one line to give the program's name and a brief idea of what it does.>
+
 
 Unless required by applicable law or agreed to in writing, software
 distributed under this License is distributed on an **"AS IS"** basis,
