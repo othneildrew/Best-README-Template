@@ -1,8 +1,10 @@
 <one line to give the program's name and a brief idea of what it does.>
 
-Copyright &copy; &lt;year&gt; Andreas Nixdorf
+This project is based on a Home Assistant Integration
 
-Licensed under the Apache License, Version 2.0 [(the "License")](LICENSE.md);
+Copyright &copy; home-assistant.io
+
+Licensed under the Apache License, Version 2.0 [(the "License")](APACHE_LICENSE_EN.md);
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
