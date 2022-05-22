@@ -1,13 +1,18 @@
 <p>
-  <!--<img alt="OSI Approved License Logo" hspace="20" src="images/OSI_Approved_License.png" align="right" width="150" />-->
+  <img alt="OSI Approved License Logo" hspace="20" src="images/OSI_Approved_License.png" align="right" width="150" />
 </p>
-<h1 height="100" valign="center">
-  Apache License, Version 2.0
-</h1>
-
-
-<h1 align="center">Apache License</h1>
-<p align="center">Version 2.0, January 2004<br/> http://www.apache.org/licenses/</p>
+<p>
+  <h1 align="center">
+    <img src="images/1x1.png" height="50" width="1" />
+    Apache License
+  </h1>
+  <p align="center">
+	Version 2.0, January 2004<br/> <a href="http://www.apache.org/licenses/">http://www.apache.org/licenses/</a>
+  </p>
+  <p>
+    <img src="images/1x1.png" height="50" width="1" />
+  </p>
+</p>
 
 <h3 align="center">TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION</h3>
 
