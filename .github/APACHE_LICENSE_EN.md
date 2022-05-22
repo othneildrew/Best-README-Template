@@ -1,4 +1,4 @@
-<p><img alt="OSI Approved License Logo" hspace="20" src="/files/OSI_Approved_License.png" style="float:right" width="150" /></p>
+<p><img alt="OSI Approved License Logo" hspace="20" src="images/OSI_Approved_License.png" style="float:right" width="150" /></p>
 
 <p>Apache License<br />
 Version 2.0, January 2004<br />
