@@ -11,8 +11,7 @@ Deutsche Übersetzung der Version 3, 29. Juni 2007
 </strong></p>
 <p align="center"><strong>
 Copyright &copy; 2007 Free Software Foundation, Inc.
-(<a href="http://fsf.org/">http://fsf.org/</a>)<br />
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA
+(<a href="http://fsf.org/">http://fsf.org/</a>)
 </strong></p>
   <p>
     <img src="images/1x1.png" height="50" width="1" />
