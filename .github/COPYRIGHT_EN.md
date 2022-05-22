@@ -1,6 +1,6 @@
 This project is based on a Home Assistant Integration
 
-Copyright &copy; home-assistant.io
+Copyright &copy; [home-assistant.io](https://www.home-assistant.io)
 
 Licensed under the Apache License, Version 2.0 [(the "License")](APACHE_LICENSE_EN.md);
 you may not use this file except in compliance with the License.
