@@ -1,14 +1,24 @@
-<p align="right"><a href="LICENSE_EN.md"><sub>Englih Version</sub></a></p>
-<h1 align="center">GNU General Public License</h1>
-
+<p>
+  <a href="https://opensource.org/"><img alt="OSI Approved License Logo" hspace="20" src="images/OSI_Approved_License.png" align="right" width="150" /></a>
+</p>
+<p>
+  <p align="right"><a href="LICENSE_EN.md"><sub>Englih Version</sub></a></p>
+  <h1 align="center">
+    GNU General Public License
+  </h1>
 <p align="center"><strong>
 Deutsche Übersetzung der Version 3, 29. Juni 2007
 </strong></p>
 <p align="center"><strong>
 Copyright &copy; 2007 Free Software Foundation, Inc.
-(<a href="http://fsf.org/">http://fsf.org/</a>)
+(<a href="http://fsf.org/">http://fsf.org/</a>)<br />
 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA
 </strong></p>
+  <p>
+    <img src="images/1x1.png" height="50" width="1" />
+  </p>
+</p>
+
 <p>
 Es ist jedermann gestattet, diese Lizenzurkunde zu vervielfältigen
 und unveränderte Kopien zu verbreiten; Änderungen sind jedoch
@@ -16,10 +26,10 @@ nicht erlaubt.
 </p>
 <p><strong>
 Diese Übersetzung ist kein rechtskräftiger Ersatz für die
-<a href="GPL_LICENSE_EN.md">englischsprachige
+<a href="LICENSE_EN.md">englischsprachige
 Originalversion</a>!
 </strong></p>
-<h2>Vorwort</h2>
+<h2 align="center">Vorwort</h2>
 <p>
 Die GNU General Public License &ndash; die Allgemeine Öffentliche
 GNU-Lizenz &ndash; ist eine freie Copyleft-Lizenz für Software und
@@ -112,8 +122,8 @@ zu machen.
 Es folgen die präzisen Bedingungen für das Kopieren, Verbreiten
 und Modifizieren.
 </p>
-<h2>LIZENZBEDINGUNGEN</h2>
-<h3>0. Definitionen</h3>
+<h2 align="center">LIZENZBEDINGUNGEN</h2>
+<h3 align="center">0. Definitionen</h3>
 <p>
 &bdquo;Diese Lizenz&ldquo; bezieht sich auf die Version 3 der GNU
 General Public License.
@@ -173,7 +183,7 @@ die Benutzerschnittstelle eine Liste von Benutzerkommandos oder
 Optionen anzeigt, zum Beispiel ein Menü, dann erfüllt ein deutlich
 sichtbarer Punkt in dieser Liste dieses Kriterium.
 </p>
-<h3>1. Quelltext</h3>
+<h3 align="center">1. Quelltext</h3>
 <p>
 Der &bdquo;Quelltext&ldquo; eines Werkes bezeichnet diejenige Form
 des Werkes, die für Bearbeitungen vorzugsweise verwendet wird.
@@ -231,7 +241,7 @@ automatisch regenerieren kann.
 Der korrespondierende Quelltext eines Werks in Quelltextform ist
 das Werk selbst.
 </p>
-<h3>2. Grundlegende Genehmigungen</h3>
+<h3 align="center">2. Grundlegende Genehmigungen</h3>
 <p>
 Alle unter dieser Lizenz gewährten Rechte werden gewährt auf
 Grundlage des Urheberrechts an dem Programm, und sie sind
@@ -264,7 +274,7 @@ geschützten Materials anzufertigen.
 aufgeführten Bedingungen gestattet. Unterlizensierung ist nicht
 gestattet, ist aber wegen &sect;10 unnötig.
 </p>
-<h3>3. Schutz von Anwenderrechten vor Umgehungsverbotgesetzen</h3>
+<h3 align="center">3. Schutz von Anwenderrechten vor Umgehungsverbotgesetzen</h3>
 <p>
 Kein betroffenes Werk darf als Teil eines wirksamen technischen
 Mechanismus' unter jedwedem anwendbarem Recht betrachtet werden,
@@ -283,7 +293,7 @@ des Werks zu beschränken, um Ihre Rechtsansprüche oder
 Rechtsansprüche Dritter zum Verbot der Umgehung technischer
 Mechanismen gegen die Anwender des Werks durchzusetzen.
 </p>
-<h3>4. Unveränderte Kopien</h3>
+<h3 align="center">4. Unveränderte Kopien</h3>
 <p>
 Sie dürfen auf beliebigen Medien unveränderte Kopien des
 Quelltextes des Programms, wie sie ihn erhalten, übertragen,
@@ -300,7 +310,7 @@ Sie dürfen für jede übertragene Kopie ein Entgelt &ndash; oder
 auch kein Entgelt &ndash; verlangen, und Sie dürfen Kundendienst-
 oder Garantieleistungen gegen Entgelt anbieten.
 </p>
-<h3>5. Übertragung modifizierter Quelltextversionen</h3>
+<h3 align="center">5. Übertragung modifizierter Quelltextversionen</h3>
 <p>
 Sie dürfen ein auf dem Programm basierendes Werk oder die nötigen
 Modifikationen, um es aus dem Programm zu generieren, kopieren und
@@ -369,7 +379,7 @@ einzuschränken, als dies die einzelnen Werke erlauben. Die
 Aufnahme des betroffenen Werks in ein Aggregat sorgt nicht dafür,
 daß diese Lizenz auf die anderen Teile des Aggregats wirke.
 </p>
-<h3>6. Übertragung in Nicht-Quelltext-Form</h3>
+<h3 align="center">6. Übertragung in Nicht-Quelltext-Form</h3>
 <p>
 Sie dürfen ein betroffenes Werk in Form von Objekt-Code unter den
 Bedingungen der Paragraphen 4 und 5 kopieren und übertragen
@@ -528,7 +538,7 @@ Form von Quelltext öffentlich zugänglich ist), und sie dürfen
 keine speziellen Passwörter oder Schlüssel für das Auspacken,
 Lesen oder Kopieren erfordern.
 </p>
-<h3>7. Zusätzliche Bedingungen</h3>
+<h3 align="center">7. Zusätzliche Bedingungen</h3>
 <p>
 &bdquo;Zusätzliche Genehmigungen&ldquo; sind Bedingungen, die die
 Bedingungen dieser Lizenz ergänzen, indem sie Ausnahmen von einer
@@ -638,7 +648,7 @@ Einschränkungen, dürfen in Form einer separaten schriftlichen
 Lizenz oder in Form von Ausnahmen festgelegt werden; die o.a.
 Anforderungen gelten in jedem Fall.
 </p>
-<h3>8. Kündigung</h3>
+<h3 align="center">8. Kündigung</h3>
 <p>
 Sie dürfen das Programm nicht verbreiten oder modifizieren, sofern
 es nicht durch diese Lizenz ausdrücklich gestattet ist. Jeder
@@ -672,7 +682,7 @@ dauerhaft wiederhergestellt worden sind, sind Sie nicht
 berechtigt, neue Lizenzen für dasselbe Material gemäß &sect;10 zu
 erhalten.
 </p>
-<h3>9. Annahme der Lizenz keine Voraussetzung für den Besitz von Kopien</h3>
+<h3 align="center">9. Annahme der Lizenz keine Voraussetzung für den Besitz von Kopien</h3>
 <p>
 Um eine Kopie des Programms auszuführen, ist es nicht
 erforderlich, daß Sie diese Lizenz annehmen. Die nebenbei
@@ -687,7 +697,7 @@ nicht anerkennen. Indem Sie daher ein betroffenes Werk verändern
 oder propagieren, erklären Sie Ihr Einverständnis mit dieser
 Lizenz, die Ihnen diese Tätigkeiten erlaubt.
 </p>
-<h3>10. Automatische Lizensierung nachgeordneter Anwender</h3>
+<h3 align="center">10. Automatische Lizensierung nachgeordneter Anwender</h3>
 <p>
 Jedesmal, wenn Sie ein betroffenes Werk übertragen, erhält der
 Empfänger automatisch vom ursprünglichen Lizenzgeber die Lizenz,
@@ -722,7 +732,7 @@ Patentanspruch durch Erzeugung, Anwendung, Verkauf,
 Verkaufsangebot oder Import des Programms oder irgendeines Teils
 davon verletzt wurde.
 </p>
-<h3>11. Patente</h3>
+<h3 align="center">11. Patente</h3>
 <p>
 Ein &bdquo;Kontributor&ldquo; ist ein Urheberrechtsinhaber, der
 die Benutzung des Programms oder eines auf dem Programm
@@ -817,7 +827,7 @@ irgendeine implizite Lizenz oder sonstige Abwehr gegen
 Rechtsverletzung ausschließt oder begrenzt, die Ihnen ansonsten
 gemäß anwendbarem Patentrecht zustünde.
 </p>
-<h3>12. Keine Preisgabe der Freiheit Dritter</h3>
+<h3 align="center">12. Keine Preisgabe der Freiheit Dritter</h3>
 </p>
 <p>
 Sollten Ihnen (durch Gerichtsbeschluß, Vergleich oder anderweitig)
@@ -834,7 +844,7 @@ besteht der einzige Weg, sowohl jene Bedingungen als auch diese
 Lizenz zu befolgen darin, ganz auf die Übertragung des Programms
 zu verzichten.
 </p>
-<h3>13. Nutzung zusammen mit der GNU Affero General Public License</h3>
+<h3 align="center">13. Nutzung zusammen mit der GNU Affero General Public License</h3>
 <p>
 Ungeachtet anderer Regelungen dieser Lizenz, ist es Ihnen
 gestattet, ein betroffenes Werk mit einem Werk zu einem einzelnen,
@@ -847,7 +857,7 @@ General Public License, &sect;13, die sich auf Interaktion über
 ein Computer-Netzwerk beziehen, werden auf die Kombination als
 solche anwendbar.
 </p>
-<h3>14. Überarbeitungen dieser Lizenz</h3>
+<h3 align="center">14. Überarbeitungen dieser Lizenz</h3>
 <p>
 Die Free Software Foundation kann von Zeit zu Zeit überarbeitete
 und/oder neue Versionen der <em>General Public License</em>
@@ -867,7 +877,7 @@ wurde. Wenn das Programm keine Versionsnummer angibt, können Sie
 eine beliebige Version wählen, die je von der Free Software
 Foundation veröffentlicht wurde.
 </p>
-<h3>15. Gewährleistungsausschluß</h3>
+<h3 align="center">15. Gewährleistungsausschluß</h3>
 <p><strong>
 Es besteht keinerlei Gewährleistung für das Programm, soweit dies
 gesetzlich zulässig ist. Sofern nicht anderweitig schriftlich
@@ -881,7 +891,7 @@ und Leistungsfähigkeit des Programms liegt bei Ihnen. Sollte sich
 das Programm als fehlerhaft herausstellen, liegen die Kosten für
 notwendigen Service, Reparatur oder Korrektur bei Ihnen.
 </strong></p>
-<h3>16. Haftungsbegrenzung</h3>
+<h3 align="center">16. Haftungsbegrenzung</h3>
 <p><strong>
 In keinem Fall, außer wenn durch geltendes Recht gefordert oder
 schriftlich zugesichert, ist irgendein Urheberrechtsinhaber oder
@@ -898,7 +908,7 @@ irgendeinem anderen Programm zusammenzuarbeiten), selbst wenn ein
 Urheberrechtsinhaber oder Dritter über die Möglichkeit solcher
 Schäden unterrichtet worden war.
 </strong></p>
-<h3>17. Interpretation von &sect;&sect; 15 und 16</h3>
+<h3 align="center">17. Interpretation von &sect;&sect; 15 und 16</h3>
 <p>
 Sollten der o.a. Gewährleistungsausschluß und die o.a.
 Haftungsbegrenzung aufgrund ihrer Bedingungen gemäß lokalem Recht
@@ -908,8 +918,8 @@ in Zusammenhang mit dem Programm am nächsten kommt, es sei denn,
 dem Programm lag eine entgeltliche Garantieerklärung oder
 Haftungsübernahme bei.
 </p>
-<h2>ENDE DER LIZENZBEDINGUNGEN</h2>
-<h2>
+<h2 align="center">ENDE DER LIZENZBEDINGUNGEN</h2>
+<h2 align="center">
 Wie Sie diese Bedingungen auf Ihre eigenen, neuen Programme
 anwenden können
 </h2>
@@ -1054,6 +1064,3 @@ Es ist gebührenfrei gestattet, diesen Artikel als Ganzes und
 unverändert in beliebigen Medien zu kopieren und weiterzugeben,
 sofern dieser Hinweis erhalten bleiben.
 </p>
-</div>
-</body>
-</html>
