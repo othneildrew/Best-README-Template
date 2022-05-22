@@ -1,3 +1,4 @@
+<p align="right"><a href="LICENSE_EN.md"><sub>Englih Version</sub></a></p>
 <h1 align="center">GNU General Public License</h1>
 
 <p align="center"><strong>
