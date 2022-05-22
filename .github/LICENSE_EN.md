@@ -1,3 +1,4 @@
+<p align="right"><a href="LICENSE.md"><sub>Deutsche Version</sub></a></p>
 <h1  align="center""><div>
 GNU General Public License
 </div></h1>
