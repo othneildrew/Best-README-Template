@@ -1,12 +1,17 @@
-<p><img alt="OSI Approved License Logo" hspace="20" src="images/OSI_Approved_License.png" style="float:right" width="150" /></p>
+<p>
+  <!--<img alt="OSI Approved License Logo" hspace="20" src="images/OSI_Approved_License.png" align="right" width="150" />-->
+</p>
+<h1 height="100" valign="center">
+  Apache License, Version 2.0
+</h1>
 
-<p>Apache License<br />
-Version 2.0, January 2004<br />
-http://www.apache.org/licenses/</p>
 
-<p>TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION</p>
+<h1 align="center">Apache License</h1>
+<p align="center">Version 2.0, January 2004<br/> http://www.apache.org/licenses/</p>
 
-<p>1. Definitions.</p>
+<h3 align="center">TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION</h3>
+
+<h4 align="center">1. Definitions.</h4>
 
 <p>"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.</p>
 
