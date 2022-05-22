@@ -14,9 +14,9 @@
     <img src="images/1x1.png" height="50" width="1" />
   </p>
 </p>
-<p>BEDINGUNGEN F&Uuml;R DIE NUTZUNG, VERVIELF&Auml;LTIGUNG UND VERBREITUNG</p>
+<h3 align="center">BEDINGUNGEN F&Uuml;R DIE NUTZUNG, VERVIELF&Auml;LTIGUNG UND VERBREITUNG</h3>
 
-<h6 class="u-font-brand-medium">1. Definitionen.</h6>
+<h3 align="center">1. Definitionen.</h4>
 
 <p>&bdquo;Lizenz&ldquo; bezeichnet die Bedingungen f&uuml;r die Nutzung, Vervielf&auml;ltigung und Verbreitung gem&auml;&szlig; Definition in den Abschnitten 1 bis 9 dieses Dokuments.</p>
 
@@ -38,15 +38,15 @@
 
 <p>&bdquo;Beitragsleistender&ldquo; bezeichnet den Lizenzgeber und jede nat&uuml;rliche oder juristische Person, in deren Auftrag der Lizenzgeber einen Beitrag erh&auml;lt, der anschlie&szlig;end in das Werk aufgenommen wurde.</p>
 
-<h6 class="u-font-brand-medium">2. Gew&auml;hrung einer Urheberrechtslizenz.</h6>
+<h4 align="center">2. Gew&auml;hrung einer Urheberrechtslizenz.</h4>
 
 <p>Vorbehaltlich den Bedingungen dieser Lizenz gew&auml;hrt Ihnen hiermit jeder Beitragsleistende eine unbefristete, weltweite, nicht ausschlie&szlig;liche, kostenlose, geb&uuml;hrenfreie, unwiderrufliche Urheberrechtslizenz zur Vervielf&auml;ltigung, Anfertigung von Bearbeitungen, zur &ouml;ffentlichen Ausstellung, Auff&uuml;hrung, Unterlizenzierung und Verbreitung des Werks und derartiger Bearbeitungen in Quell- oder Objektform.</p>
 
-<h6 class="u-font-brand-medium">3. Gew&auml;hrung einer Patentlizenz.</h6>
+<h4 align="center">3. Gew&auml;hrung einer Patentlizenz.</h4>
 
 <p>Vorbehaltlich den Bedingungen dieser Lizenz gew&auml;hrt Ihnen hiermit jeder Beitragsleistende eine unbefristete, weltweite, nicht ausschlie&szlig;liche, kostenlose, geb&uuml;hrenfreie, unwiderrufliche (ausgenommen gem&auml;&szlig; den Angaben in diesem Abschnitt) Patentlizenz, um das Werk herzustellen, herstellen zu lassen, zu verwenden, es zum Verkauf anzubieten, zu verkaufen, zu importieren und anderweitig zu &uuml;bertragen, wobei diese Lizenz nur f&uuml;r Patentanspr&uuml;che von Beitragsleistenden gilt, sofern deren Beitr&auml;ge allein oder die Kombination ihrer Beitr&auml;ge mit dem Werk, f&uuml;r das diese Beitr&auml;ge eingereicht wurden, dieses Patent verletzen. Falls Sie gegen einen Rechtstr&auml;ger ein gerichtliches Patentverfahren einleiten (einschlie&szlig;lich Gegenforderung oder Gegenklage in einem Rechtsstreit) und dabei vorbringen, dass das Werk oder ein in das Werk eingearbeiteter Beitrag eine direkte Patentverletzung oder einen dazu beitragenden Faktor darstellt, so enden alle Patentlizenzen, die Ihnen im Rahmen dieser Lizenz f&uuml;r dieses Werk gew&auml;hrt wurden, mit dem Datum, an dem diese Klage eingereicht wird.</p>
 
-<h6 class="u-font-brand-medium">4. Weiterverbreitung.</h6>
+<h4 align="center">4. Weiterverbreitung.</h4>
 
 <p>Sie d&uuml;rfen Kopien des Werks oder von Bearbeitungen auf jedem Medium, mit oder ohne &Auml;nderungen und in Quell- oder Objektform vervielf&auml;ltigen und verbreiten, vorausgesetzt, Sie erf&uuml;llen die folgenden Bedingungen:</p>
 
@@ -65,19 +65,19 @@
 	</li>
 </ol>
 
-<h6 class="u-font-brand-medium">5. Einreichung von Beitr&auml;gen.</h6>
+<h4 align="center">5. Einreichung von Beitr&auml;gen.</h4>
 
 <p>Sofern nichts ausdr&uuml;cklich anderes angegeben, unterliegt jeder Beitrag, den Sie dem Lizenzgeber bewusst zur Aufnahme in das Werk eingereicht haben, den Bedingungen dieser Lizenz, ohne dass zus&auml;tzliche Bedingungen gelten. Ungeachtet des Vorstehenden ersetzt oder &auml;ndert keine der hierin enthaltenen Bestimmungen die Bedingungen einer separaten Lizenzvereinbarung, die Sie m&ouml;glicherweise mit dem Lizenzgeber f&uuml;r solche Beitr&auml;ge abgeschlossen haben.</p>
 
-<h6 class="u-font-brand-medium">6. Marken.</h6>
+<h4 align="center">6. Marken.</h4>
 
 <p>Mit dieser Lizenz wird keine Genehmigung zur Nutzung der Handelsnamen, Marken, Dienstleistungsmarken oder Produktnamen des Lizenzgebers erteilt, mit Ausnahme der Erfordernisse der angemessenen und &uuml;blichen Nutzung zur Beschreibung der Herkunft des Werks und zur Wiedergabe des Inhaltes der NOTICE-Datei.</p>
 
-<h6 class="u-font-brand-medium">7. Gew&auml;hrleistungsausschluss.</h6>
+<h4 align="center">7. Gew&auml;hrleistungsausschluss.</h4>
 
 <p>Sofern nicht gem&auml;&szlig; geltendem Recht erforderlich oder schriftlich vereinbart, stellt der Lizenzgeber das Werk (und stellt jeder Beitragsleistende seine Beitr&auml;ge) WIE BESEHEN OHNE GEW&Auml;HR ODER VORBEHALTE &ndash; ganz gleich, ob ausdr&uuml;cklich oder stillschweigend &ndash; bereit, insbesondere Gew&auml;hrleistungen oder Vorbehalten des EIGENTUMS, NICHTVERLETZUNG VON RECHTEN DRITTER, HANDELS&Uuml;BLICHKEIT oder EIGNUNG F&Uuml;R EINEN BESTIMMTEN ZWECK. Sie allein sind verantwortlich f&uuml;r die Beurteilung, ob die Nutzung oder Weiterverbreitung des Werks angemessen ist, und &uuml;bernehmen die Risiken, die mit Ihrer Aus&uuml;bung der Genehmigungen gem&auml;&szlig; dieser Lizenz verbunden sind.</p>
 
-<h6 class="u-font-brand-medium">8. Haftungsbeschr&auml;nkung.</h6>
+<h4 align="center">8. Haftungsbeschr&auml;nkung.</h4>
 
 <p>In keinem Fall und auf keiner Rechtsgrundlage, sei es aufgrund unerlaubter Handlung (einschlie&szlig;lich Fahrl&auml;ssigkeit), Vertrag, oder anderer Grundlage, soweit nicht gem&auml;&szlig; geltendem Recht vorgeschrieben (z. B. absichtliche und grob fahrl&auml;ssige Handlungen) oder schriftlich vereinbart, haftet der Beitragsleistende Ihnen gegen&uuml;ber f&uuml;r Sch&auml;den, einschlie&szlig;lich direkter, indirekter, konkreter, beil&auml;ufig entstandener Sch&auml;den oder Folgesch&auml;den jeglicher Art, die infolge dieser Lizenz oder aufgrund der Nutzung oder der Unf&auml;higkeit zur Nutzung des Werks entstehen (insbesondere Sch&auml;den durch Verlust des Firmenwerts, Arbeitsunterbrechung, Computerausfall oder Betriebsst&ouml;rung oder alle sonstigen wirtschaftlichen Sch&auml;den oder Verluste), selbst dann, wenn diese Beitragsleistenden auf die M&ouml;glichkeit solcher Sch&auml;den hingewiesen wurden.</p>
 
