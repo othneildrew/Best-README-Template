@@ -4,8 +4,7 @@
 Deutsche Übersetzung der Version 3, 29. Juni 2007
 </strong></p>
 <p align="center"><strong>
-Copyright &copy; 2007 Free Software Foundation, Inc.
-(<a href="http://fsf.org/">http://fsf.org/</a>)
+Copyright &copy; 2007 [Free Software Foundation, Inc.](http://fsf.org/)
 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA
 </strong></p>
 <p>
