@@ -1,3 +1,4 @@
+<p align="right"><sub>Die Lizenz ist auch auf [Deutch](APACHE_LICENSE_DE.md) verf&uuml;gbar.</sub></p>
 <p>
   <img alt="OSI Approved License Logo" hspace="20" src="images/OSI_Approved_License.png" align="right" width="150" />
 </p>
