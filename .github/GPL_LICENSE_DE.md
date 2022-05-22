@@ -4,7 +4,8 @@
 Deutsche Übersetzung der Version 3, 29. Juni 2007
 </strong></p>
 <p align="center"><strong>
-Copyright &copy; 2007 [Free Software Foundation, Inc.](http://fsf.org/)
+Copyright &copy; 2007 Free Software Foundation, Inc.
+(<a href="http://fsf.org/">http://fsf.org/</a>)
 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA
 </strong></p>
 <p>
@@ -14,7 +15,7 @@ nicht erlaubt.
 </p>
 <p><strong>
 Diese Übersetzung ist kein rechtskräftiger Ersatz für die
-<a href="http://www.gnu.org/licenses/gpl.html">englischsprachige
+<a href="GPL_LICENSE_EN.md">englischsprachige
 Originalversion</a>!
 </strong></p>
 <h2>Vorwort</h2>
