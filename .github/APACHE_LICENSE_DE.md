@@ -85,16 +85,28 @@
 
 <p>Bei der Weiterverbreitung des Werks oder der Bearbeitungen desselben steht es Ihnen frei, die &Uuml;bernahme von Support, Gew&auml;hrleistung, Schadenersatz oder sonstiger Haftungsverpflichtungen und/oder Rechte gem&auml;&szlig; dieser Lizenz anzubieten und eine Geb&uuml;hr daf&uuml;r zu erheben. Bei der &Uuml;bernahme solcher Verpflichtungen k&ouml;nnen Sie jedoch nur in eigenem Namen und auf eigene Verantwortung handeln, nicht jedoch im Namen anderer Beitragsleistender, und nur dann, wenn Sie einwilligen, jeden Beitragsleistenden zu entsch&auml;digen, zu verteidigen, und von jeder Haftung, die durch diesen Beitragsleistenden aufgrund der &Uuml;bernahme dieser Gew&auml;hrleistung oder zus&auml;tzlicher Haftung eingegangen wird, oder von gegen ihn erhobenen Anspr&uuml;chen, schadlos zu halten.</p>
 
-<h4 align="center">ENDE DER LIZENZBEDINGUNGEN</h4>
+<h3 align="center">ENDE DER LIZENZBEDINGUNGEN</h3>
 
-<h4 align="center"">ANHANG: Anwendung der Apache-Lizenz auf Ihr Werk</h4>
+<h3 align="center"">ANHANG: Anwendung der Apache-Lizenz auf Ihr Werk</h3>
 
-<p>&nbsp;</p>
-
+<blockquote>
 <p>Zur Anwendung der Apache-Lizenz auf Ihr Werk h&auml;ngen Sie ihm den folgenden Standardhinweis an, wobei Sie die von eckigen Klammern &bdquo;[]&ldquo; eingeschlossenen Felder durch Ihre eigenen Angaben ersetzen. (Die eckigen Klammern dabei weglassen!) Der Text muss von der entsprechenden Kommentarsyntax f&uuml;r das Dateiformat umschlossen sein. Wir empfehlen au&szlig;erdem, einen Datei- oder Klassennamen und eine Beschreibung des Zwecks auf derselben Druckseite wie der Urheberrechtshinweis anzugeben, damit das Auffinden in den Archiven Dritter erleichtert wird.</p>
 
-<p>Copyright [JJJJ] [Name des Urheberrechtsinhabers]</p>
+<pre>   Copyright [JJJJ] [Name des Urheberrechtsinhabers]
+   Lizenziert gem&auml;&szlig; Apache Licence Version 2.0 (die &bdquo;Lizenz&ldquo;); 
+   Nutzung dieser Datei nur in &Uuml;bereinstimmung mit der Lizenz 
+   erlaubt. Eine Kopie der Lizenz erhalten Sie auf
 
-<p>Lizenziert gem&auml;&szlig; Apache Licence Version 2.0 (die &bdquo;Lizenz&ldquo;); Nutzung dieser Datei nur in &Uuml;bereinstimmung mit der Lizenz erlaubt. Eine Kopie der Lizenz erhalten Sie auf http://www.apache.org/licenses/LICENSE-2.0.</p>
+     http://www.apache.org/licenses/LICENSE-2.0.
 
-<p>Sofern nicht gem&auml;&szlig; geltendem Recht vorgeschrieben oder schriftlich vereinbart, erfolgt die Bereitstellung der im Rahmen der Lizenz verbreiteten Software OHNE GEW&Auml;HR ODER VORBEHALTE &ndash; ganz gleich, ob ausdr&uuml;cklich oder stillschweigend. Informationen &uuml;ber die jeweiligen Bedingungen f&uuml;r Genehmigungen und Einschr&auml;nkungen im Rahmen der Lizenz finden Sie in der Lizenz.</p>
+   Sofern nicht gem&auml;&szlig; geltendem Recht vorgeschrieben 
+   oder schriftlich vereinbart, erfolgt die Bereitstellung der im 
+   Rahmen der Lizenz verbreiteten Software OHNE GEW&Auml;HR ODER 
+   VORBEHALTE &ndash; ganz gleich, ob ausdr&uuml;cklich oder 
+   stillschweigend. Informationen &uuml;ber die jeweiligen Bedingungen 
+   f&uuml;r Genehmigungen und Einschr&auml;nkungen im Rahmen der Lizenz 
+   finden Sie in der Lizenz.
+</pre>
+</blockquote>
+
+<sub>This LICENSE is available in [english](APACHE_LICENSE_EN.md), too.
