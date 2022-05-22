@@ -109,4 +109,4 @@
 </pre>
 </blockquote>
 
-<sub>This LICENSE is available in [english](APACHE_LICENSE_EN.md), too.
+<sub>The LICENSE is available in [english](APACHE_LICENSE_EN.md), too.
