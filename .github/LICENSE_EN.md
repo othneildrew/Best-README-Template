@@ -1,3 +1,7 @@
+<p>
+  <a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/OSI_Approved_License.png" align="right" width="150" /></a>
+</p>
+<p>
 <p align="right"><a href="LICENSE.md"><sub>Deutsche Version</sub></a></p>
 <h1  align="center""><div>
 GNU General Public License
@@ -10,12 +14,18 @@ Copyright &copy; 2007 Free Software Foundation, Inc.
 (<a href="http://fsf.org">http://fsf.org</a>)
 </strong></p>
 <p>
+  <p>
+    <img src="images/1x1.png" height="50" width="1" />
+  </p>
+</p>
+
+
 Everyone is permitted to copy and distribute verbatim copies of
 this license document, but changing it is not allowed.
 This page mirrors the text from
 <a href="http://www.gnu.org/licenses/gpl-3.0.html">http://www.gnu.org/licenses/gpl-3.0.html</a>.
 </p>
-<h2>Preamble</h2>
+<h2 align="center">Preamble</h2>
 <p>
 The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
@@ -93,8 +103,8 @@ render the program non-free.
 The precise terms and conditions for copying, distribution and
 modification follow.
 </p>
-<h2>TERMS AND CONDITIONS</h2>
-<h3>0. Definitions.</h3>
+<h2 align="center">TERMS AND CONDITIONS</h2>
+<h3 align="center">0. Definitions.</h3>
 <p>
 &ldquo;This License&rdquo; refers to version 3 of the GNU General
 Public License.
@@ -146,7 +156,7 @@ view a copy of this License. If the interface presents a list of
 user commands or options, such as a menu, a prominent item in the
 list meets this criterion.
 </p>
-<h3>1. Source Code.</h3>
+<h3 align="center">1. Source Code.</h3>
 <p>
 The &ldquo;source code&rdquo; for a work means the preferred form
 of the work for making modifications to it. &ldquo;Object
@@ -196,7 +206,7 @@ Source.
 The Corresponding Source for a work in source code form is that
 same work.
 </p>
-<h3>2. Basic Permissions.</h3>
+<h3 align="center">2. Basic Permissions.</h3>
 <p>
 All rights granted under this License are granted for the term of
 copyright on the Program, and are irrevocable provided the stated
@@ -225,7 +235,7 @@ Conveying under any other circumstances is permitted solely under
 the conditions stated below. Sublicensing is not allowed; section
 10 makes it unnecessary.
 </p>
-<h3>3. Protecting Users' Legal Rights From Anti-Circumvention Law.</h3>
+<h3 align="center">3. Protecting Users' Legal Rights From Anti-Circumvention Law.</h3>
 <p>
 No covered work shall be deemed part of an effective technological
 measure under any applicable law fulfilling obligations under
@@ -242,7 +252,7 @@ to limit operation or modification of the work as a means of
 enforcing, against the work's users, your or third parties' legal
 rights to forbid circumvention of technological measures.
 </p>
-<h3>4. Conveying Verbatim Copies.</h3>
+<h3 align="center">4. Conveying Verbatim Copies.</h3>
 <p>
 You may convey verbatim copies of the Program's source code as you
 receive it, in any medium, provided that you conspicuously and
@@ -257,7 +267,7 @@ You may charge any price or no price for each copy that you
 convey, and you may offer support or warranty protection for a
 fee.
 </p>
-<h3>5. Conveying Modified Source Versions.</h3>
+<h3 align="center">5. Conveying Modified Source Versions.</h3>
 <p>
 You may convey a work based on the Program, or the modifications
 to produce it from the Program, in the form of source code under
@@ -317,7 +327,7 @@ rights of the compilation's users beyond what the individual works
 permit. Inclusion of a covered work in an aggregate does not cause
 this License to apply to the other parts of the aggregate.
 </p>
-<h3>6. Conveying Non-Source Forms.</h3>
+<h3 align="center">6. Conveying Non-Source Forms.</h3>
 <p>
 You may convey a covered work in object code form under the terms
 of sections 4 and 5, provided that you also convey the
@@ -451,7 +461,7 @@ publicly documented (and with an implementation available to the
 public in source code form), and must require no special password
 or key for unpacking, reading or copying.
 </p>
-<h3>7. Additional Terms.</h3>
+<h3 align="center">7. Additional Terms.</h3>
 <p>
 &ldquo;Additional permissions&rdquo; are terms that supplement the
 terms of this License by making exceptions from one or more of its
@@ -552,7 +562,7 @@ Additional terms, permissive or non-permissive, may be stated in
 the form of a separately written license, or stated as exceptions;
 the above requirements apply either way.
 </p>
-<h3>8. Termination.</h3>
+<h3 align="center">8. Termination.</h3>
 <p>
 You may not propagate or modify a covered work except as expressly
 provided under this License. Any attempt otherwise to propagate or
@@ -583,7 +593,7 @@ you under this License. If your rights have been terminated and
 not permanently reinstated, you do not qualify to receive new
 licenses for the same material under section 10.
 </p>
-<h3>9. Acceptance Not Required for Having Copies.</h3>
+<h3 align="center">9. Acceptance Not Required for Having Copies.</h3>
 <p>
 You are not required to accept this License in order to receive or
 run a copy of the Program. Ancillary propagation of a covered work
@@ -595,7 +605,7 @@ infringe copyright if you do not accept this License. Therefore,
 by modifying or propagating a covered work, you indicate your
 acceptance of this License to do so.
 </p>
-<h3>10. Automatic Licensing of Downstream Recipients.</h3>
+<h3 align="center">10. Automatic Licensing of Downstream Recipients.</h3>
 <p>
 Each time you convey a covered work, the recipient automatically
 receives a license from the original licensors, to run, modify and
@@ -625,7 +635,7 @@ lawsuit) alleging that any patent claim is infringed by making,
 using, selling, offering for sale, or importing the Program or any
 portion of it.
 </p>
-<h3>11. Patents.</h3>
+<h3 align="center">11. Patents.</h3>
 <p>
 A &ldquo;contributor&rdquo; is a copyright holder who authorizes
 use under this License of the Program or a work on which the
@@ -708,7 +718,7 @@ limiting any implied license or other defenses to infringement
 that may otherwise be available to you under applicable patent
 law.
 </p>
-<h3>12. No Surrender of Others' Freedom.</h3>
+<h3 align="center">12. No Surrender of Others' Freedom.</h3>
 <p>
 If conditions are imposed on you (whether by court order,
 agreement or otherwise) that contradict the conditions of this
@@ -722,7 +732,7 @@ convey the Program, the only way you could satisfy both those
 terms and this License would be to refrain entirely from conveying
 the Program.
 </p>
-<h3>13. Use with the GNU Affero General Public License.</h3>
+<h3 align="center">13. Use with the GNU Affero General Public License.</h3>
 <p>
 Notwithstanding any other provision of this License, you have
 permission to link or combine any covered work with a work
@@ -733,7 +743,7 @@ the covered work, but the special requirements of the GNU Affero
 General Public License, section 13, concerning interaction through
 a network will apply to the combination as such.
 </p>
-<h3>14. Revised Versions of this License.</h3>
+<h3 align="center">14. Revised Versions of this License.</h3>
 <p>
 The Free Software Foundation may publish revised and/or new
 versions of the GNU General Public License from time to time. Such
@@ -762,7 +772,7 @@ permissions. However, no additional obligations are imposed on any
 author or copyright holder as a result of your choosing to follow
 a later version.
 </p>
-<h3>15. Disclaimer of Warranty.</h3>
+<h3 align="center">15. Disclaimer of Warranty.</h3>
 <p><strong>
 THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
 APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE
@@ -774,7 +784,7 @@ ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS
 WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST
 OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 </strong></p>
-<h3>16. Limitation of Liability.</h3>
+<h3 align="center">16. Limitation of Liability.</h3>
 <p><strong>
 IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN
 WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES
@@ -787,7 +797,7 @@ PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER
 PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF
 THE POSSIBILITY OF SUCH DAMAGES.
 </strong></p>
-<h3>17. Interpretation of Sections 15 and 16.</h3>
+<h3 align="center">17. Interpretation of Sections 15 and 16.</h3>
 <p>
 If the disclaimer of warranty and limitation of liability provided
 above cannot be given local legal effect according to their terms,
@@ -796,8 +806,8 @@ approximates an absolute waiver of all civil liability in
 connection with the Program, unless a warranty or assumption of
 liability accompanies a copy of the Program in return for a fee.
 </p>
-<h2>END OF TERMS AND CONDITIONS</h2>
-<h2>How to Apply These Terms to Your New Programs</h2>
+<h2 align="center">END OF TERMS AND CONDITIONS</h2>
+<h2 align="center">How to Apply These Terms to Your New Programs</h2>
 <p>
 If you develop a new program, and you want it to be of the
 greatest possible use to the public, the best way to achieve this
