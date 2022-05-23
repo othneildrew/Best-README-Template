@@ -85,7 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<a href="https://example.com"><img src="images/logo.jpg" alt="Projekt-Logo" width="348px"></a>
 
 There are many great README templates available on GitHub. However, I only found [**one**](https://github.com/othneildrew/Best-README-Template.git) that really suited my needs. So I used them as the basis for my default community files.
 
