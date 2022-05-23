@@ -85,9 +85,11 @@
 <!-- ABOUT THE PROJECT -->
 ## Über das Projekt
 
-[![Product Name Screen Shot][images/logo.jpg]](https://example.com)
+<p align="center">
+<a href="https://example.com"><img src="images/logo.jpg" alt="Projekt-Logo" width="348px"></a>
+</p>
 
-Auf GitHub sind viele großartige README-Vorlagen verfügbar. Ich habe jedoch nur [eine](https://github.com/othneildrew/Best-README-Template.git) gefunden, die wirklich meinen Bedürfnissen entsprach, also habe ich diese als Grundlage für meine Standard Community Dateien verwendet.
+Auf GitHub sind viele großartige README-Vorlagen verfügbar. Ich habe jedoch nur [**eine**](https://github.com/othneildrew/Best-README-Template.git) gefunden, die wirklich meinen Bedürfnissen entsprach. Also habe ich die als Grundlage für meine Standard Community Dateien verwendet.
 
 
 Um loszulegen, lösche bitte diese ReadMe.md (auch die englischsprachige Version) und benenne ProjectReadMe.md und ProjectReadMe.en.md in ReadMe.md (bzw. ReadMe.en.md) um.
@@ -97,7 +99,7 @@ Um loszulegen, lösche bitte diese ReadMe.md (auch die englischsprachige Version
 
 ### erstellt mit
 
-Dieser Abschnitt sollte alle wichtigen Frameworks/Bibliotheken auflisten, die zum Bootstrap deines Projekts benötigt werden. Lasse alle Add-Ons/Plugins für den Abschnitt „Danksagungen“ übrig. Hier sind ein paar Beispiele.
+Dieser Abschnitt sollte alle wichtigen Frameworks / Bibliotheken auflisten, die zum Starten deines Projekts benötigt werden. Lasse alle Add-Ons / Plugins für den Abschnitt „Danksagungen“ übrig. Hier sind ein paar Beispiele.
 
 * [Die beste ReadMe-Vorlage](https://github.com/othneildrew/Best-README-Template)
 * [Visual Studio Code](https://code.visualstudio.com/)
