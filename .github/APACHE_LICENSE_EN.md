@@ -1,5 +1,5 @@
 <p>
-  <a href="https://opensource.org/"><img alt="OSI Approved License Logo" hspace="20" src="images/OSI_Approved_License.png" align="right" width="150" /></a>
+  <a href="https://opensource.org/licenses/Apache-2.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/OSI_Approved_License.png" align="right" width="150" /></a>
 </p>
 <p>
   <p align="right"><sub><a href="APACHE_LICENSE.md">Deutche Version</a></sub></p>
