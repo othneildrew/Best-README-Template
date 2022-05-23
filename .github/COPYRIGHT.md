@@ -14,11 +14,11 @@ You may obtain a copy of the License at
 <h2 align="center">[one line to give the program's name and a brief idea of what it does]</h2>
 <p>Copyright &copy;&nbsp;[year]&nbsp;&nbsp;<a href="https://github.com/nixe64">Andreas Nixdorf</a>
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Dieses Programm ist freie Software. Sie können es unter den Bedingungen der GNU General Public License, wie von der Free Software Foundation veröffentlicht, weitergeben und/oder modifizieren, entweder gemäß Version 3 der Lizenz oder (nach Ihrer Option) jeder späteren Version.
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+Die Veröffentlichung dieses Programms erfolgt in der Hoffnung, daß es Ihnen von Nutzen sein wird, aber <b>ohne irgeneine</b>, sogar ohne die implizite Garantie der <b>Marktreife</b> oder der <b>Verwendbarkeit f&uuml; einen bestimmten Zweck</b>. Details finden Sie in der GNU General Public License.
 
-You should have received a copy of the GNU General Public License along with this program. If not, see <a href="http://www.gnu.org/licenses/">www.gnu.org/licenses</a>
+Sie sollten ein Exemplar der GNU General Public License zusammen mit diesem Programm erhalten haben. Falls nicht, siehe <http://www.gnu.org/licenses/>.
 
 <h2 align="center">The most important license terms in a nutshel</h2>
 <h3 align="center">Disclaimer of Warranty</h3>
