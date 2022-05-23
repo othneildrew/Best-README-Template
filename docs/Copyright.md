@@ -1,15 +1,4 @@
 <p align="right"><a href="COPYRIGHT_EN.md"><sub>English Version</sub></a></p>
-<p>Dieses Projekt is eine Weiterentwicklung der Home Assistant Integration xxx</p>
-
-Copyright &copy; [home-assistant.io](https://www.home-assistant.io)
-
-Licensed under the Apache License, Version 2.0 [(the "License")](APACHE_LICENSE_EN.md);
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
-
-
 
 <h2 align="center">[one line to give the program's name and a brief idea of what it does]</h2>
 <p>Copyright &copy;&nbsp;[year]&nbsp;&nbsp;<a href="https://github.com/nixe64">Andreas Nixdorf</a>
@@ -32,3 +21,18 @@ In keinem Fall, außer wenn durch geltendes Recht gefordert oder schriftlich zug
 <p>
 Sollten der o.a. Gewährleistungsausschluß und die o.a. Haftungsbegrenzung aufgrund ihrer Bedingungen gemäß lokalem Recht unwirksam sein, sollen Bewertungsgerichte dasjenige lokale Recht anwenden, das einer absoluten Aufhebung jeglicher zivilen Haftung in Zusammenhang mit dem Programm am nächsten kommt, es sei denn, dem Programm lag eine entgeltliche Garantieerklärung oder Haftungsübernahme bei. 
 </p>
+
+<h2>Open-Source-Resourcen</h2>
+<p>Dieses Projekt verwendet mehrere Open-Source-Projekte, die mir bei der Umsetzung
+meiner Ideen eine große Hilfe waren.</p>
+
+[Die beste ReadMe-Vorlage](https://github.com/othneildrew/Best-README-Template)
+Copyright &copy; 2021 Othneil Drew
+
+Lizensiert unter der [MIT Lizens](license.mit.md)
+
+[Home Assistant](https://www.home-assistant.io)
+Copyright &copy; home-assistant.io
+
+Lizensiert unter der [Apache Lizenz, Version 2.0](license.apache.md)
+

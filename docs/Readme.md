@@ -72,7 +72,7 @@
     </li>
     <li><a href="#verwendung">Verwendung</a></li>
     <li><a href="#fahrplan">Fahrplan</a></li>
-    <li><a href="#contributing">Mitwirken</a></li>
+    <li><a href="#mitwirkung">Mitwirkung</a></li>
     <li><a href="#license">Lizenz</a></li>
     <li><a href="#contact">Kontakt</a></li>
     <li><a href="#acknowledgments">Danksagungen</a></li>
@@ -88,7 +88,7 @@
 <a href="https://example.com"><img src="images/logo.jpg" alt="Projekt-Logo" width="348px"></a>
 </p>
 
-Auf GitHub sind viele großartige README-Vorlagen verfügbar. Ich habe jedoch nur [**eine**](https://github.com/othneildrew/Best-README-Template.git) gefunden, die wirklich meinen Bedürfnissen entsprach. Also habe ich die als Grundlage für meine Standard Community-Dateien verwendet.
+Auf GitHub sind viele großartige README-Vorlagen verfügbar. Ich habe jedoch nur [**eine**](https://github.com/othneildrew/Best-README-Template.git) gefunden, die wirklich meinen Bedürfnissen entsprach. Also habe ich sie als Grundlage für meine Standard Community-Dateien verwendet.
 
 
 Um loszulegen, lösche bitte diese ReadMe.md (auch die englischsprachige Version) und benenne ProjectReadMe.md und ProjectReadMe.en.md in ReadMe.md (bzw. ReadMe.en.md) um.
@@ -110,7 +110,7 @@ Dieser Abschnitt sollte alle wichtigen Frameworks / Bibliotheken auflisten, die 
 <!-- GETTING STARTED -->
 ## Einstieg
 
-Dies ist ein Beispiel dafür, du Anweisungen zum lokalen Einrichten deines Projekts geben kannst.
+Dies ist ein Beispiel dafür, wie du Anweisungen zum lokalen Einrichten deines Projekts geben kannst.
 
 Um diese Vorlage für deine eigenen Projekte zu verwenden, nutze einfach den "Use this template" 
 Button von GitHub oder Klone dieses Repository. Wenn du es in dein .github Repository auf 
@@ -129,13 +129,13 @@ Desweiteren könnte es hilfreich sein, wenn du dich nach einem "Abzeichen-Erstel
 [Shields.io](https://shields.io)), damit du deine Dateien mit ein paar Abzeichen verschönern kannst.
 
 Desweiteren empfehle ich eine Entwicklungsumgebung deiner Wahl (z.B. Visual Studio Code) und ein oder mehrere Programme
-für die Bildbearbeitung (ich verwende i.d.R. GIMP oder InkScape).
+für die Bildbearbeitung (ich verwende i.d.R. GIMP und InkScape).
 
 ### Installation
 
-_Hier findest du ein Beispiel dafür, wie du dein Publikum bei der Installation und Einrichtung deiner App / deiner Integration / deines Plug-Ins /  deiner Vorlage anleiten kannst._
+_Hier findest du ein Beispiel dafür, wie du dein Publikum bei der Installation und Einrichtung deiner App / deiner Integration / deines Plug-Ins /  deiner Vorlage unterstützen kannst._
 
- Diese Vorlage ist nicht auf externe Abhängigkeiten oder Dienste angewiesen.
+Diese Vorlage ist nicht auf externe Abhängigkeiten oder Dienste angewiesen.
 
 <p align="right">(<a href="#top">zum Seitenanfang</a>)</p>
 
@@ -144,7 +144,7 @@ _Hier findest du ein Beispiel dafür, wie du dein Publikum bei der Installation 
 <!-- USAGE EXAMPLES -->
 ## Verwendung
 
-Verwenden diesen Bereich, um nützliche Beispiele zu zeigen, wie dein Projekt verwendet werden kann. Zusätzliche Screenshots, Codebeispiele und Demos eignen sich gut für diesen Bereich. Du kannst auch auf weitere Ressourcen verlinken.
+Verwende diesen Bereich, um zu zeigen, wie dein Projekt verwendet werden kann. Zusätzliche Screenshots, Codebeispiele und Demos eignen sich gut für diesen Bereich. Du kannst auch auf weitere Ressourcen verlinken.
 
 _Weitere Beispiele findest du in der [Dokumentation](https://example.com)_
 
@@ -172,27 +172,27 @@ Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme)
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Mitwirkung
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Mitwirkungen machen die Open-Source-Community zu einem so großartigen Ort zum Lernen, Inspirieren und Schaffen. Alle Beiträge, die du leistet, werden **sehr geschätzt**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Wenn du einen Vorschlag hast, der dieses Projekt verbessert, klone bitte einfach das Repository und erstelle eine Pull-Anfrage. Du kannst auch einfach ein Problem mit dem Stichwort "Verbesserung" eröffnen. Vergiss nicht, dem Projekt einen Stern zu geben! Danke noch einmal!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Das Projekt klonen
+2. Erstelle einen Feature Branch (`git checkout -b feature/AmazingFeature` oder `git flow feature start AmazingFeature`).
+3. Übertrage deine Änderungen (`git commit -m 'Add some AmazingFeature'`).
+4. An den Branch pushen (`git push origin feature/AmazingFeature`).
+5. Öffne eine Pull-Anforderung.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
+<p align="right">(<a href="#top">zum Seitenanfang</a>)</p>
 
 
 
 <!-- LICENSE -->
-## License
+## Lizenz
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Lizensiert unter der Allgemeine Öffentliche GNU-Lizenz, Version 3.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

@@ -25,7 +25,7 @@ nicht erlaubt.
 </p>
 <p><strong>
 Diese Übersetzung ist kein rechtskräftiger Ersatz für die
-<a href="LICENSE_EN.md">englischsprachige
+<a href="license.en.md">englischsprachige
 Originalversion</a>!
 </strong></p>
 <h2 align="center">Vorwort</h2>
