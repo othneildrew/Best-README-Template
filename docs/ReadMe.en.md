@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic" alt="Version" />
 <img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Contributors&style=plastic" alt="Contributors" />
 <img src="https://img.shields.io/github/forks/nixe64/.github?label=Forks&style=plastic" alt="Forks" />
-<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Issuesstyle=plastic" alt="Issues" />
+<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Issues&style=plastic" alt="Issues" />
  <p>
 
 
