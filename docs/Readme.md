@@ -85,7 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Über das Projekt
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][images/logo.jpg]](https://example.com)
 
 Auf GitHub sind viele großartige README-Vorlagen verfügbar. Ich habe jedoch nur [eine](https://github.com/othneildrew/Best-README-Template.git) gefunden, die wirklich meinen Bedürfnissen entsprach, also habe ich diese als Grundlage für meine Standard Community Dateien verwendet.
 
