@@ -17,20 +17,16 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-![License](https://img.shields.io/github/license/nixe64/.github?label=Licenze&style=plastic)
-![Version](https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic)
-![Contributors](https://img.shields.io/github/contributors-anon/nixe64/.github?label=Contributors&style=plastic)
-![Forks](https://img.shields.io/github/forks/nixe64/.github?label=Forks&style=plastic)
-![Issues](https://img.shields.io/github/issues-closed/nixe64/.github?label=Issues&style=plastic)
-
-<!--
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
--->
+<p align="right">
+  <sub><a href="ReadMe.en.md">English Version</a></sub>
+</p>
+<p>
+<img src="https://img.shields.io/github/license/nixe64/.github?label=Lizenz&style=plastic" alt="Lizenz" />
+<img src="https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic" alt="Version" />
+<img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Mitwirkende&style=plastic" alt="Mitwirkende" />
+<img src="https://img.shields.io/github/forks/nixe64/.github?label=Forks&style=plastic" alt="Forks" />
+<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Probleme&style=plastic" alt="Probleme" />
+ <p>
 
 
 <!-- PROJECT LOGO -->
