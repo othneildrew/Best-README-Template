@@ -194,11 +194,15 @@ Lizensiert unter der [Allgemeine Öffentliche GNU-Lizenz, Version 3](License.md)
 <!-- CONTACT -->
 ## Kontakt
 
-Andreas Nixdorf [(nixe64)](https://github.com/nixe64)
+<p align="left">
+<a href="https://github.com/nixe64"><img src="images/logo.jpg" alt="Profilbild" width="150" /></a>
+</p>
+<p>
+Andreas Nixdorf (<a href="https://github.com/nixe64/">nixe64</a>)
 
 Wenn du Kontakt aufnehmen möchtest, sende mir bitte eine Pull-Anfrage. Vorschläge für
 neue Features und Fehlermeldungen können nur im Repository von Othneil Drew gemeldet werden.
-
+</p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -206,7 +210,8 @@ neue Features und Fehlermeldungen können nur im Repository von Othneil Drew gem
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Mein Dank geht an ![Othneil Drew][(https://github.com/othneildrew) für seine großartige ReadMe-Vorlage.
+Mein Dank geht an <a href="(https://github.com/othneildrew">Othneil Drew</a> für seine großartige ReadMe-Vorlage.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
