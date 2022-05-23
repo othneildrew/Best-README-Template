@@ -18,14 +18,14 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <p align="right">
-  <sub><a href="ReadMe.en.md">English Version</a></sub>
+  <sub><a href="ReadMe.md">Deutsche Version</a></sub>
 </p>
 <p>
-<img src="https://img.shields.io/github/license/nixe64/.github?label=Lizenz&style=plastic" alt="Lizenz" />
+<img src="https://img.shields.io/github/license/nixe64/.github?label=License&style=plastic" alt="License" />
 <img src="https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic" alt="Version" />
-<img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Mitwirkende&style=plastic" alt="Mitwirkende" />
+<img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Contributors&style=plastic" alt="Contributors" />
 <img src="https://img.shields.io/github/forks/nixe64/.github?label=Forks&style=plastic" alt="Forks" />
-<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Probleme&style=plastic" alt="Probleme" />
+<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Issuesstyle=plastic" alt="Issues" />
  <p>
 
 
@@ -42,7 +42,7 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><Explore the docs</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
@@ -85,9 +85,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<a href="https://example.com"><img src="images/logo.jpg" alt="Projekt-Logo" width="348px"></a>
 
-There are many great README templates available on GitHub. However, I only found [**one**](https://github.com/othneildrew/Best-README-Template.git) that really suited my needs. So I used them as the basis for my default community files.
+There are many great README templates available on GitHub. However, I only found [**one**](https://github.com/othneildrew/Best-README-Template.git) that really suited my needs. So I used it as the basis for my default community files.
 
 
 To get started, please delete this ReadMe.md (also the English language version) and rename ProjectReadMe.md and ProjectReadMe.en.md to ReadMe.md (and ReadMe.en.md).

@@ -199,8 +199,7 @@ Lizensiert unter der [Allgemeine Öffentliche GNU-Lizenz, Version 3](License.md)
 <p align="right">
 Andreas Nixdorf (<a href="https://github.com/nixe64/">nixe64</a>)
 
-Wenn du Kontakt aufnehmen möchtest, sende mir bitte eine Pull-Anfrage. Vorschläge für
-neue Features und Fehlermeldungen können nur im Repository von Othneil Drew gemeldet werden.</div>
+Vorschläge für neue Funktionen und Fehlerberichte können nur im Repository von Othneil Drew gemacht werden.
 </block>
 </p>
 
