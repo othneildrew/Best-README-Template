@@ -41,9 +41,8 @@
   <p align="center">
     Eine fantastische ReadMe-Vorlage, um deine Projekte zu starten!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Durchsuche die Dokumentation »</strong></a>
-    <br />
-    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">Durchsuche die Dokumentation</a>
+    ·
     <a href="https://github.com/othneildrew/Best-README-Template">Demo ansehen</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Fehler melden</a>
@@ -65,14 +64,14 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Einstieg</a>
+      <a href="#einstieg">Einstieg</a>
       <ul>
-        <li><a href="#prerequisites">Voraussetzungen</a></li>
+        <li><a href="#voraussetzungen">Voraussetzungen</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Verwendung</a></li>
-    <li><a href="#roadmap">Fahrplan</a></li>
+    <li><a href="#verwendung">Verwendung</a></li>
+    <li><a href="#fahrplan">Fahrplan</a></li>
     <li><a href="#contributing">Mitwirken</a></li>
     <li><a href="#license">Lizenz</a></li>
     <li><a href="#contact">Kontakt</a></li>
@@ -89,7 +88,7 @@
 <a href="https://example.com"><img src="images/logo.jpg" alt="Projekt-Logo" width="348px"></a>
 </p>
 
-Auf GitHub sind viele großartige README-Vorlagen verfügbar. Ich habe jedoch nur [**eine**](https://github.com/othneildrew/Best-README-Template.git) gefunden, die wirklich meinen Bedürfnissen entsprach. Also habe ich die als Grundlage für meine Standard Community Dateien verwendet.
+Auf GitHub sind viele großartige README-Vorlagen verfügbar. Ich habe jedoch nur [**eine**](https://github.com/othneildrew/Best-README-Template.git) gefunden, die wirklich meinen Bedürfnissen entsprach. Also habe ich die als Grundlage für meine Standard Community-Dateien verwendet.
 
 
 Um loszulegen, lösche bitte diese ReadMe.md (auch die englischsprachige Version) und benenne ProjectReadMe.md und ProjectReadMe.en.md in ReadMe.md (bzw. ReadMe.en.md) um.
@@ -109,64 +108,64 @@ Dieser Abschnitt sollte alle wichtigen Frameworks / Bibliotheken auflisten, die 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Einstieg
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Dies ist ein Beispiel dafür, du Anweisungen zum lokalen Einrichten deines Projekts geben kannst.
 
-### Prerequisites
+Um diese Vorlage für deine eigenen Projekte zu verwenden, nutze einfach den "Use this template" 
+Button von GitHub oder Klone dieses Repository. Wenn du es in dein .github Repository auf 
+GitHub kopierst, werden die Dateien in diesem Repository als Standard für deine Projekte verwendet,
+die noch keine eigenen Community-Dateien haben (zumindest, falls du einen Enterprise Account hast).
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### Voraussetzungen
+
+Dies ist ein Beispiel dafür, wie du Dinge auflisten kannst, die für die Verwendung des Repositories benötigt
+werden, und wie sie installiert werden können.
+
+Bevor du mit der Bearbeitung deiner Community-Dateien beginnst, solltest du dich mit der Syntax der
+.md-Dateien auf GitHub beschäftigen. Ein möglicher Einstieg wäre die [offizielle Dokumentation](https://docs.github.com/en/enterprise-cloud@latest/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) in den GitHub Docs oder auch der [Markdown Guide](https://www.markdownguide.org/basic-syntax).
+
+Desweiteren könnte es hilfreich sein, wenn du dich nach einem "Abzeichen-Ersteller" umsiehst (wie zum Beispiel
+[Shields.io](https://shields.io)), damit du deine Dateien mit ein paar Abzeichen verschönern kannst.
+
+Desweiteren empfehle ich eine Entwicklungsumgebung deiner Wahl (z.B. Visual Studio Code) und ein oder mehrere Programme
+für die Bildbearbeitung (ich verwende i.d.R. GIMP oder InkScape).
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Hier findest du ein Beispiel dafür, wie du dein Publikum bei der Installation und Einrichtung deiner App / deiner Integration / deines Plug-Ins /  deiner Vorlage anleiten kannst._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+ Diese Vorlage ist nicht auf externe Abhängigkeiten oder Dienste angewiesen.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">zum Seitenanfang</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Verwendung
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Verwenden diesen Bereich, um nützliche Beispiele zu zeigen, wie dein Projekt verwendet werden kann. Zusätzliche Screenshots, Codebeispiele und Demos eignen sich gut für diesen Bereich. Du kannst auch auf weitere Ressourcen verlinken.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_Weitere Beispiele findest du in der [Dokumentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Fahrplan
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Änderungsprotokoll implementieren.
+- [x] "zum Seitenanfang"-Verknüfungen einfügen.
+- [ ] Zusätzliche Vorlagen mit Beispielen hinzufügen.
+- [ ] "Komponenten"-Dokument, um Abschnitte der Community-Dateien einfach kopieren zu können, hinzufügen
+- [ ] Mehrsprachige Unterstützung
+    - [ ] Chinesisch
+    - [x] Deutsch
+    - [x] Englisch
+    - [ ] Spanisch
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme) findest du unter [offene Probleme](https://github.com/.nixe64/.github/issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
