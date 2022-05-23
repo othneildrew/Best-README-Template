@@ -6,7 +6,7 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-<p align="right"><a href="README.md"><sub>Deutsche Version</sub></a></p>
+
 
 
 <!-- PROJECT SHIELDS -->
@@ -103,9 +103,15 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
- [![Python badge](images/python-badge.svg)](https://www.python.org)
- [![Pylint badge](images/pylint-badge.svg)](https://www.pylint.org)
- 
+* [Next.js](https://nextjs.org/)
+* [React.js](https://reactjs.org/)
+* [Vue.js](https://vuejs.org/)
+* [Angular](https://angular.io/)
+* [Svelte](https://svelte.dev/)
+* [Laravel](https://laravel.com)
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -195,7 +201,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU General Public License v3.0. See [LICENSE.md](LICENSE.md) for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

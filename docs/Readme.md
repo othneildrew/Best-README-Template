@@ -6,7 +6,7 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-<p align="right"><a href="README_EN.md"><sub>English Version</sub></a></p>
+
 
 
 <!-- PROJECT SHIELDS -->
@@ -29,16 +29,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="..">
+  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">
-  Beste README Vorlage, die ich gesehen habe !
-  </h3>
-  <p align="center>
-Gefunden bei <a href="https://github.com/othneildrew/Best-README-Template/">
-  othneildrew</a>  </p>
+  <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -108,9 +103,15 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
- [![Python badge](images/python-badge.svg)](https://www.python.org)
- [![Pylint badge](images/pylint-badge.svg)](https://www.pylint.org)
- 
+* [Next.js](https://nextjs.org/)
+* [React.js](https://reactjs.org/)
+* [Vue.js](https://vuejs.org/)
+* [Angular](https://angular.io/)
+* [Svelte](https://svelte.dev/)
+* [Laravel](https://laravel.com)
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -200,7 +201,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU General Public License v3.0. See [LICENSE.md](LICENSE.md) for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
