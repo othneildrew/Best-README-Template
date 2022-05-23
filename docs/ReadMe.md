@@ -92,6 +92,7 @@ Auf GitHub sind viele großartige README-Vorlagen verfügbar. Ich habe jedoch nu
 
 
 Um loszulegen, lösche bitte diese ReadMe.md (auch die englischsprachige Version) und benenne ProjectReadMe.md und ProjectReadMe.en.md in ReadMe.md (bzw. ReadMe.en.md) um.
+
 <p align="right">(<a href="#top">zum Seitenanfang</a>)</p>
 
 
@@ -137,9 +138,9 @@ Diese Vorlage ist nicht auf externe Abhängigkeiten oder Dienste angewiesen.
 <!-- USAGE EXAMPLES -->
 ## Verwendung
 
-Verwende diesen Bereich, um zu zeigen, wie dein Projekt verwendet werden kann. Zusätzliche Screenshots, Codebeispiele und Demos eignen sich gut für diesen Bereich. Du kannst auch auf weitere Ressourcen verlinken.
+Use this space to show how your project can be used. Additional screenshots, code samples, and demos work well for this area. You can also link to other resources.
 
-_Weitere Beispiele findest du in der [Dokumentation](https://example.com)_
+_See the [documentation](https://example.com)_ for more examples.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -199,8 +200,10 @@ Lizensiert unter der [Allgemeine Öffentliche GNU-Lizenz, Version 3](License.md)
 Andreas Nixdorf (<a href="https://github.com/nixe64/">nixe64</a>)
 
 Wenn du Kontakt aufnehmen möchtest, sende mir bitte eine Pull-Anfrage. Vorschläge für
-neue Features und Fehlermeldungen können nur im Repository von Othneil Drew gemeldet werden.
+neue Features und Fehlermeldungen können nur im Repository von Othneil Drew gemeldet werden.</div>
+</block>
 </p>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 

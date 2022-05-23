@@ -18,14 +18,14 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <p align="right">
-  <sub><a href="ReadMe.md">Deutsche Version</a></sub>
+  <sub><a href="ReadMe.en.md">English Version</a></sub>
 </p>
 <p>
-<img src="https://img.shields.io/github/license/nixe64/.github?label=License&style=plastic" alt="License" />
+<img src="https://img.shields.io/github/license/nixe64/.github?label=Lizenz&style=plastic" alt="Lizenz" />
 <img src="https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic" alt="Version" />
-<img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Contributors&style=plastic" alt="Contributors" />
+<img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Mitwirkende&style=plastic" alt="Mitwirkende" />
 <img src="https://img.shields.io/github/forks/nixe64/.github?label=Forks&style=plastic" alt="Forks" />
-<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Issues&style=plastic" alt="Issues" />
+<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Probleme&style=plastic" alt="Probleme" />
  <p>
 
 
@@ -43,8 +43,7 @@
     An awesome README template to jumpstart your projects!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+    ·
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
@@ -88,16 +87,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+There are many great README templates available on GitHub. However, I only found [**one**](https://github.com/othneildrew/Best-README-Template.git) that really suited my needs. So I used them as the basis for my default community files.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+To get started, please delete this ReadMe.md (also the English language version) and rename ProjectReadMe.md and ProjectReadMe.en.md to ReadMe.md (and ReadMe.en.md).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -105,16 +98,10 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks/libraries needed to launch your project. Leave any add-ons/plugins for the Acknowledgments section. Here are a few examples.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -123,35 +110,26 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To use this template for your own projects, just use the "Use this template" button
+on GitHub or fork this repository. If you put it in your .github repo
+on GitHub, the files in that repository will be used as default for your projects,
+that don't have their own community files yet (at least if you have an Enterprise Account).
+
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Before you start editing your community files, you should become familiar with the syntax of the
+.md files on GitHub. A possible starting point would be the [official documentation](https://docs.github.com/en/enterprise-cloud@latest/get-started/writing-on-github/getting-started-with-writing-and-formatting- on-github/basic-writing-and-formatting-syntax) in the GitHub Docs or the [Markdown Guide](https://www.markdownguide.org/basic-syntax).
+
+Also, it might help if you look around for a "badge maker" (such as
+[Shields.io](https://shields.io)) so you can decorate your files with some badges.
+
+I also recommend a development environment of your choice (e.g. Visual Studio Code) and one or more programs
+for image editing (i usually use GIMP and InkScape).
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+This template does not rely on any external dependencies or services.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -170,15 +148,17 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Implement change log.
+- [x] Insert "top of page" links.
+- [ ] Add extra templates with examples.
+- [ ] Add "Components" document to easily copy sections of community files
+- [ ] Multi-language support
+     - [ ] Chinese
+     - [x] German
+     - [x] English
+     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+For a complete list of proposed features (and known issues), see [open issues](https://github.com/othneildrew/Best-README-Template/issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -187,16 +167,15 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such a great place to learn, inspire, and create. Any contributions you make are **much appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+If you have a suggestion that improves this project, please just clone the repository and create a pull request. You can also simply open an issue with the keyword "improvement". Don't forget to give the project a star! Thanks again!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Clone the project
+2. Create a feature branch (`git checkout -b feature/AmazingFeature` or `git flow feature start AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push the branch to my repository (or directly to my source of inspiration) (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -205,7 +184,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Licensed under the [GNU General Public License Version, v3](License.md).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -214,9 +193,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+<a href="https://github.com/nixe64"><img src="images/logo.jpg" alt="profile picture" width="150" /></a>
+<p align="right">
+Andreas Nixdorf (<a href="https://github.com/nixe64/">nixe64</a>)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+If you want to get in touch, please send me a pull request. Suggestions for
+new features and bug reports can only be reported in Othneil Drew's repository.</div>
+</block>
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -225,7 +209,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Thanks to [Othneil Drew](https://github.com/othneildrew) for his great README-template.
+Thanks to <a href="(https://github.com/othneildrew">Othneil Drew</a> for his great "Best-README-Template".
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
