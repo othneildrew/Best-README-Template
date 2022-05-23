@@ -75,7 +75,7 @@
     <li><a href="#mitwirkung">Mitwirkung</a></li>
     <li><a href="#license">Lizenz</a></li>
     <li><a href="#kontakt">Kontakt</a></li>
-    <li><a href="#acknowledgments">Danksagungen</a></li>
+    <li><a href="#danksagungen">Danksagungen</a></li>
   </ol>
 </details>
 
@@ -195,7 +195,7 @@ Lizensiert unter der [Allgemeine Öffentliche GNU-Lizenz, Version 3](License.md)
 ## Kontakt
 
 <a href="https://github.com/nixe64"><img src="images/logo.jpg" alt="Profilbild" width="150" /></a>
-<p>
+<p align="right">
 Andreas Nixdorf (<a href="https://github.com/nixe64/">nixe64</a>)
 
 Wenn du Kontakt aufnehmen möchtest, sende mir bitte eine Pull-Anfrage. Vorschläge für
@@ -206,7 +206,7 @@ neue Features und Fehlermeldungen können nur im Repository von Othneil Drew gem
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Danksagungen
 
 Mein Dank geht an <a href="(https://github.com/othneildrew">Othneil Drew</a> für seine großartige ReadMe-Vorlage.
 
