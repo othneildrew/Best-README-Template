@@ -110,7 +110,7 @@ Dieser Abschnitt sollte alle wichtigen Frameworks / Bibliotheken auflisten, die 
 <!-- GETTING STARTED -->
 ## Einstieg
 
-Um diese Vorlage für deine eigenen Projekte zu verwenden, nutze einfach den "Use this template" 
+Um diese Vorlage für deine eigenen Projekte zu verwenden, nutze einfach den "Use this template"-
 Button von GitHub oder klone dieses Repository. Wenn du es in dein .github Repository auf 
 GitHub kopierst, werden die Dateien in diesem Repository als Standard für deine Projekte verwendet,
 die noch keine eigenen Community-Dateien haben (zumindest, falls du einen Enterprise Account hast).
@@ -174,7 +174,7 @@ Wenn du einen Vorschlag hast, der dieses Projekt verbessert, klone bitte einfach
 1. Das Projekt klonen
 2. Erstelle einen Feature Branch (`git checkout -b feature/AmazingFeature` oder `git flow feature start AmazingFeature`).
 3. Übertrage deine Änderungen (`git commit -m 'Add some AmazingFeature'`).
-4. An den Branch pushen (`git push origin feature/AmazingFeature`).
+4. Den Branch in mein Repository (oder direkt an meine Quelle der Inspiration) pushen (`git push origin feature/AmazingFeature`).
 5. Öffne eine Pull-Anforderung.
 
 
@@ -194,9 +194,7 @@ Lizensiert unter der [Allgemeine Öffentliche GNU-Lizenz, Version 3](License.md)
 <!-- CONTACT -->
 ## Kontakt
 
-<p align="left">
 <a href="https://github.com/nixe64"><img src="images/logo.jpg" alt="Profilbild" width="150" /></a>
-</p>
 <p>
 Andreas Nixdorf (<a href="https://github.com/nixe64/">nixe64</a>)
 
