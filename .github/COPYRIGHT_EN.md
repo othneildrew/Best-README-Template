@@ -1,4 +1,5 @@
-This project is based on a Home Assistant Integration
+<p align="right"><a href="COPYRIGHT.md"><sub>Deutsche Version</sub></a></p>
+<p>This project is based on a Home Assistant Integration</p>
 
 Copyright &copy; [home-assistant.io](https://www.home-assistant.io)
 
@@ -8,21 +9,49 @@ You may obtain a copy of the License at
 
 [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-<one line to give the program's name and a brief idea of what it does.>
 
 
-Unless required by applicable law or agreed to in writing, software
-distributed under this License is distributed on an **"AS IS"** basis,
-**without warranties or conditions of any kind,** either expressed or implied.
-   
-See the License for the specific language governing permissions and
-limitations under the License.
+<h2 align="center">[one line to give the program's name and a brief idea of what it does]</h2>
+<p>Copyright &copy;&nbsp;[year]&nbsp;&nbsp;<a href="https://github.com/nixe64">Andreas Nixdorf</a>
 
-### Disclaimer of Warranty. 
-Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an **"AS IS"** basis, **without warranties or conditions of any kind**, either expressed or implied, including, without limitation, any warranties or conditions of **title, non-infringement, mechantability, or fitness for a particular purpose.** You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with your exercise of permissions under this License.
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-### Limitation of Liability. 
-In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-### Accepting Warranty or Additional Liability. 
-While redistributing the Work or Derivative Works thereof, **you** may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, **you** may act only on **your** own behalf and on **your** sole responsibility, not on behalf of any other Contributor, and only if **you** agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of **your accepting any such warranty or additional liability**.
+You should have received a copy of the GNU General Public License along with this program. If not, see <a href="http://www.gnu.org/licenses/">www.gnu.org/licenses</a>
+
+<h2 align="center">The most important license terms in a nutshel</h2>
+<h3 align="center">Disclaimer of Warranty</h3>
+
+<p>There is no warranty for the program, to the extent permitted by
+applicable law, except when otherwise stated in writing the
+copyright holders and/or other parties provide the program
+<b>"AS IS"</b> without warranty of any kind, either expresssed
+or implied, including, but not limited to, the implied warranties
+of merchantability and fitness for a particular purpose. The
+entire risk as to the quality and performance of the program is
+with you. Shoud the program prove defective, you assume the cost
+of all neccassary servicing, repair or correction.
+
+<h3 align="center">Limitation of Liability</h3>
+<p>
+In no event unless required by applicable law or agreed to in
+writing will any copyright holder, or any other party who modifies
+and/or conveys the program as permitted above, be liable to you
+for damages, including any general, special, incidential or
+consequential damages arising out of the use or inability to use
+the program (including but not limited to loss of data or data
+being rendered inaccurate or losses sustained by you or third
+paries or a failure of the program to operate with any other
+programs), even if such holder or other party has been advised
+of the possibility of such damages.
+</p>
+<h3 align="center">Interpretation</h3>
+<p>
+If the disclaimer of warranty and limitation of liability provided
+above cannot be given local legal effect according to their terms,
+reviewing courts shall apply local law that most closely
+approximates an absolute waiver of all civil liability in
+connection with the Program, unless a warranty or assumption of
+liability accompanies a copy of the Program in return for a fee.
+</p>
