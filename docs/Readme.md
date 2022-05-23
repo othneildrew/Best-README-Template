@@ -87,10 +87,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Auf GitHub sind viele großartige README-Vorlagen verfügbar; Ich habe jedoch nur [eines](https://github.com/othneildrew/Best-README-Template.git) gefunden, das wirklich meinen Bedürfnissen entsprach, also habe ich dieses als Vorlage für meine Community-Health Dateien verwendet.
+Auf GitHub sind viele großartige README-Vorlagen verfügbar. Ich habe jedoch nur [eines](https://github.com/othneildrew/Best-README-Template.git) gefunden, das wirklich meinen Bedürfnissen entsprach, also habe ich dieses als Vorlage für meine Community-Health Dateien verwendet.
 
 
-Verwenden Sie die `BLANK_README.md`, um loszulegen.
+Um loszulegen, lösche bitte diese ReadMe.md (auch die englischsprachige Version) und benenne ProjectReadMe.md und ProjectReadMe.en.md in ReadMe.md (bzw. ReadMe.en.md) um.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
