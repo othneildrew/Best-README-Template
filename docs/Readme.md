@@ -39,9 +39,9 @@
   <h3 align="center">Die beste ReadMe-Vorlage</h3>
 
   <p align="center">
-    Eine fantastische ReadMe-Vorlage, um Ihre Projekte zu starten!
+    Eine fantastische ReadMe-Vorlage, um deine Projekte zu starten!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Durchsuchen die Dokumentation »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Durchsuche die Dokumentation »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">Demo ansehen</a>
@@ -59,9 +59,9 @@
   <summary>Inhaltsverzeichnis</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Über das Projekt</a>
+      <a href="#ueber-das-projekt">Über das Projekt</a>
       <ul>
-        <li><a href="#built-with">Erstellt mit</a></li>
+        <li><a href="#erstellt-mit">erstellt mit</a></li>
       </ul>
     </li>
     <li>
@@ -83,32 +83,26 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Über das Projekt
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Auf GitHub sind viele großartige README-Vorlagen verfügbar. Ich habe jedoch nur [eines](https://github.com/othneildrew/Best-README-Template.git) gefunden, das wirklich meinen Bedürfnissen entsprach, also habe ich dieses als Vorlage für meine Community-Health Dateien verwendet.
+Auf GitHub sind viele großartige README-Vorlagen verfügbar. Ich habe jedoch nur [eine](https://github.com/othneildrew/Best-README-Template.git) gefunden, die wirklich meinen Bedürfnissen entsprach, also habe ich diese als Grundlage für meine Standard Community Dateien verwendet.
 
 
 Um loszulegen, lösche bitte diese ReadMe.md (auch die englischsprachige Version) und benenne ProjectReadMe.md und ProjectReadMe.en.md in ReadMe.md (bzw. ReadMe.en.md) um.
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">zum Seitenanfang</a>)</p>
 
 
 
-### Built With
+### erstellt mit
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Dieser Abschnitt sollte alle wichtigen Frameworks/Bibliotheken auflisten, die zum Bootstrap deines Projekts benötigt werden. Lasse alle Add-Ons/Plugins für den Abschnitt „Danksagungen“ übrig. Hier sind ein paar Beispiele.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Die beste ReadMe-Vorlage](https://github.com/othneildrew/Best-README-Template)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">zum Seitenanfang</a>)</p>
 
 
 
