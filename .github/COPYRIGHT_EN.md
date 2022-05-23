@@ -31,7 +31,7 @@ or implied, including, but not limited to, the implied warranties
 of merchantability and fitness for a particular purpose. The
 entire risk as to the quality and performance of the program is
 with you. Shoud the program prove defective, you assume the cost
-of all neccassary servicing, repair or correction.
+of all neccassary servicing, repair or correction.</p>
 
 <h3 align="center">Limitation of Liability</h3>
 <p>
