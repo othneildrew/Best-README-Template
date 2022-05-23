@@ -119,17 +119,18 @@ that don't have their own community files yet (at least if you have an Enterpris
 ### Prerequisites
 
 Before you start editing your community files, you should become familiar with the syntax of the
-.md files on GitHub. A possible starting point would be the [official documentation](https://docs.github.com/en/enterprise-cloud@latest/get-started/writing-on-github/getting-started-with-writing-and-formatting- on-github/basic-writing-and-formatting-syntax) in the GitHub Docs or the [Markdown Guide](https://www.markdownguide.org/basic-syntax).
+.md files on GitHub. A possible starting point would be the <a href="https://docs.github.com/en/enterprise-cloud@latest/get-started/writing-on-github/getting-started-with-writing-and-formatting">official documentation</a>- in the GitHub Docs or the <a href="https://www.markdownguide.org/basic-syntax">Markdown Guide</a>).
 
 Also, it might help if you look around for a "badge maker" (such as
 [Shields.io](https://shields.io)) so you can decorate your files with some badges.
 
-I also recommend a development environment of your choice (e.g. Visual Studio Code) and one or more programs
+I also recommend a development environment of your choice (e.g. Visual Studio Code) and some programs
 for image editing (i usually use GIMP and InkScape).
 
 ### Installation
 
 This template does not rely on any external dependencies or services.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -169,7 +170,7 @@ For a complete list of proposed features (and known issues), see [open issues](h
 
 Contributions are what make the open source community such a great place to learn, inspire, and create. Any contributions you make are **much appreciated**.
 
-If you have a suggestion that improves this project, please just clone the repository and create a pull request. You can also simply open an issue with the keyword "improvement". Don't forget to give the project a star! Thanks again!
+If you have a suggestion that improves this project, please just fork the repository and create a pull request. You can also simply open an issue with the keyword "improvement". Don't forget to give the project a star! Thanks again!
 
 1. Clone the project
 2. Create a feature branch (`git checkout -b feature/AmazingFeature` or `git flow feature start AmazingFeature`).
@@ -198,7 +199,7 @@ Licensed under the [GNU General Public License Version, v3](License.md).
 Andreas Nixdorf (<a href="https://github.com/nixe64/">nixe64</a>)
 
 If you want to get in touch, please send me a pull request. Suggestions for
-new features and bug reports can only be reported in Othneil Drew's repository.</div>
+new features and bug reports can only be made in Othneil Drew's repository.</div>
 </block>
 </p>
 
