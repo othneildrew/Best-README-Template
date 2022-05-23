@@ -1,4 +1,4 @@
-<p align="right"><a href="COPYRIGHT.md"><sub>Deutsche Version</sub></a></p>
+<p align="right"><a href="COPYRIGHT_EN.md"><sub>English Version</sub></a></p>
 <p>Dieses Projekt is eine Weiterentwicklung der Home Assistant Integration xxx</p>
 
 Copyright &copy; [home-assistant.io](https://www.home-assistant.io)
