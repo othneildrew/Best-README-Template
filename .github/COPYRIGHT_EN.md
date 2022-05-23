@@ -1,5 +1,5 @@
 <p align="right"><a href="COPYRIGHT.md"><sub>Deutsche Version</sub></a></p>
-<p>This project is based on a Home Assistant Integration</p>
+<p>This project is an evolution of the Home Assistant integration xxx</p>
 
 Copyright &copy; [home-assistant.io](https://www.home-assistant.io)
 
