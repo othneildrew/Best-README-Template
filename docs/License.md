@@ -2,7 +2,7 @@
   <a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/osi-approved-license.png" align="right" width="150" /></a>
 </p>
 <p>
-  <p align="right"><a href="LICENSE_EN.md"><sub>Englih Version</sub></a></p>
+  <p align="right"><a href="License.en.md"><sub>English Version</sub></a></p>
   <h1 align="center">
     GNU General Public License
   </h1>
