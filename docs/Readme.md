@@ -17,7 +17,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![License](https://img.shields.io/github/license/nixe64/.github?label=Licenze&style=plastic)
+![Version](https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic)
+![Contributors](https://img.shields.io/github/contributors-anon/nixe64/.github?label=Contributors&style=plastic)
+![Forks](https://img.shields.io/github/forks/nixe64/.github?label=Forks&style=plastic)
+![Issues](https://img.shields.io/github/issues-closed/nixe64/.github?label=Issues&style=plastic)
+
 <!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
