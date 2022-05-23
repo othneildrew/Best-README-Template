@@ -1,5 +1,5 @@
 <p>
-  <a href="https://opensource.org/"><img alt="OSI Approved License Logo" hspace="20" src="images/OSI_Approved_License.png" align="right" width="150" /></a>
+  <a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/OSI_Approved_License.png" align="right" width="150" /></a>
 </p>
 <p>
   <p align="right"><a href="LICENSE_EN.md"><sub>Englih Version</sub></a></p>
