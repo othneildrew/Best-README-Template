@@ -20,38 +20,15 @@ Die Veröffentlichung dieses Programms erfolgt in der Hoffnung, daß es Ihnen vo
 
 Sie sollten ein Exemplar der GNU General Public License zusammen mit diesem Programm erhalten haben. Falls nicht, siehe <http://www.gnu.org/licenses/>.
 
-<h2 align="center">The most important license terms in a nutshel</h2>
-<h3 align="center">Disclaimer of Warranty</h3>
+<h2 align="center">Die wichtigsten Lizenzbestimmungen in aller K&uuml;rze</h2>
+<h3 align="center">Gewährleistungsausschluß</h3>
 
-<p>There is no warranty for the program, to the extent permitted by
-applicable law, except when otherwise stated in writing the
-copyright holders and/or other parties provide the program
-<b>"AS IS"</b> without warranty of any kind, either expresssed
-or implied, including, but not limited to, the implied warranties
-of merchantability and fitness for a particular purpose. The
-entire risk as to the quality and performance of the program is
-with you. Shoud the program prove defective, you assume the cost
-of all neccassary servicing, repair or correction.
-
-<h3 align="center">Limitation of Liability</h3>
+<p>Ts besteht keinerlei Gewährleistung für das Programm, soweit dies gesetzlich zulässig ist. Sofern nicht anderweitig schriftlich bestätigt, stellen die Urheberrechtsinhaber und/oder Dritte das Programm so zur Verfügung, <b>„wie es ist“</b>, ohne irgendeine Gewährleistung, weder ausdrücklich noch implizit, einschließlich – aber nicht begrenzt auf – die implizite Gewährleistung der Marktreife oder der Verwendbarkeit für einen bestimmten Zweck. Das volle Risiko bezüglich Qualität und Leistungsfähigkeit des Programms liegt bei Ihnen. Sollte sich das Programm als fehlerhaft herausstellen, liegen die Kosten für notwendigen Service, Reparatur oder Korrektur bei Ihnen.</p>
+<h3 align="center">Haftungsbegrenzung</h3>
 <p>
-In no event unless required by applicable law or agreed to in
-writing will any copyright holder, or any other party who modifies
-and/or conveys the program as permitted above, be liable to you
-for damages, including any general, special, incidential or
-consequential damages arising out of the use or inability to use
-the program (including but not limited to loss of data or data
-being rendered inaccurate or losses sustained by you or third
-paries or a failure of the program to operate with any other
-programs), even if such holder or other party has been advised
-of the possibility of such damages.
+In keinem Fall, außer wenn durch geltendes Recht gefordert oder schriftlich zugesichert, ist irgendein Urheberrechtsinhaber oder irgendein Dritter, der das Programm wie oben erlaubt modifiziert oder übertragen hat, Ihnen gegenüber für irgendwelche Schäden haftbar, einschließlich jeglicher allgemeiner oder spezieller Schäden, Schäden durch Seiteneffekte (Nebenwirkungen) oder Folgeschäden, die aus der Benutzung des Programms oder der Unbenutzbarkeit des Programms folgen (einschließlich – aber nicht beschränkt auf – Datenverluste, fehlerhafte Verarbeitung von Daten, Verluste, die von Ihnen oder anderen getragen werden müssen, oder dem Unvermögen des Programms, mit irgendeinem anderen Programm zusammenzuarbeiten), selbst wenn ein Urheberrechtsinhaber oder Dritter über die Möglichkeit solcher Schäden unterrichtet worden war. 
 </p>
 <h3 align="center">Interpretation</h3>
 <p>
-If the disclaimer of warranty and limitation of liability provided
-above cannot be given local legal effect according to their terms,
-reviewing courts shall apply local law that most closely
-approximates an absolute waiver of all civil liability in
-connection with the Program, unless a warranty or assumption of
-liability accompanies a copy of the Program in return for a fee.
+Sollten der o.a. Gewährleistungsausschluß und die o.a. Haftungsbegrenzung aufgrund ihrer Bedingungen gemäß lokalem Recht unwirksam sein, sollen Bewertungsgerichte dasjenige lokale Recht anwenden, das einer absoluten Aufhebung jeglicher zivilen Haftung in Zusammenhang mit dem Programm am nächsten kommt, es sei denn, dem Programm lag eine entgeltliche Garantieerklärung oder Haftungsübernahme bei. 
 </p>
