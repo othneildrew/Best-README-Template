@@ -185,7 +185,7 @@ Wenn du einen Vorschlag hast, der dieses Projekt verbessert, klone bitte einfach
 <!-- LICENSE -->
 ## Lizenz
 
-Lizensiert unter der [Allgemeine Öffentliche GNU-Lizenz, Version 3](license.md).
+Lizensiert unter der [Allgemeine Öffentliche GNU-Lizenz, Version 3](License.md).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -206,7 +206,7 @@ neue Features und Fehlermeldungen können nur im Repository von Othneil Drew gem
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Mein Dank geht an [Othneil Drew][(https://github.com/othneildrew) für seine großartige ReadMe-Vorlage.
+Mein Dank geht an ![Othneil Drew][(https://github.com/othneildrew) für seine großartige ReadMe-Vorlage.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
