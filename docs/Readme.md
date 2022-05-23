@@ -74,7 +74,7 @@
     <li><a href="#fahrplan">Fahrplan</a></li>
     <li><a href="#mitwirkung">Mitwirkung</a></li>
     <li><a href="#license">Lizenz</a></li>
-    <li><a href="#contact">Kontakt</a></li>
+    <li><a href="#kontakt">Kontakt</a></li>
     <li><a href="#acknowledgments">Danksagungen</a></li>
   </ol>
 </details>
@@ -110,17 +110,12 @@ Dieser Abschnitt sollte alle wichtigen Frameworks / Bibliotheken auflisten, die 
 <!-- GETTING STARTED -->
 ## Einstieg
 
-Dies ist ein Beispiel dafür, wie du Anweisungen zum lokalen Einrichten deines Projekts geben kannst.
-
 Um diese Vorlage für deine eigenen Projekte zu verwenden, nutze einfach den "Use this template" 
-Button von GitHub oder Klone dieses Repository. Wenn du es in dein .github Repository auf 
+Button von GitHub oder klone dieses Repository. Wenn du es in dein .github Repository auf 
 GitHub kopierst, werden die Dateien in diesem Repository als Standard für deine Projekte verwendet,
 die noch keine eigenen Community-Dateien haben (zumindest, falls du einen Enterprise Account hast).
 
 ### Voraussetzungen
-
-Dies ist ein Beispiel dafür, wie du Dinge auflisten kannst, die für die Verwendung des Repositories benötigt
-werden, und wie sie installiert werden können.
 
 Bevor du mit der Bearbeitung deiner Community-Dateien beginnst, solltest du dich mit der Syntax der
 .md-Dateien auf GitHub beschäftigen. Ein möglicher Einstieg wäre die [offizielle Dokumentation](https://docs.github.com/en/enterprise-cloud@latest/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) in den GitHub Docs oder auch der [Markdown Guide](https://www.markdownguide.org/basic-syntax).
@@ -132,8 +127,6 @@ Desweiteren empfehle ich eine Entwicklungsumgebung deiner Wahl (z.B. Visual Stud
 für die Bildbearbeitung (ich verwende i.d.R. GIMP und InkScape).
 
 ### Installation
-
-_Hier findest du ein Beispiel dafür, wie du dein Publikum bei der Installation und Einrichtung deiner App / deiner Integration / deines Plug-Ins /  deiner Vorlage unterstützen kannst._
 
 Diese Vorlage ist nicht auf externe Abhängigkeiten oder Dienste angewiesen.
 
@@ -165,7 +158,7 @@ _Weitere Beispiele findest du in der [Dokumentation](https://example.com)_
     - [x] Englisch
     - [ ] Spanisch
 
-Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme) findest du unter [offene Probleme](https://github.com/.nixe64/.github/issues).
+Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme) findest du unter [offene Probleme](https://github.com/othneildrew/Best-README-Template/issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -192,18 +185,19 @@ Wenn du einen Vorschlag hast, der dieses Projekt verbessert, klone bitte einfach
 <!-- LICENSE -->
 ## Lizenz
 
-Lizensiert unter der Allgemeine Öffentliche GNU-Lizenz, Version 3.
+Lizensiert unter der [Allgemeine Öffentliche GNU-Lizenz, Version 3](license.md).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- CONTACT -->
-## Contact
+## Kontakt
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Andreas Nixdorf [(nixe64)](https://github.com/nixe64)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Wenn du Kontakt aufnehmen möchtest, sende mir bitte eine Pull-Anfrage. Vorschläge für
+neue Features und Fehlermeldungen können nur im Repository von Othneil Drew gemeldet werden.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
