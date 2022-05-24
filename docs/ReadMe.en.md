@@ -194,14 +194,11 @@ Licensed under the [GNU General Public License Version, v3](License.md).
 <!-- CONTACT -->
 ## Contact
 
-<a href="https://github.com/nixe64"><img src="images/logo.jpg" alt="profile picture" width="150" /></a>
-<p align="right">
-Andreas Nixdorf (<a href="https://github.com/nixe64/">nixe64</a>)
-
+Andreas Nixdorf \([nixe64](https://github.com/nixe64/")\)
+       
 If you want to get in touch, please send me a pull request. Suggestions for
-new features and bug reports can only be made in Othneil Drew's repository.</div>
-</block>
-</p>
+new features can only be made in [Othneil Drew's  repository](https://github.com/othneildrew/Best-README-Template)
+be reported. This also applies to bug reports.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -210,7 +207,8 @@ new features and bug reports can only be made in Othneil Drew's repository.</div
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Thanks to <a href="(https://github.com/othneildrew">Othneil Drew</a> for his great "Best-README-Template".
+Thanks to <a href="(https://github.com/othneildrew">Othneil Drew</a> for his great 
+["Best-README-Template"](https://github.com/othneildrew/Best-README-Template).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
