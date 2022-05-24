@@ -7,7 +7,9 @@ This template is free software: you can redistribute it and/or modify it under t
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/><br/>
+You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>
+
+<br/>
 <br/>
 
 ### The most important licensing terms in a nutshell
@@ -23,6 +25,7 @@ In keinem Fall, außer wenn durch geltendes Recht gefordert oder schriftlich zug
 #### Interpretation
 
 Sollten der o.a. Gewährleistungsausschluß und die o.a. Haftungsbegrenzung aufgrund ihrer Bedingungen gemäß lokalem Recht unwirksam sein, sollen Bewertungsgerichte dasjenige lokale Recht anwenden, das einer absoluten Aufhebung jeglicher zivilen Haftung in Zusammenhang mit dem Programm am nächsten kommt, es sei denn, dem Programm lag eine entgeltliche Garantieerklärung oder Haftungsübernahme bei. 
+
 <br/>
 <br/>
 

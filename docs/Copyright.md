@@ -8,6 +8,7 @@ Dieses Vorlage ist freie Software. Sie können es unter den Bedingungen der [GNU
 Die Veröffentlichung dieses Programms erfolgt in der Hoffnung, daß es Ihnen von Nutzen sein wird, aber <b>ohne irgeneine</b>, sogar ohne die implizite Garantie der <b>Marktreife</b> oder der <b>Verwendbarkeit f&uuml; einen bestimmten Zweck</b>. Details finden Sie in der GNU General Public License.
 
 Sie sollten ein Exemplar der GNU General Public License zusammen mit diesem Programm erhalten haben. Falls nicht, siehe <http://www.gnu.org/licenses/>.
+
 <br/>
 <br/>
 
@@ -23,6 +24,7 @@ In keinem Fall, außer wenn durch geltendes Recht gefordert oder schriftlich zug
 
 #### Interpretation
 Sollten der o.a. Gewährleistungsausschluß und die o.a. Haftungsbegrenzung aufgrund ihrer Bedingungen gemäß lokalem Recht unwirksam sein, sollen Bewertungsgerichte dasjenige lokale Recht anwenden, das einer absoluten Aufhebung jeglicher zivilen Haftung in Zusammenhang mit dem Programm am nächsten kommt, es sei denn, dem Programm lag eine entgeltliche Garantieerklärung oder Haftungsübernahme bei. 
+
 <br/>
 <br/>
 

@@ -881,43 +881,46 @@ möglichst deutlich darzustellen; zumindest aber sollte jede Datei
 die &bdquo;Copyright&ldquo;-Zeile besitzen sowie einen kurzen
 Hinweis darauf, wo die vollständigen Vermerke zu finden sind.
 
->[<i>eine Zeile mit dem Programmnamen und einer kurzen Beschreibung</i>]<br/>
-Copyright (C) [<i>Jahr</i>]&nbsp;&nbsp;[<i>Name des Autors</i>]<br/>
-><br/>
->This program is free software; you can redistribute it and/or
+<pre>[<i>eine Zeile mit dem Programmnamen und einer kurzen Beschreibung</i>]
+Copyright (C) [<i>Jahr</i>]&nbsp;&nbsp;[<i>Name des Autors</i>]
+
+This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License as
 published by the Free Software Foundation; either version 3 of
-the License, or (at your option) any later version.<br/>
-><br/>
->This program is distributed in the hope that it will be useful,
+the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
-General Public License for more details.<br/>
-><br/>
->You should have received a copy of the GNU General Public License
+General Public License for more details.
+
+You should have received a copy of the GNU General Public License
 along with this program; if not, see
-&lt;http://www.gnu.org/licenses/&gt;.<br/>
+&lt;http://www.gnu.org/licenses/&gt;.
+</pre>
 
 Auf Deutsch:
 
->[<i>eine Zeile mit dem Programmnamen und einer kurzen Beschreibung</i>]<br/>
-Copyright (C) [<i>Jahr</i>]&nbsp;&nbsp;[<i>Name des Autors</i>]<br/>
-><br/>
->Dieses Programm ist freie Software. Sie können es unter den
+<pre>
+[<i>eine Zeile mit dem Programmnamen und einer kurzen Beschreibung</i>]
+Copyright (C) [<i>Jahr</i>]&nbsp;&nbsp;[<i>Name des Autors</i>]
+
+Dieses Programm ist freie Software. Sie können es unter den
 Bedingungen der GNU General Public License, wie von der Free
 Software Foundation veröffentlicht, weitergeben und/oder
 modifizieren, entweder gemäß Version 3 der Lizenz oder (nach
-Ihrer Option) jeder späteren Version.<br/>
-><br/>
->Die Veröffentlichung dieses Programms erfolgt in der Hoffnung,
+Ihrer Option) jeder späteren Version.
+
+Die Veröffentlichung dieses Programms erfolgt in der Hoffnung,
 daß es Ihnen von Nutzen sein wird, aber OHNE IRGENDEINE GARANTIE,
 sogar ohne die implizite Garantie der MARKTREIFE oder der
 VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK. Details finden Sie in
-der GNU General Public License.<br/>
-><br/>
->Sie sollten ein Exemplar der GNU General Public License zusammen
+der GNU General Public License.
+
+Sie sollten ein Exemplar der GNU General Public License zusammen
 mit diesem Programm erhalten haben. Falls nicht, siehe
-&lt;http://www.gnu.org/licenses/&gt;.<br/>
+&lt;http://www.gnu.org/licenses/&gt;.
+</pre>
 
 Fügen Sie auch einen kurzen Hinweis hinzu, wie Sie elektronisch
 und per Brief erreichbar sind.
@@ -925,20 +928,26 @@ und per Brief erreichbar sind.
 Wenn Ihr Programm interaktive Befehle in einem Terminal
 entgegennimmt, sorgen Sie dafür, daß es nach dem Start einen
 kurzen Vermerk ausgibt:
->[Programm]&nbsp;&nbsp;Copyright (C)
-[<i>Jahr</i>]&nbsp;&nbsp;[<i>Name des Autors</i>]<br/>
->This program comes with ABSOLUTELY NO WARRANTY; for details type
-&lsquo;show w&rsquo;.<br/>
->This is free software, and you are welcome to redistribute it
-under certain conditions; type &lsquo;show c&rsquo; for details.<br/>
+
+<pre>
+[Programm]&nbsp;&nbsp;Copyright (C)
+[<i>Jahr</i>]&nbsp;&nbsp;[<i>Name des Autors</i>]
+This program comes with ABSOLUTELY NO WARRANTY; for details type
+&lsquo;show w&rsquo;.
+This is free software, and you are welcome to redistribute it
+under certain conditions; type &lsquo;show c&rsquo; for details.
+</pre>
 
 Auf Deutsch:
->[Programm]&nbsp;&nbsp;Copyright (C)
-[<i>Jahr</i>]&nbsp;&nbsp;[<i>Name des Autors</i>]<br/>
+
+<pre>
+[Programm]&nbsp;&nbsp;Copyright (C)
+[<i>Jahr</i>]&nbsp;&nbsp;[<i>Name des Autors</i>]
 Für dieses Programm besteht KEINERLEI GARANTIE; geben Sie
-&quot;show w&quot; für Details ein.<br/>
+&quot;show w&quot; für Details ein.
 Dies ist freie Software, die Sie unter bestimmten Bedingungen
-weitergeben dürfen; geben Sie &quot;show c&quot; für Details ein.<br/>
+weitergeben dürfen; geben Sie &quot;show c&quot; für Details ein.
+</pre>
 
 Die hypothetischen Kommandos &bdquo;<code>show w</code>&ldquo; und
 &bdquo;<code>show c</code>&ldquo; sollten die entsprechenden Teile

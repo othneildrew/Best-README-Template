@@ -765,22 +765,24 @@ effectively state the exclusion of warranty; and each file should
 have at least the &ldquo;copyright&rdquo; line and a pointer to
 where the full notice is found.
 
->[<i>one line to give the program's name and a brief idea of what it does.</i>]<br/>
->Copyright (C) [<i>year</i>]&nbsp;&nbsp;[<i>name of author</i>]<br/>
-><br/>
->This program is free software: you can redistribute it and/or
+<pre>
+[<i>one line to give the program's name and a brief idea of what it does.</i>]
+Copyright (C) [<i>year</i>]&nbsp;&nbsp;[<i>name of author</i>]
+
+This program is free software: you can redistribute it and/or
 modify it under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of
-the License, or (at your option) any later version.<br/>
->br/>
->This program is distributed in the hope that it will be useful,
+the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-General Public License for more details.<br/>
-><br/>
->You should have received a copy of the GNU General Public
+General Public License for more details.
+
+You should have received a copy of the GNU General Public
 License along with this program.  If not, see
-&lt;http://www.gnu.org/licenses/&gt;.<br/>
+&lt;http://www.gnu.org/licenses/&gt;.
+</pre>
 
 Also add information on how to contact you by electronic and paper
 mail.
@@ -788,12 +790,14 @@ mail.
 If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
->[<i>program</i>]&nbsp;&nbsp;Copyright (C)
-[<i>year</i>]&nbsp;&nbsp;[<i>name of author</i>]<br/>
->This program comes with ABSOLUTELY NO WARRANTY; for details type
-&lsquo;show w&rsquo;.<br/>
->This is free software, and you are welcome to redistribute it
-under certain conditions; type &lsquo;show c&rsquo; for details.<br/>
+<pre>
+[<i>program</i>]&nbsp;&nbsp;Copyright (C)
+[<i>year</i>]&nbsp;&nbsp;[<i>name of author</i>]
+This program comes with ABSOLUTELY NO WARRANTY; for details type
+&lsquo;show w&rsquo;.
+This is free software, and you are welcome to redistribute it
+under certain conditions; type &lsquo;show c&rsquo; for details.
+</br>
 
 The hypothetical commands &lsquo;show w&rsquo; and &lsquo;show
 c&rsquo; should show the appropriate parts of the General Public
