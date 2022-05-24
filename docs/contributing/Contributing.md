@@ -2,7 +2,7 @@
   <sub><a href="Contributing.en.md">English Version</a></sub>
 </p>
 
-### Verbesserungsvorschläage und Fehlerberichte
+### Verbesserungsvorschläge und Fehlerberichte
 
 Wenn du ein neues Feature für eines meiner Projekte vorschlagen möchtest oder einen Fehler gefunden hast, eröffne einfach ein neues Issue auf [GitHub](https://github.com/nixe64).
 
@@ -19,10 +19,10 @@ Der Prozess ist unkompliziert.
  - Forke das Projekt deiner Wahl.
  - Checke den Branch **develop** aus, bevor du mit der Entwicklung beginnst.
   Auf diese Weise hast du bereits die neuesten Funktionen, die sich noch in der Entwicklung befinden, in deinem Code. Aber du kannst auch
-  mit letzten stabilen Version starten, was git automatisch für dich macht.
- - Erstelle einen neuen Branch für deine Arbeit. Commits in die Branches **master** und **develop** sind **nicht erlaubt**. Persönlich empfehle ich die Verwendung von **[GitHub Flow](https://githubflow.github.io/)**, aber es ist nicht erforderlich.
- - Schreibe deinen Code und füge nach Möglichkeit neue Tests für deine Implementierung hinzu. Änderungen an den ursprünglichen Tests **sind nicht gestattet**, außer wenn der Test selbst einen Bug hat oder unvollständig ist.
- - Stelle sicher, dass dein Code lokal funktioniert und, falls verfügbar, die Tests funktionieren.
+  mit der letzten stabilen Version starten, was git automatisch für dich macht.
+ - Erstelle einen neuen Branch für deine Arbeit. Commits in die Branches **master** und **develop** sind **nicht gestattet**. Persönlich empfehle ich die Verwendung von **[GitHub Flow](https://githubflow.github.io/)**, aber es ist nicht erforderlich.
+ - Schreibe deinen Code und füge nach Möglichkeit neue Tests für deine Implementierung hinzu. Änderungen an den ursprünglichen Tests sind **nicht gestattet**, außer wenn der Test selbst einen Bug hat oder unvollständig ist.
+ - Stelle sicher, dass dein Code lokal funktioniert und, falls verfügbar, die Tests keine Fehler finden.
  - Erstelle einen Pull-Request (PR) für den Branch **develop**.
 
 Noch interessiert? **Super, herzlich willkommen im Team!**
