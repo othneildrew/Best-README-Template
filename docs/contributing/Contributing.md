@@ -21,7 +21,7 @@ Der Prozess ist unkompliziert.
   Auf diese Weise hast du bereits die neuesten Funktionen, die sich noch in der Entwicklung befinden, in deinem Code. Aber du kannst auch
   mit letzten stabilen Version starten, was git automatisch für dich macht.
  - Erstelle einen neuen Branch für deine Arbeit. Commits in die Branches **master** und **develop** sind **nicht erlaubt**. Persönlich empfehle ich die Verwendung von **[GitHub Flow](https://githubflow.github.io/)**, aber es ist nicht erforderlich.
- - Schreibe deinen Code und füge nach Möglichkeit neue Tests für deine Implementierung hinzu. Änderungen an den ursprünglichen Tests **sind nicht gestattet**, außer wenn der Test selbst einen Bug hat.
+ - Schreibe deinen Code und füge nach Möglichkeit neue Tests für deine Implementierung hinzu. Änderungen an den ursprünglichen Tests **sind nicht gestattet**, außer wenn der Test selbst einen Bug hat oder unvollständig ist.
  - Stelle sicher, dass dein Code lokal funktioniert und, falls verfügbar, die Tests funktionieren.
  - Erstelle einen Pull-Request (PR) für den Branch **develop**.
 
