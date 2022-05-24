@@ -12,8 +12,7 @@ Aber **bitte überprüfe**, daß du die/der Erste bist, die/der die Verbesserung
 
 ### Mitwirkung an meinen Projekten
 
-Jeder ist eingeladen und willkommen, sich an meinen Projekten zu beteiligen. Es gibt viel zu tun...
-
+Jeder ist eingeladen und willkommen, sich an meinen Projekten zu beteiligen. Es gibt viel zu tun...<br/>
 Der Prozess ist unkompliziert.
 
  - Lies [So erhälst du schnellere PR-Reviews](https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews) von Kubernetes..
@@ -26,5 +25,5 @@ Der Prozess ist unkompliziert.
  - Stelle sicher, dass dein Code lokal funktioniert und, falls verfügbar, die Tests funktionieren.
  - Erstelle einen Pull-Request (PR) für den Branch **develop**.
 
-Noch interessiert? Super, herzlich willkommen im Team!
+Noch interessiert? **Super, herzlich willkommen im Team!**
 
