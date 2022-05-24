@@ -1,4 +1,3 @@
-<div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -92,20 +91,12 @@ There are many great README templates available on GitHub. However, I only found
 
 To get started, please delete this ReadMe.md (also the English language version) and rename ProjectReadMe.md and ProjectReadMe.en.md to ReadMe.md (and ReadMe.en.md).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 ### Built With
 
 This section should list any major frameworks/libraries needed to launch your project. Leave any add-ons/plugins for the Acknowledgments section. Here are a few examples.
 
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [Visual Studio Code](https://code.visualstudio.com/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -131,10 +122,6 @@ for image editing (i usually use GIMP and InkScape).
 
 This template does not rely on any external dependencies or services.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -142,15 +129,10 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
 - [x] Implement change log.
-- [x] Insert "top of page" links.
 - [ ] Add extra templates with examples.
 - [ ] Add "Components" document to easily copy sections of community files
 - [ ] Multi-language support
@@ -161,35 +143,16 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 For a complete list of proposed features (and known issues), see [open issues](https://github.com/othneildrew/Best-README-Template/issues).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such a great place to learn, inspire, and create. Any contributions you make are **much appreciated**.
 
-If you have a suggestion that improves this project, please just fork the repository and create a pull request. You can also simply open an issue with the keyword "improvement". Don't forget to give the project a star! Thanks again!
-
-1. Clone the project
-2. Create a feature branch (`git checkout -b feature/AmazingFeature` or `git flow feature start AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push the branch to my repository (or directly to my source of inspiration) (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
+If interested, please read [Contributing to my projects](contributing/Contributing.en.md) and the [Contributor Covenant Code of Conduct](contributing/CodeOfConduct.en.md).
 <!-- LICENSE -->
 ## License
 
 Licensed under the [GNU General Public License Version, v3](License.md).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -200,19 +163,11 @@ If you have suggestions for new features or would like to report a bug, please u
 
 If you want to collaborate on this template, just send me a pull request.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 Thanks to <a href="(https://github.com/othneildrew">Othneil Drew</a> for his great 
 ["Best-README-Template"](https://github.com/othneildrew/Best-README-Template).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

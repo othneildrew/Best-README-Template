@@ -1,8 +1,18 @@
-# Contributing to my projects
+<p align="right">
+  <sub><a href="Contributing.md">Deutsche Version</a></sub>
+</p>
+
+### Feature suggestions and Bug Reports
+
+If you want to suggest a new feature for one of my projects or if you've found a bug, please open a new issue on [GitHub](https://github.com/nixe64).
+
+But, **please verify** that you are the first to suggest this feature or to report the bug. Thank you!
+
+### Contributing to my projects
 
 Everybody is invited and welcome to contribute to any of my projects. There is a lot to do...
 
-The process is straight-forward.
+The process is straightforward.
 
  - Read [How to get faster PR reviews](https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews)
  by Kubernetes.
@@ -12,14 +22,9 @@ The process is straight-forward.
  with the source of the latest stable release, which is the default behaviour of git.
  - Create a new branch for your work. Commits to the **master** and **develop** branches **are not permitted**. Personally, **i recommend the use of 
  [GitHub Flow](https://githubflow.github.io/)**, but it is not required.
- - Write the code and, if possible, include new tests for your implementation. Changes to the original tests **are not permitted**.
+ - Write the code and, if possible, include new tests for your implementation. Changes to the original tests **are not permitted**, except there's a bug in the test.
  - Ensure your code is working locally and, if available, the tests work.
  - Create a Pull Request against the **develop** branch of the project you choose.
 
 Still interested? Great, you're welcome!
 
-## Feature suggestions
-
-If you want to suggest a new feature for one of my projects, feal free to open a new issue on [GitHub](https://github.com/nixe64).
-
-But, **please verify** that you are the first to suggest this feature. Thank you!
