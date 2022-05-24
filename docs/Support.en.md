@@ -1,15 +1,16 @@
-# Support and Servicing
+## Support and Servicing
 
-## Support
+### How to get Help
 
-### How to get help
+My projects use GitHub Issues to track bug reports and feature requests. Please **search existing Issues first**,
+before making a new request.
 
-My projects use GitHub Issues to track bugs and feature requests. Please **search the existing issues** before filing new issues to avoid duplicates. For new issues, file your bug or feature request as a new Issue.
+If you have any problems or suggestions for improvement that have not yet been described, simply open a new issue.
 
-For help and questions about using one of my projects, please use the [Stack Overflow Questions](https://stackoverflow.com/questions/) first.
+For help and questions about using my projects, please use the [Stack Overflow Questions](https://stackoverflow.com/questions/) first.
 
-### Support Policy
+### Technical Support
 
-The technical support for the software in my repositories is only possible to a very limited extent. This is free software and for this reason the [license agreement](Copyright.en.md) already states:
+This is free software and for that reason the [license agreement](Copyright.md) already states:
 
-The software under this License is distributed on an **"AS IS"** basis.
+**This program is released in the hope that you will find it useful, but without any warranty of merchantability or fitness for a particular purpose.**
