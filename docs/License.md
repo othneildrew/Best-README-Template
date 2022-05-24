@@ -342,36 +342,9 @@ auf eine der folgenden Weisen übertragen:
 |-----|-----------------------------------------------------------------|
 |  a) | Sie übertragen den Objekt-Code in einem physikalischen Produkt (einschließlich ein physikalisches Speichermedium) gemeinsam mit dem korrespondierenden Quelltext, der sich unveränderlich einem haltbaren physikalischen Medium befindet, das üblicherweise für den Austausch von Software verwendet wird|
 |  b) | Sie übertragen den Objekt-Code in einem physikalischen Produkt (einschließlich ein physikalisches Speichermedium) gemeinsam mit einem schriftlichen Angebot, das mindestens drei Jahre lang gültig sein muß und so lange, wie Sie Ersatzteile und Kundendienst für dieses Produktmodell anbieten, jedem, der im  Besitz des Objekt-Codes ist, entweder (1) eine Kopie des korrespondierenden Quelltextes der gesamten Software, die in dem Produkt enthalten und von dieser Lizenz betroffen ist, zur Verfügung zu stellen  – auf einem haltbaren physikalischen Medium, das üblicherweise für den Austausch von Software verwendet wird, und zu nicht höheren Kosten als denen, die begründbar durch den physikalischen Vorgang der Übertragung des Quelltextes anfallen, oder (2) kostenlosen Zugriff, um den  korrespondierenden Quelltext von einem Netzwerk-Server zu kopieren.|
-|  c) | Sie übertragen Kopien des Objekt-Codes gemeinsam mit einer      |
-|     | Kopie des schriftlichen Angebots, den korrespondierenden        |
-|     | Quelltext zur Verfügung zu stellen. Diese Alternative ist nur   |
-|     | für gelegentliche, nicht-kommerzielle Übertragung zulässig und  |
-|     | nur, wenn Sie den Objekt-Code als mit einem entsprechenden      |
-|     | Angebot gemäß Absatz 6b erhalten haben.                         |
-|     |                                                                 |
-|  d) | Sie übertragen den Objekt-Code dadurch, daß Sie Zugriff auf     |
-|     | eine dafür vorgesehene Stelle gewähren, und bieten              |
-|     | gleichwertigen Zugriff auf den korrespondierenden Quelltext     |
-|     | auf gleichem Weg auf dieselbe Stelle und ohne zusätzliche       |
-|     | Kosten. Sie müssen nicht von den Empfängern verlangen, den      |
-|     | korrespondierenden Quelltext gemeinsam mit dem Objekt-Code zu   |
-|     | kopieren. Wenn es sich bei der für das Kopieren vorgesehenen    |
-|     | Stelle um einen Netzwerk-Server handelt, darf sich der          |
-|     | korrespondierende Quelltext auf einem anderen Server befinden   |
-|     | (von Ihnen oder von einem Dritten betrieben), der               |
-|     | gleichwertige Kopiermöglichkeiten unterstützt  –                |
-|     | vorausgesetzt Sie legen dem Objekt-Code klare Anleitungen bei,  |
-|     | die besagen, wo der korrespondierende Quelltext zu finden ist.  |
-|     | Unabhängig davon, welcher Netzwerk-Server den                   |
-|     | korrespondierenden Quelltext beherbergt, bleiben Sie            |
-|     | verpflichtet, sicherzustellen, daß dieser lange genug           |
-|     | bereitgestellt wird, um diesen Bedingungen zu genügen.          |
-|     |                                                                 |
-|  e) | Sie übertragen den Objekt-Code unter Verwendung von             |
-|     | Peer-To-Peer-Übertragung  – vorausgesetzt, Sie informieren      |
-|     | andere Teilnehmer darüber, wo der Objekt-Code und der           |
-|     | korrespondierende Quelltext des Werks unter den Bedingungen von |
-|     | Absatz 6d öffentlich und kostenfrei angeboten werden.           |
+|  c) | Sie übertragen Kopien des Objekt-Codes gemeinsam mit einer Kopie des schriftlichen Angebots, den korrespondierenden Quelltext zur Verfügung zu stellen. Diese Alternative ist nur für gelegentliche, nicht-kommerzielle Übertragung zulässig und nur, wenn Sie den Objekt-Code als mit einem entsprechenden Angebot gemäß Absatz 6b erhalten haben.|
+|  d) | Sie übertragen den Objekt-Code dadurch, daß Sie Zugriff aufeine dafür vorgesehene Stelle gewähren, und bieten gleichwertigen Zugriff auf den korrespondierenden Quelltext auf gleichem Weg auf dieselbe Stelle und ohne zusätzliche Kosten. Sie müssen nicht von den Empfängern verlangen, den korrespondierenden Quelltext gemeinsam mit dem Objekt-Code zu kopieren. Wenn es sich bei der für das Kopieren vorgesehenen Stelle um einen Netzwerk-Server handelt, darf sich der korrespondierende Quelltext auf einem anderen Server befinden (von Ihnen oder von einem Dritten betrieben), der gleichwertige Kopiermöglichkeiten unterstützt  – vorausgesetzt Sie legen dem Objekt-Code klare Anleitungen bei, die besagen, wo der korrespondierende Quelltext zu finden ist. Unabhängig davon, welcher Netzwerk-Server Quelltext, bleiben Sie verpflichtet, sicherzustellen, daß dieser lange genug bereitgestellt wird, um diesen Bedingungen zu genügen.|
+|  e) | Sie übertragen den Objekt-Code unter Verwendung von Peer-To-Peer-Übertragung  – vorausgesetzt, Sie informieren andere Teilnehmer darüber, wo der Objekt-Code und der korrespondierende Quelltext des Werks unter den Bedingungen von Absatz 6d öffentlich und kostenfrei angeboten werden.|
 
 Ein abtrennbarer Anteil des Objekt-Codes, dessen Quelltext von dem
 korrespondierenden Quelltext als Systembibliothek ausgeschlossen
@@ -466,58 +439,14 @@ für Material, das Sie einem betroffenen Werk hinzufügen (sofern
 Sie durch die Urheberrechtsinhaber dieses Materials autorisiert
 sind), die Bedingungen dieser Lizenz um folgendes ergänzen:
 
-<table cellspacing="5">
-<tr>
-<td align="right" valign="top">a)</td>
-<td>
-Gewährleistungsausschluß oder Haftungsbegrenzung abweichend von
-§§15 und 16 dieser Lizenz oder
-</td>
-</tr>
-<tr>
-<td align="right" valign="top">b)</td>
-<td>
-die Anforderung, spezifizierte sinnvolle rechtliche Hinweise
-oder Autorenschaftshinweise in diesem Material oder in den
-angemessenen rechtlichen Hinweisen, die von den sie enthaltenen
-Werken angezeigt werden, zu erhalten, oder
-</td>
-</tr>
-<tr>
-<td align="right" valign="top">c)</td>
-<td>
-das Verbot, die Herkunft des Materials falsch darzustellen oder
-die Anforderung, daß modifizierte Versionen des Materials auf
-angemessens Weise als vom Original verschieden markiert werden,
-oder
-</td>
-</tr>
-<tr>
-<td align="right" valign="top">d)</td>
-<td>
-Begrenzung der Verwendung der Namen von Lizenzgebern oder
-Autoren des Materials für Werbezwecke oder
-</td>
-</tr>
-<tr>
-<td align="right" valign="top">e)</td>
-<td>
-das Zurückweisen der Einräumung von Rechten gemäß dem
-Markenrecht zur Benutzung gewisser Produktnamen, Produkt- oder
-Service-Marken oder
-</td>
-</tr>
-<tr>
-<td align="right" valign="top">f)</td>
-<td> die Erfordernis der Freistellung des Lizenznehmers und der
-Autoren des Materials durch jeden, der die Software (oder
-modifizierte Versionen davon) überträgt, mit vertraglichen
-Prämissen der Verantwortung gegenüber dem Empfänger für jede
-Verantwortung, die diese vertraglichen Prämissen diesen
-Lizenzgebern und Autoren direkt auferlegen.
-</td>
-</tr>
-</table>
+|     |  mögliche Ergänzung  |
+|-----|----------------------|
+|  a) | Gewährleistungsausschluß oder Haftungsbegrenzung abweichend von §§15 und 16 dieser Lizenz oder |
+|  b) | die Anforderung, spezifizierte sinnvolle rechtliche Hinweise oder Autorenschaftshinweise in diesem Material oder in den angemessenen rechtlichen Hinweisen, die von den sie enthaltenen Werken angezeigt werden, zu erhalten, oder |
+|  c) | das Verbot, die Herkunft des Materials falsch darzustellen oder die Anforderung, daß modifizierte Versionen des Materials auf angemessens Weise als vom Original verschieden markiert werden, oder |
+|  d) | Begrenzung der Verwendung der Namen von Lizenzgebern oder Autoren des Materials für Werbezwecke oder |
+|  e) | das Zurückweisen der Einräumung von Rechten gemäß dem Markenrecht zur Benutzung gewisser Produktnamen, Produkt- oder Service-Marken oder |
+|  f) |  die Erfordernis der Freistellung des Lizenznehmers und der Autoren des Materials durch jeden, der die Software (oder modifizierte Versionen davon) überträgt, mit vertraglichen Prämissen der Verantwortung gegenüber dem Empfänger für jede Verantwortung, die diese vertraglichen Prämissen diesen Lizenzgebern und Autoren direkt auferlegen.|
 
 Alle anderen hinzugefügten einschränkenden Bedingungen werden als
 „zusätzliche Einschränkungen“ im Sinne von §10
