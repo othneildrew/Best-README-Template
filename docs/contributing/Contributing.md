@@ -1,5 +1,5 @@
 <p align="right">
-  <sub><a href="Contributing.md">Deutsche Version</a></sub>
+  <sub><a href="Contributing.en.md">English Version</a></sub>
 </p>
 
 ### Verbesserungsvorschläage und Fehlerberichte
@@ -7,6 +7,8 @@
 Wenn du ein neues Feature für eines meiner Projekte vorschlagen möchtest oder einen Fehler gefunden hast, eröffne einfach ein neues Issue auf [GitHub](https://github.com/nixe64).
 
 Aber **bitte überprüfe**, daß du die/der Erste bist, die/der die Verbesserung vorschlägt oder diesen Fehler meldet. Danke!
+<br/>
+<br/>
 
 ### Mitwirkung an meinen Projekten
 
@@ -14,7 +16,7 @@ Jeder ist eingeladen und willkommen, sich an meinen Projekten zu beteiligen. Es 
 
 Der Prozess ist unkompliziert.
 
- - - Lies [So erhälst du schnellere PR-Reviews] (https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews) von Kubernetes..
+ - Lies [So erhälst du schnellere PR-Reviews](https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews) von Kubernetes..
  - Forke das Projekt deiner Wahl.
  - Checke den Branch **develop** aus, bevor du mit der Entwicklung beginnen.
   Auf diese Weise hast du bereits die neuesten Funktionen, die sich noch in der Entwicklung befinden, in deinem Code. Aber du kannst auch
