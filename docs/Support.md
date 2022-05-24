@@ -1,6 +1,4 @@
-# Unterstützung und Wartung
-
-## Unterstützung
+## Unterstützung und Wartung
 
 ### Hier bekommst du Hilfe
 
@@ -11,7 +9,7 @@ Bei noch nicht geschilderten Problemen oder Vorschlägen für die Verbesserung, 
 
 Für Hilfe und Fragen zur Verwendung meiner Projekte verwende bitte zuerst die [Stack Overflow Questions](https://stackoverflow.com/questions/).
 
-### Support Policy
+### Technischer Support
 
 Der technische Support für die Software in meinen Repositories ist nur sehr eingeschränkt möglich. 
 Dies ist freie Software und aus diesem Grund heißt es bereits in der [Lizenzvereinbarung](Copyright.md):
