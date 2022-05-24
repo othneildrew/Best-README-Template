@@ -1,7 +1,7 @@
 <p align="right"><a href="Copyright.en.md"><sub>English Version</sub></a></p>
 
 ### ReadMe - Template
-Copyright &copy;&nbsp;2022, Andreas Nixdorf.
+Copyright © 2022, Andreas Nixdorf.
 
 This template is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](License.en.md) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
@@ -35,5 +35,5 @@ This project is based on a great open source project that was a great help to im
 my ideas.
 
 [Best-README-Template](https://github.com/othneildrew/Best-README-Template)<br/>
-Copyright &copy; 2021 Othneil Drew<br/>
+Copyright © 2021 Othneil Drew<br/>
 Distributed with [MIT](license.mit.en.md) Copyright.

@@ -1,18 +1,18 @@
 <p align="right"><a href="Copyright.en.md"><sub>English Version</sub></a></p>
 
 ### ReadMe - Vorlage
-Copyright &copy;&nbsp;2022, Andreas Nixdorf.
+Copyright © 2022, Andreas Nixdorf.
 
 Dieses Vorlage ist freie Software. Sie können es unter den Bedingungen der [GNU General Public License](License.md), wie von der Free Software Foundation veröffentlicht, weitergeben und/oder modifizieren, entweder gemäß Version 3 der Lizenz oder (nach Ihrer Option) jeder späteren Version
 
-Die Veröffentlichung dieses Programms erfolgt in der Hoffnung, daß es Ihnen von Nutzen sein wird, aber <b>ohne irgeneine</b>, sogar ohne die implizite Garantie der <b>Marktreife</b> oder der <b>Verwendbarkeit f&uuml; einen bestimmten Zweck</b>. Details finden Sie in der GNU General Public License.
+Die Veröffentlichung dieses Programms erfolgt in der Hoffnung, daß es Ihnen von Nutzen sein wird, aber <b>ohne irgeneine</b>, sogar ohne die implizite Garantie der <b>Marktreife</b> oder der <b>Verwendbarkeit f ü einen bestimmten Zweck</b>. Details finden Sie in der GNU General Public License.
 
 Sie sollten ein Exemplar der GNU General Public License zusammen mit diesem Programm erhalten haben. Falls nicht, siehe <http://www.gnu.org/licenses/>.
 
 <br/>
 <br/>
 
-### Die wichtigsten Lizenzbestimmungen in aller K&uuml;rze
+### Die wichtigsten Lizenzbestimmungen in aller K ürze
 
 #### Gewährleistungsausschluß
 
@@ -34,5 +34,5 @@ Dieses Projekt basiert auf einem großartigem Open-Source-Projekt, das mir bei d
 meiner Ideen eine große Hilfe war.
 
 [Die beste ReadMe-Vorlage](https://github.com/othneildrew/Best-README-Template)<br/>
-Copyright &copy; 2021 Othneil Drew<br/>
-Verbreitet mit [MIT](License.mit.md) Urheberrecht.
+Copyright © 2021 Othneil Drew<br/>
+Herausgegeben mit [MIT](License.mit.md) Urheberrecht.
