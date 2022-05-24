@@ -1,33 +1,28 @@
 
-<p>
-  <a href="https://opensource.org/licenses/Apache-2.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/osi-approved-license.png" align="right" width="150" /></a>
-</p>
-<p>
-  <p align="right"><sub><a href="License.apache.en.md">English Version</a></sub></p>
-  <h1 align="center">
-    <img src="images/1x1.png" height="50" width="1" />
-    Apache License
-  </h1>
-  <p align="center">
-	Version 2.0, January 2004<br/> <a href="http://www.apache.org/licenses/">http://www.apache.org/licenses/</a>
-  </p>
-  <p>
-    <img src="images/1x1.png" height="50" width="1" />
-  </p>
-</p>
-<h3 align="center">BEDINGUNGEN F&Uuml;R DIE NUTZUNG, VERVIELF&Auml;LTIGUNG UND VERBREITUNG</h3>
+<a href="https://opensource.org/licenses/Apache-2.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/osi-approved-license.png" align="right" width="150" /></a>
+<p align="right"><sub><a href="License.apache.en.md">English Version</a></sub></p>
 
-<h3 align="center">1. Definitionen.</h4>
+
+### Apache License
+
+Version 2.0, January 2004<br/> <a href="http://www.apache.org/licenses/">http://www.apache.org/licenses/</a>
+
+<br/>
+<br/>
+
+### BEDINGUNGEN F&Uuml;R DIE NUTZUNG, VERVIELF&Auml;LTIGUNG UND VERBREITUNG
+
+#### 1. Definitionen.
 
 <p>&bdquo;Lizenz&ldquo; bezeichnet die Bedingungen f&uuml;r die Nutzung, Vervielf&auml;ltigung und Verbreitung gem&auml;&szlig; Definition in den Abschnitten 1 bis 9 dieses Dokuments.</p>
 
-<p>&bdquo;Lizenzgeber&ldquo; bezeichnet den Urheberrechtsinhaber oder den vom Urheberrechtsinhaber autorisierten Rechtstr&auml;ger, der die Lizenz gew&auml;hrt.</p>
+<p>&bdquo;Lizenzgeber&ldquo; bezeichnet den Urheberrechtsinhaber oder den vom Urheberrechtsinhaber autorisierten Rechtstr&auml;ger, der die Lizenz gew&auml;hrt.
 
-<p>&bdquo;Juristische Person&ldquo; bezeichnet die Vereinigung des handelnden Rechtstr&auml;gers und aller anderen Rechtstr&auml;ger, die diesen Rechtstr&auml;ger kontrollieren, von diesem kontrolliert werden oder mit diesem unter gemeinsamer Kontrolle stehen. Im Sinne dieser Definition bedeutet &bdquo;Kontrolle&ldquo; (i) die Befugnis, direkt oder indirekt auf vertraglicher oder sonstiger Grundlage die F&uuml;hrung oder Leitung dieses Rechtstr&auml;gers zu veranlassen, (ii) Eigentum von mindestens f&uuml;nfzig Prozent (50 %) der ausgegebenen Anteile oder (iii) Nie&szlig;brauch dieses Rechtstr&auml;gers.</p>
+&bdquo;Juristische Person&ldquo; bezeichnet die Vereinigung des handelnden Rechtstr&auml;gers und aller anderen Rechtstr&auml;ger, die diesen Rechtstr&auml;ger kontrollieren, von diesem kontrolliert werden oder mit diesem unter gemeinsamer Kontrolle stehen. Im Sinne dieser Definition bedeutet &bdquo;Kontrolle&ldquo; (i) die Befugnis, direkt oder indirekt auf vertraglicher oder sonstiger Grundlage die F&uuml;hrung oder Leitung dieses Rechtstr&auml;gers zu veranlassen, (ii) Eigentum von mindestens f&uuml;nfzig Prozent (50 %) der ausgegebenen Anteile oder (iii) Nie&szlig;brauch dieses Rechtstr&auml;gers.
 
-<p>&bdquo;Sie&ldquo; (oder &bdquo;Ihr&ldquo;) bezeichnet eine nat&uuml;rliche oder juristische Person, welche die durch diese Lizenz gew&auml;hrten Berechtigungen aus&uuml;bt.</p>
+&bdquo;Sie&ldquo; (oder &bdquo;Ihr&ldquo;) bezeichnet eine nat&uuml;rliche oder juristische Person, welche die durch diese Lizenz gew&auml;hrten Berechtigungen aus&uuml;bt.
 
-<p>&bdquo;Quellform&ldquo; bezeichnet die bevorzugte Form f&uuml;r die Durchf&uuml;hrung von &Auml;nderungen, insbesondere Softwarequellcode, Dokumentationsquelle und Konfigurationsdateien.</p>
+&bdquo;Quellform&ldquo; bezeichnet die bevorzugte Form f&uuml;r die Durchf&uuml;hrung von &Auml;nderungen, insbesondere Softwarequellcode, Dokumentationsquelle und Konfigurationsdateien.
 
 <p>&bdquo;Objektform&ldquo; bezeichnet jede Form, die aus der mechanischen Umwandlung oder &Uuml;bersetzung einer Quellform entsteht, insbesondere kompilierter Objektcode, erzeugte Dokumentation und Konvertierung in andere Medienarten.</p>
 
