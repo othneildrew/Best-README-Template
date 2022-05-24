@@ -498,6 +498,15 @@ assumptions directly impose on those licensors and authors.
 </tr>
 </table>
 
+|-----------------------------------------------------------------|
+| Requiring indemnification of licensors and authors of that      |
+| material by anyone who conveys the material (or modified        |
+| versions of it) with contractual assumptions of liability to    |
+| the recipient, for any liability that these contractual         |
+| assumptions directly impose on those licensors and authors.     |
+|-----------------------------------------------------------------|
+
+
 All other non-permissive additional terms are considered
 &ldquo;further restrictions&rdquo; within the meaning of section
 10. If the Program as you received it, or any part of it, contains
@@ -797,7 +806,7 @@ This program comes with ABSOLUTELY NO WARRANTY; for details type
 &lsquo;show w&rsquo;.
 This is free software, and you are welcome to redistribute it
 under certain conditions; type &lsquo;show c&rsquo; for details.
-</br>
+</pre>
 
 The hypothetical commands &lsquo;show w&rsquo; and &lsquo;show
 c&rsquo; should show the appropriate parts of the General Public
