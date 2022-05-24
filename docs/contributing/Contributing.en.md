@@ -27,5 +27,5 @@ The process is straightforward.
  - Ensure your code is working locally and, if available, the tests work.
  - Create a Pull Request against the **develop** branch of the project you choose.
 
-Still interested? **Great, you're welcome!**
+Still interested? **Great, welcome to the team!**
 
