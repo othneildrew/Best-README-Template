@@ -7,11 +7,12 @@
 If you want to suggest a new feature for one of my projects or if you've found a bug, please open a new issue on [GitHub](https://github.com/nixe64).
 
 But, **please verify** that you are the first to suggest this feature or to report the bug. Thank you!
+<br/>
+<br/>
 
 ### Contributing to my projects
 
-Everybody is invited and welcome to contribute to any of my projects. There is a lot to do...
-
+Everybody is invited and welcome to contribute to any of my projects. There is a lot to do...<br/>
 The process is straightforward.
 
  - Read [How to get faster PR reviews](https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews)
@@ -26,5 +27,5 @@ The process is straightforward.
  - Ensure your code is working locally and, if available, the tests work.
  - Create a Pull Request against the **develop** branch of the project you choose.
 
-Still interested? Great, you're welcome!
+Still interested? **Great, you're welcome!**
 
