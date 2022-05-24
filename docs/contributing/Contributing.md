@@ -17,7 +17,7 @@ Der Prozess ist unkompliziert.
 
  - Lies [So erhälst du schnellere PR-Reviews](https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews) von Kubernetes..
  - Forke das Projekt deiner Wahl.
- - Checke den Branch **develop** aus, bevor du mit der Entwicklung beginnen.
+ - Checke den Branch **develop** aus, bevor du mit der Entwicklung beginnst.
   Auf diese Weise hast du bereits die neuesten Funktionen, die sich noch in der Entwicklung befinden, in deinem Code. Aber du kannst auch
   mit letzten stabilen Version starten, was git automatisch für dich macht.
  - Erstelle einen neuen Branch für deine Arbeit. Commits in die Branches **master** und **develop** sind **nicht erlaubt**. Persönlich empfehle ich die Verwendung von **[GitHub Flow](https://githubflow.github.io/)**, aber es ist nicht erforderlich.
