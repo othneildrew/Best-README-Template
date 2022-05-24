@@ -1,7 +1,7 @@
 <a href="https://opensource.org/licenses/MIT/"><img alt="OSI Approved License Logo" hspace="20" src="images/osi-approved-license.png" align="right" width="150" /></a>
 <p align="right"><a href="License.mit.en.md"><sub>English Version</sub></a></p>
 
-**Sinngemäße Übersetzung** (nicht offiziell)
+**Sinngemäße Übersetzung** (nicht offiziell) aus [Wikipedia](https://de.wikipedia.org/wiki/MIT-Lizenz).
 
 ### Lizenztext.
 

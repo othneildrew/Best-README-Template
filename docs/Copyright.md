@@ -28,11 +28,11 @@ Sollten der o.a. Gewährleistungsausschluß und die o.a. Haftungsbegrenzung aufg
 <br/>
 <br/>
 
-### Copyrights
+### Urheberrechte
 
 Dieses Projekt basiert auf einem großartigem Open-Source-Projekt, das mir bei der Umsetzung
 meiner Ideen eine große Hilfe war.
 
 [Die beste ReadMe-Vorlage](https://github.com/othneildrew/Best-README-Template)<br/>
 Copyright &copy; 2021 Othneil Drew<br/>
-Lizensiert unter der [MIT Lizenz](license.mit.md)
+Verbreitet mit [MIT](License.mit.md) Urheberrecht.

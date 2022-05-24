@@ -36,4 +36,4 @@ my ideas.
 
 [Best-README-Template](https://github.com/othneildrew/Best-README-Template)<br/>
 Copyright &copy; 2021 Othneil Drew<br/>
-Distributed under the [MIT Lizenz](license.mit.en.md)
+Distributed with [MIT](license.mit.en.md) Copyright.
