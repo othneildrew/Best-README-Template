@@ -2,7 +2,7 @@
   <sub><a href="Contributing.md">Deutsche Version</a></sub>
 </p>
 
-### Feature suggestions and Bug Reports
+### Feature suggestions and bug reports
 
 If you want to suggest a new feature for one of my projects or if you've found a bug, please open a new issue on [GitHub](https://github.com/nixe64).
 
