@@ -23,7 +23,7 @@ The process is straightforward.
  with the source of the latest stable release, which is the default behaviour of git.
  - Create a new branch for your work. Commits to the **master** and **develop** branches **are not permitted**. Personally, **i recommend the use of 
  [GitHub Flow](https://githubflow.github.io/)**, but it is not required.
- - Write the code and, if possible, include new tests for your implementation. Changes to the original tests **are not permitted**, unless the test itself has a bug.
+ - Write the code and, if possible, include new tests for your implementation. Changes to the original tests **are not permitted**, unless the test itself has a bug or is incomplete.
  - Ensure your code is working locally and, if available, the tests work.
  - Create a Pull Request against the **develop** branch of the project you choose.
 
