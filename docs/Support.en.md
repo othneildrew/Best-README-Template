@@ -10,6 +10,6 @@ For help and questions about using one of my projects, please use the [Stack Ove
 
 ### Support Policy
 
-The technical support for the software in my repositories is only possible to a very limited extent. This is free software and for this reason the [license agreement](LICENSE_AGREEMENT) already states:
+The technical support for the software in my repositories is only possible to a very limited extent. This is free software and for this reason the [license agreement](Copyright.en.md) already states:
 
 The software under this License is distributed on an **"AS IS"** basis.
