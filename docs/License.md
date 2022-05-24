@@ -712,8 +712,7 @@ Haftungsübernahme bei.
 <br/>
 <br/>
 
-### Wie Sie diese Bedingungen auf Ihre eigenen, neuen Programme
-anwenden können
+### Wie Sie diese Bedingungen auf Ihre eigenen, neuen Programme anwenden können
 
 Wenn Sie ein neues Programm entwickeln und wollen, daß es vom
 größtmöglichen Nutzen für die Allgemeinheit ist, dann erreichen
