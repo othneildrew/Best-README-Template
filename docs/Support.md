@@ -14,4 +14,4 @@ Für Hilfe und Fragen zur Verwendung meiner Projekte verwende bitte zuerst die [
 Der technische Support für die Software in meinen Repositories ist nur sehr eingeschränkt möglich. 
 Dies ist freie Software und aus diesem Grund heißt es bereits in der [Lizenzvereinbarung](Copyright.md):
 
-Die Software unter dieser Lizenz wird auf **"AS-IS"**-Basis verteilt.
+**Die Veröffentlichung dieses Programms erfolgt in der Hoffnung, daß es Ihnen von Nutzen ist, aber ohne irgeneine Garantie der Marktreife oder der Verwendbarkeit für einen bestimmten Zweck.**
