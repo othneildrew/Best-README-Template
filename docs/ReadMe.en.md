@@ -196,9 +196,9 @@ Licensed under the [GNU General Public License Version, v3](License.md).
 
 Andreas Nixdorf \([nixe64](https://github.com/nixe64/")\)
        
-If you want to get in touch, please send me a pull request. Suggestions for
-new features can only be made in [Othneil Drew's  repository](https://github.com/othneildrew/Best-README-Template)
-be reported. This also applies to bug reports.
+If you have suggestions for new features or would like to report a bug, please use the GitHub Issues.
+
+If you want to collaborate on this template, just send me a pull request.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

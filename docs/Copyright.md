@@ -28,7 +28,7 @@ Sollten der o.a. Gewährleistungsausschluß und die o.a. Haftungsbegrenzung aufg
 <br/>
 <br/>
 
-### Urheberrechte
+### Urheberrechtslizenzen
 
 Dieses Projekt basiert auf einem großartigem Open-Source-Projekt, das mir bei der Umsetzung
 meiner Ideen eine große Hilfe war.

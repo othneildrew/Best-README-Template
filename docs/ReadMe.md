@@ -186,7 +186,7 @@ Wenn du einen Vorschlag hast, der dieses Projekt verbessert, klone bitte einfach
 <!-- LICENSE -->
 ## Lizenz
 
-Lizensiert unter der [Allgemeine Öffentliche GNU-Lizenz, Version 3](License.md).
+Lizensiert unter der [Allgemeinen Öffentlichen GNU-Lizenz, Version 3](License.md).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -197,10 +197,9 @@ Lizensiert unter der [Allgemeine Öffentliche GNU-Lizenz, Version 3](License.md)
 
 Andreas Nixdorf \([nixe64](https://github.com/nixe64/")\)
        
-Wenn du Kontakt aufnehmen möchtest, sende mir bitte eine Pull-Anfrage. Vorschläge für
-neue Features können nur im Repository von [Othneil Drew](https://github.com/othneildrew/Best-README-Template) 
-gemeldet werden. Das gilt auch für Fehlerberichte.
+Wenn du Vorschläge für neue Features hast oder einen Fehler melden möchtest, nutze bitte die GitHub Issues.
 
+Wenn du an dieser Vorlage mitarbeiten möchtest, sende mir einfach einen Pull-Request.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
