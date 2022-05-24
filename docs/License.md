@@ -16,7 +16,7 @@ nicht erlaubt.
 
 
 **Diese Übersetzung ist kein rechtskräftiger Ersatz für die
-[]>englischsprachige Originalversion](License.en.md)!**
+[englischsprachige Originalversion](License.en.md)!**
 
 <br/>
 <br/>
@@ -288,33 +288,12 @@ Modifikationen, um es aus dem Programm zu generieren, kopieren und
 §4, vorausgesetzt, daß Sie zusätzlich alle im folgenden
 genannten Bedingungen erfüllen:
 
-|     | Bedingung                                                       |
-|-----|-----------------------------------------------------------------|
-|  a) | Das veränderte Werk muß auffällige Vermerke tragen, die         |
-|     | besagen, daß Sie es modifiziert haben, und die ein darauf       |
-|     | bezogenes Datum angeben.                                        |
-|     |                                                                 |
-|  b) | Das veränderte Werk muß auffällige Vermerke tragen, die         |
-|     | besagen, daß es unter dieser Lizenz einschließlich der gemäß    |
-|     | §7 hinzugefügten Bedingungen herausgegeben wird. Diese          |
-|     | Anforderung wandelt die Anforderung aus §4 ab, „alle            |
-|     | Hinweise intakt zu lassen“.                                     |
-|     |                                                                 |
-|  c) | Sie müssen das Gesamtwerk als Ganzes gemäß dieser Lizenz an     |
-|     | jeden lizensieren, der in den Besitz einer Kopie gelangt. Diese |
-|     | Lizenz wird daher  – ggf. einschließlich zusätzlicher           |
-|     | Bedingungen gemäß §7  – für das Werk als Ganzes und             |
-|     | alle seine Teile gelten, unabhängig davon, wie diese            |
-|     | zusammengepackt werden. Diese Lizenz erteilt keine Erlaubnis,   |
-|     | das Werk in irgendeiner anderen Weise zu lizensieren, setzt     |
-|     | aber eine derartige Erlaubnis nicht außer Kraft, wenn Sie sie   |
-|     | diese gesondert erhalten haben.                                 |
-|     |                                                                 |
-|  d) | Wenn das Werk über interaktive Benutzerschnittstellen verfügt,  |
-|     | müssen diese jeweils angemessene rechtliche Hinweise anzeigen.  |
-|     | Wenn allerdings das Programm interaktive Benutzerschnittstellen |
-|     | hat, die keine angemessenen rechtlichen Hinweise anzeigen,      |
-|     | braucht Ihr Werk nicht dafür zu sorgen, daß sie dies tun.       |
+|     | zu erfüllende Bedingung |
+|-----|-------------------------|
+|  a) | Das veränderte Werk muß auffällige Vermerke tragen, die besagen, daß Sie es modifiziert haben, und die ein darauf bezogenes Datum angeben. |
+|  b) | Das veränderte Werk muß auffällige Vermerke tragen, die besagen, daß es unter dieser Lizenz einschließlich der gemäß §7 hinzugefügten Bedingungen herausgegeben wird. Diese Anforderung wandelt die Anforderung aus §4 ab, „alle Hinweise intakt zu lassen“. |
+|  c) | Sie müssen das Gesamtwerk als Ganzes gemäß dieser Lizenz an jeden lizensieren, der in den Besitz einer Kopie gelangt. Diese Lizenz wird daher  – ggf. einschließlich zusätzlicher Bedingungen gemäß §7  – für das Werk als Ganzes und alle seine Teile gelten, unabhängig, wie diese zusammengepackt werden. Diese Lizenz erteilt keine Erlaubnis, das Werk in irgendeiner anderen Weise zu lizensieren, setzt  aber eine derartige Erlaubnis nicht außer Kraft, wenn Sie sie diese gesondert erhalten haben. |
+|  d) | Wenn das Werk über interaktive Benutzerschnittstellen verfügt, müssen diese jeweils angemessene rechtliche Hinweise anzeigen. Wenn allerdings das Programm interaktive Benutzerschnittstellen hat, die keine angemessenen rechtlichen Hinweise anzeigen, braucht Ihr Werk nicht dafür zu sorgen, daß sie dies tun. |
 
 Die Zusammenstellung eines betroffenen Werks mit anderen
 gesonderten und unabhängigen Werken, die nicht ihrer Natur nach
