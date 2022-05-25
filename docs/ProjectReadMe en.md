@@ -1,7 +1,7 @@
 <div align="right">
 <details>
 <summary>🇩🇪</summary>
-    <a href="ProjectReadMe.en.md">🇩🇪 deutsch</a><br/>
+    <a href="ProjectReadMe.md">🇩🇪 deutsch</a><br/>
     🇬🇧 english
 </details>
 </div>
