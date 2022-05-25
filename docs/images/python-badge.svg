@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="126"
+   height="20"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="python-badge.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata44">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs42">
+    <linearGradient
+       gradientTransform="scale(1.2527747,0.79822813)"
+       id="pyYellow"
+       x1="21.552159"
+       y1="35.077692"
+       x2="111.75194"
+       y2="35.077692"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop164"
+         offset="0.6"
+         stop-color="#fe5" />
+      <stop
+         id="stop166"
+         offset="1"
+         stop-color="#da1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="scale(1.0865337,0.92035799)"
+       id="pyBlue"
+       x1="2.761074"
+       y1="3.2596012"
+       x2="80.991503"
+       y2="3.2596012"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop169"
+         offset="0.4"
+         stop-color="#69f" />
+      <stop
+         id="stop171"
+         offset="1"
+         stop-color="#468" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview40"
+     showgrid="false"
+     inkscape:zoom="3.5748792"
+     inkscape:cx="30.244432"
+     inkscape:cy="10"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <linearGradient
+     id="smooth"
+     x2="0"
+     y2="1">
+    <stop
+       offset="0"
+       stop-color="#bbb"
+       stop-opacity=".1"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-opacity=".1"
+       id="stop4" />
+  </linearGradient>
+  <clipPath
+     id="round">
+    <rect
+       width="126"
+       height="20"
+       rx="3"
+       id="rect7"
+       x="0"
+       y="0"
+       style="fill:#ffffff" />
+  </clipPath>
+  <g
+     clip-path="url(#round)"
+     id="g16">
+    <rect
+       width="63"
+       height="20"
+       id="rect10"
+       x="0"
+       y="0"
+       style="fill:#555555" />
+    <rect
+       x="63"
+       width="63"
+       height="20"
+       id="rect12"
+       y="0"
+       style="fill:#007ec6" />
+    <rect
+       width="126"
+       height="20"
+       id="rect14"
+       x="0"
+       y="0"
+       style="fill:url(#smooth)" />
+  </g>
+  <g
+     id="g200"
+     transform="matrix(0.1443299,0,0,0.1443299,2.5670103,2.56701)">
+    <path
+       id="path176"
+       d="M 27,16 C 27,9 36,3 51,3 66,3 74,9 74,16 v 22 c 0,7 -5,12 -11,12 H 39 C 31,50 25,56 25,65 V 75 H 16 C 8,75 3,66 3,51 3,37 8,28 16,28 H 51 V 25 H 27 Z m 61,34 v 1"
+       inkscape:connector-curvature="0"
+       style="fill:url(#pyBlue)" />
+    <path
+       id="path178"
+       d="m 74,87 c 0,7 -8,13 -23,13 C 36,100 27,94 27,87 V 65 c 0,-7 6,-12 12,-12 h 24 c 8,0 14,-7 14,-15 V 28 h 9 c 7,0 13,9 13,23 0,15 -6,24 -13,24 H 51 v 3 h 23 z m 66,-37 v 1"
+       inkscape:connector-curvature="0"
+       style="fill:url(#pyYellow)" />
+    <circle
+       id="circle180"
+       cy="88"
+       cx="64"
+       r="4"
+       style="fill:#ffffff" />
+    <circle
+       id="circle182"
+       cy="15"
+       cx="37"
+       r="4"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     font-size="110"
+     id="g36"
+     style="font-size:110px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff">
+    <text
+       x="400"
+       y="130"
+       transform="scale(0.1)"
+       textLength="385"
+       lengthAdjust="spacing"
+       id="text20"
+       style="fill:#010101;fill-opacity:0.3">python</text>
+    <text
+       x="400"
+       y="130"
+       transform="scale(0.1)"
+       textLength="385"
+       lengthAdjust="spacing"
+       id="text22">python</text>
+    <text
+       x="920"
+       y="130"
+       transform="scale(0.1)"
+       textLength="280"
+       lengthAdjust="spacing"
+       id="text24"
+       style="fill:#010101;fill-opacity:0.3">3.9.5</text>
+    <text
+       x="920"
+       y="130"
+       transform="scale(0.1)"
+       textLength="280"
+       lengthAdjust="spacing"
+       id="text26">3.9.5</text>
+    <a
+       xlink:href="https://github.com/nixe64/"
+       id="a30">
+      <rect
+         width="63"
+         height="20"
+         fill="rgba(0,0,0,0)"
+         id="rect28"
+         x="0"
+         y="0" />
+    </a>
+    <a
+       xlink:href="https://www.python.org/"
+       id="a34">
+      <rect
+         x="63"
+         width="63"
+         height="20"
+         fill="rgba(0,0,0,0)"
+         id="rect32"
+         y="0" />
+    </a>
+  </g>
+</svg>
