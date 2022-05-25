@@ -1,5 +1,11 @@
   <a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/osi-approved-license.png" align="right" width="150" /></a>
-<p align="right"><a href="License.md"><sub>Deutsche Version</sub></a></p>
+<div align="right">
+<details>
+<summary>🇬🇧</summary>
+    <a href="License.md">🇩🇪 deutsch</a><br/>
+    🇬🇧 english
+</details>
+</div>
 
 ### GNU General Public License
 

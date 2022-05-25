@@ -1,4 +1,10 @@
-<p align="right"><a href="Copyright.en.md"><sub>English Version</sub></a></p>
+<div align="right">
+<details>
+<summary>🇬🇧</summary>
+    <a href="Copyright.md">🇩🇪 deutsch</a><br/>
+    🇬🇧 english
+</details>
+</div>
 
 ### ReadMe - Template
 Copyright © 2022, Andreas Nixdorf.

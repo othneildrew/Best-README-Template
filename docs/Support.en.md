@@ -1,3 +1,11 @@
+<div align="right">
+<details>
+<summary>🇬🇧</summary>
+    <a href="Support.md">🇩🇪 deutsch</a><br/>
+    🇬🇧 english
+</details>
+</div>
+
 ## Support and Servicing
 
 ### How to get Help

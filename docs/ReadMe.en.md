@@ -1,3 +1,11 @@
+<div align="right">
+<details>
+<summary>🇬🇧</summary>
+    <a href="ReadMe.md">🇩🇪 deutsch</a><br/>
+    🇬🇧 english
+</details>
+</div>
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -16,9 +24,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<p align="right">
-  <sub><a href="ReadMe.md">Deutsche Version</a></sub>
-</p>
 <p>
 <img src="https://img.shields.io/github/license/nixe64/.github?label=License&style=plastic" alt="License" />
 <img src="https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic" alt="Version" />
@@ -50,36 +55,6 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -148,7 +123,7 @@ For a complete list of proposed features (and known issues), see [open issues](h
 
 Contributions are what make the open source community such a great place to learn, inspire, and create. Any contributions you make are **much appreciated**.
 
-If interested, please read [Contributing to my projects](contributing/Contributing.en.md) and the [Contributor Covenant Code of Conduct](contributing/CodeOfConduct.en.md).
+If interested, please read [Contributing to my projects](contributing/Contribute.en.md) and the [Contributor Covenant Code of Conduct](contributing/CodeOfConduct.en.md).
 <!-- LICENSE -->
 ## License
 

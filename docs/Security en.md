@@ -1,6 +1,10 @@
-<p align="right">
-  <sub><a href="Security.md">Deutsche Version</a></sub>
-</p>
+<div align="right">
+<details>
+<summary>🇬🇧</summary>
+    <a href="Security.md">🇩🇪 deutsch</a><br/>
+    🇬🇧 english
+</details>
+</div>
 
 ## Security Policy
 

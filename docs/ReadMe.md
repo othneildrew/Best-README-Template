@@ -1,3 +1,11 @@
+<div align="right">
+<details>
+<summary>🇩🇪</summary>
+    🇩🇪 deutsch<br/>
+    <a href="ReadMe.en.md">🇬🇧 english</a>
+</details>
+</div>
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -16,9 +24,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<p align="right">
-  <sub><a href="ReadMe.en.md">English Version</a></sub>
-</p>
 <p>
 <img src="https://img.shields.io/github/license/nixe64/.github?label=Lizenz&style=plastic" alt="Lizenz" />
 <img src="https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic" alt="Version" />
@@ -49,36 +54,6 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">zusätzlich Funktionalität anfordern</a>
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Inhaltsverzeichnis</summary>
-  <ol>
-    <li>
-      <a href="#ueber-das-projekt">Über das Projekt</a>
-      <ul>
-        <li><a href="#erstellt-mit">erstellt mit</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#einstieg">Einstieg</a>
-      <ul>
-        <li><a href="#voraussetzungen">Voraussetzungen</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#verwendung">Verwendung</a></li>
-    <li><a href="#fahrplan">Fahrplan</a></li>
-    <li><a href="#mitwirkung">Mitwirkung</a></li>
-    <li><a href="#license">Lizenz</a></li>
-    <li><a href="#kontakt">Kontakt</a></li>
-    <li><a href="#danksagungen">Danksagungen</a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## Über das Projekt
@@ -152,7 +127,7 @@ Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme)
 
 Mitwirkungen machen die Open-Source-Community zu einem so großartigen Ort zum Lernen, Inspirieren und Schaffen. Alle Beiträge, die du leistet, werden **sehr geschätzt**.
 
-Bei Interesse, lies bitte [Mitwirkung an meinen Projekten](contributing/Contributing.md) und den [Verhaltenskodex für Mitwirkende](contributing/CodeOfConduct.md).
+Bei Interesse, lies bitte [Mitwirkung an meinen Projekten](contributing/Contribute.md) und den [Verhaltenskodex für Mitwirkende](contributing/CodeOfConduct.md).
 
 <!-- LICENSE -->
 ## Lizenz

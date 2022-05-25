@@ -1,5 +1,11 @@
 <a href="https://opensource.org/licenses/Apache-2.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/osi-approved-license.png" align="right" width="150" /></a>
-<p align="right"><sub><a href="License.apache.md">Deutche Version</a></sub></p>
+<div align="right">
+<details>
+<summary>🇬🇧</summary>
+    <a href="License.apache.md">🇩🇪 deutsch</a><br/>
+    🇬🇧 english
+</details>
+</div>
 
 ### Apache License
 

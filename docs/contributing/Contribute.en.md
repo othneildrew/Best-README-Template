@@ -1,6 +1,10 @@
-<p align="right">
-  <sub><a href="Contributing.md">Deutsche Version</a></sub>
-</p>
+<div align="right">
+<details>
+<summary>🇬🇧</summary>
+    <a href="Contribute.md">🇩🇪 deutsch</a><br/>
+    🇬🇧 english
+</details>
+</div>
 
 ### Feature suggestions and bug reports
 

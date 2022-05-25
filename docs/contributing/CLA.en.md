@@ -1,4 +1,10 @@
-<p align="right"><a href="CLA.md"><sub>Deutsche Version</sub></a></p>
+<div align="right">
+<details>
+<summary>🇬🇧</summary>
+    <a href="Support.md">🇩🇪 deutsch</a><br/>
+    🇬🇧 english
+</details>
+</div>
 
 # Contributor License Agreement
 

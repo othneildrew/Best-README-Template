@@ -1,4 +1,10 @@
-<p align="right"><a href="Copyright.en.md"><sub>English Version</sub></a></p>
+<div align="right">
+<details>
+<summary>🇩🇪</summary>
+    🇩🇪 deutsch<br/>
+    <a href="ReadMe.en.md">🇬🇧 english</a>
+</details>
+</div>
 
 # Lizenzvertrag für Mitwirkende
 

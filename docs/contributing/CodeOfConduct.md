@@ -1,3 +1,11 @@
+<div align="right">
+<details>
+<summary>🇩🇪</summary>
+    🇩🇪 deutsch<br/>
+    <a href="ReadMe.en.md">🇬🇧 english</a>
+</details>
+</div>
+
 ### Contributor Covenant Code of Conduct
 
 #### Our Pledge

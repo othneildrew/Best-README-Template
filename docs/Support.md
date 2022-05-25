@@ -1,13 +1,13 @@
-<p align="right">
-<details markdown="1">
+<div align="right">
+<details>
 <summary>🇩🇪</summary>
-    🇩🇪 Deutsch <br/>
-    🇬🇧 English
+    🇩🇪 deutsch<br/>
+    <a href="Support.en.md">🇬🇧 english</a>
 </details>
-</p>
-<p>
-<h2>Unterstützung und Wartung</h2>
-</p>
+</div>
+
+## Unterstützung und Wartung
+
 
 ### Hier bekommst du Hilfe
 
