@@ -1,6 +1,6 @@
 <div align="right">
 <details>
-<summary>🇩🇪</summary>
+<summary>🇬🇧</summary>
     <a href="ProjectReadMe.md">🇩🇪 deutsch</a><br/>
     🇬🇧 english
 </details>
@@ -39,18 +39,18 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Die beste ReadMe-Vorlage</h3>
+  <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    Eine fantastische ReadMe-Vorlage, um deine Projekte zu starten!
+    An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Durchsuche die Dokumentation</a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><Explore the docs</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template">Demo ansehen</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Fehler melden</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">zusätzlich Funktionalität anfordern</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
