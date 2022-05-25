@@ -25,7 +25,6 @@ nicht erlaubt.
 [englischsprachige Originalversion](License.en.md)!**
 
 <br/>
-<br/>
 
 ### Vorwort
 
@@ -110,7 +109,6 @@ zu machen.
 
 Es folgen die präzisen Bedingungen für das Kopieren, Verbreiten
 und Modifizieren.
-<br/>
 <br>
 
 ### LIZENZBEDINGUNGEN
@@ -715,7 +713,6 @@ Haftungsübernahme bei.
 
 ### ENDE DER LIZENZBEDINGUNGEN
 
-<br/>
 <br/>
 
 ### Wie Sie diese Bedingungen auf Ihre eigenen, neuen Programme anwenden können

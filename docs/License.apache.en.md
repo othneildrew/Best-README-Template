@@ -14,7 +14,6 @@ Version 2.0, January 2004
 [http://www.apache.org/licenses/](http://www.apache.org/licenses/)
 
 <br/>
-<br/>
 
 ### TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -80,7 +79,6 @@ While redistributing the Work or Derivative Works thereof, You may choose to off
 
 ### END OF TERMS AND CONDITIONS
 
-<br/>
 <br/>
 
 ### APPENDIX: How to apply the Apache License to your work

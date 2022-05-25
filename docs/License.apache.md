@@ -14,7 +14,6 @@
 Version 2.0, January 2004<br/> <a href="http://www.apache.org/licenses/">http://www.apache.org/licenses/</a>
 
 <br/>
-<br/>
 
 ### BEDINGUNGEN FÜR DIE NUTZUNG, VERVIELF ÄLTIGUNG UND VERBREITUNG
 
@@ -89,7 +88,6 @@ Bei der Weiterverbreitung des Werks oder der Bearbeitungen desselben steht es Ih
 
 ### ENDE DER LIZENZBEDINGUNGEN
 
-<br/>
 <br/>
 
 ### ANHANG: Anwendung der Apache-Lizenz auf Ihr Werk

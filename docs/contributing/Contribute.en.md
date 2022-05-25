@@ -12,7 +12,6 @@ If you want to suggest a new feature for one of my projects or if you've found a
 
 But, **please verify** that you are the first to suggest this feature or to report the bug. Thank you!
 <br/>
-<br/>
 
 ### Contributing to my projects
 

@@ -12,7 +12,6 @@ Wenn du ein neues Feature für eines meiner Projekte vorschlagen möchtest oder 
 
 Aber **bitte überprüfe**, daß du die/der Erste bist, die/der die Verbesserung vorschlägt oder diesen Fehler meldet. Danke!
 <br/>
-<br/>
 
 ### Mitwirkung an meinen Projekten
 
