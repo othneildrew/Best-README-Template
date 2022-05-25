@@ -16,7 +16,6 @@ This template is distributed in the hope that it will be useful, but **without a
 You should have received a copy of the GNU General Public License along with this template. If not, see <http://www.gnu.org/licenses/>
 
 <br/>
-<br/>
 
 ### The most important licensing terms in a nutshell
 
