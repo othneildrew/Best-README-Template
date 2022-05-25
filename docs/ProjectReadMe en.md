@@ -57,7 +57,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+
+<p align="center">
 <a href="https://example.com"><img src="images/logo.jpg" alt="Projekt-Logo" width="348px"></a>
+</p>
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `project_title`, `project_description`
 
