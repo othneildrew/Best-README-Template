@@ -2,7 +2,7 @@
 <details>
 <summary>🇩🇪</summary>
     🇩🇪 deutsch<br/>
-    <a href="ProjectReadMe.en.md">🇬🇧 english</a>
+    <a href="ProjectReadMe.md">🇬🇧 english</a>
 </details>
 </div>
 
