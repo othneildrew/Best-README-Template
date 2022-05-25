@@ -1,9 +1,8 @@
-<a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/osi-approved-license.png" align="right" width="150" /></a>
 <div align="right">
 <details>
 <summary>🇩🇪</summary>
     🇩🇪 deutsch<br/>
-    <a href="License.en.md">🇬🇧 english</a>
+    <a href="ProjectReadMe.en.md">🇬🇧 english</a>
 </details>
 </div>
 
@@ -25,34 +24,34 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<img src="https://img.shields.io/github/license/nixe64/.github?label=License&style=plastic" alt="License" />
+<p>
+<img src="https://img.shields.io/github/license/nixe64/.github?label=Lizenz&style=plastic" alt="Lizenz" />
 <img src="https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic" alt="Version" />
-<img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Contributors&style=plastic" alt="Contributors" />
+<img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Mitwirkende&style=plastic" alt="Mitwirkende" />
 <img src="https://img.shields.io/github/forks/nixe64/.github?label=Forks&style=plastic" alt="Forks" />
-<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Issues&style=plastic" alt="Issues" />
-
+<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Probleme&style=plastic" alt="Probleme" />
+ <p>
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.jpg" alt="Logo" width="348">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+  <h3 align="center">Die beste ReadMe-Vorlage</h3>
 
   <p align="center">
-    project_description
+    Eine fantastische ReadMe-Vorlage, um deine Projekte zu starten!
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">Durchsuche die Dokumentation</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">Demo ansehen</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Fehler melden</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">zusätzlich Funktionalität anfordern</a>
   </p>
 </div>
 

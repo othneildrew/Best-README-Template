@@ -1,9 +1,8 @@
-<a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/osi-approved-license.png" align="right" width="150" /></a>
 <div align="right">
 <details>
 <summary>🇩🇪</summary>
     🇩🇪 deutsch<br/>
-    <a href="License.en.md">🇬🇧 english</a>
+    <a href="ProjectReadMe.en.md">🇬🇧 english</a>
 </details>
 </div>
 
