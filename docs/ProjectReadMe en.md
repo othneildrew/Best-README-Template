@@ -24,15 +24,15 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<img src="https://img.shields.io/github/license/nixe64/.github?label=License&style=plastic" alt="License" />
+<p>
+<img src="https://img.shields.io/github/license/nixe64/.github?label=Lizenz&style=plastic" alt="Lizenz" />
 <img src="https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic" alt="Version" />
-<img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Contributors&style=plastic" alt="Contributors" />
+<img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Mitwirkende&style=plastic" alt="Mitwirkende" />
 <img src="https://img.shields.io/github/forks/nixe64/.github?label=Forks&style=plastic" alt="Forks" />
-<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Issues&style=plastic" alt="Issues" />
+<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Probleme&style=plastic" alt="Probleme" />
+ <p>
 
-
-
-<!-- PROJECT LOGO -->
+     <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
