@@ -1,21 +1,25 @@
-# Security Policy
+<p align="right">
+  <sub><a href="Security.en.md">English Version</a></sub>
+</p>
 
-## Supported Versions
+## Sicherheitsrichtlinie
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+### Unterstützte Versionen
 
-| Version | Supported          |
+Verwende diesen Abschnitt, um anderen mitzuteilen, für welche Versionen deines Projekts Sicherheitsupdates
+verfügbar sind. Falls dein Projekt keine Sicherheitslücken haben kann (wie diese Vorlage), lösche 
+diese Datei einfach aus deinem Projekt.
+
+| Version | Unterstützt        |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
 | 5.0.x   | :x:                |
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-## Reporting a Vulnerability
+### Meldung einer Schwachstelle
 
-Use this section to tell people how to report a vulnerability.
+Verwende diesen Abschnitt, um anderen zu erklären, wie sie eine Sicherheitslücke melden können.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Sag ihnen auch, wie sie eine Rückmeldung von dir oder deinem Team bekommen,
+ob die gemeldete Schwachstelle akzeptiert oder abgelehnt wurde.

@@ -1,4 +1,3 @@
-<div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -93,26 +92,20 @@ Auf GitHub sind viele großartige README-Vorlagen verfügbar. Ich habe jedoch nu
 
 Um loszulegen, lösche bitte diese ReadMe.md (auch die englischsprachige Version) und benenne ProjectReadMe.md und ProjectReadMe.en.md in ReadMe.md (bzw. ReadMe.en.md) um.
 
-<p align="right">(<a href="#top">zum Seitenanfang</a>)</p>
-
-
 
 ### erstellt mit
 
-Dieser Abschnitt sollte alle wichtigen Frameworks / Bibliotheken auflisten, die zum Starten deines Projekts benötigt werden. Lasse alle Add-Ons / Plugins für den Abschnitt „Danksagungen“ übrig. Hier sind ein paar Beispiele.
+Dieser Abschnitt sollte alle wichtigen Frameworks / Bibliotheken auflisten, die zum Starten deines Projekts benötigt werden. Erwähne alle Add-Ons / Plugins auch im Abschnitt „Danksagungen“. Hier sind ein paar Beispiele.
 
 * [Die beste ReadMe-Vorlage](https://github.com/othneildrew/Best-README-Template)
 * [Visual Studio Code](https://code.visualstudio.com/)
-
-<p align="right">(<a href="#top">zum Seitenanfang</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
 ## Einstieg
 
 Um diese Vorlage für deine eigenen Projekte zu verwenden, nutze einfach den "Use this template"-
-Button von GitHub oder klone dieses Repository. Wenn du es in dein .github Repository auf 
+Button von GitHub oder forke dieses Repository. Wenn du es in dein .github Repository auf 
 GitHub kopierst, werden die Dateien in diesem Repository als Standard für deine Projekte verwendet,
 die noch keine eigenen Community-Dateien haben (zumindest, falls du einen Enterprise Account hast).
 
@@ -131,26 +124,18 @@ für die Bildbearbeitung (ich verwende i.d.R. GIMP und InkScape).
 
 Diese Vorlage ist nicht auf externe Abhängigkeiten oder Dienste angewiesen.
 
-<p align="right">(<a href="#top">zum Seitenanfang</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Verwendung
 
-Use this space to show how your project can be used. Additional screenshots, code samples, and demos work well for this area. You can also link to other resources.
+Nutze diesen Bereich, um zu zeigen, wie dein Projekt verwendet werden kann. Zusätzliche Screenshots, Codebeispiele und Demos eignen sich gut für diesen Bereich. Du kannst auch auf andere Ressourcen verlinken.
 
-_See the [documentation](https://example.com)_ for more examples.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+*Weitere Beispiele finden Sie in der [Dokumentation](https://example.com)*.
 
 <!-- ROADMAP -->
 ## Fahrplan
 
 - [x] Änderungsprotokoll implementieren.
-- [x] "zum Seitenanfang"-Verknüfungen einfügen.
 - [ ] Zusätzliche Vorlagen mit Beispielen hinzufügen.
 - [ ] "Komponenten"-Dokument, um Abschnitte der Community-Dateien einfach kopieren zu können, hinzufügen
 - [ ] Mehrsprachige Unterstützung
@@ -159,10 +144,7 @@ _See the [documentation](https://example.com)_ for more examples.
     - [x] Englisch
     - [ ] Spanisch
 
-Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme) findest du unter [offene Probleme](https://github.com/othneildrew/Best-README-Template/issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme) findest du unter [Issues](https://github.com/othneildrew/Best-README-Template/issues).
 
 
 <!-- CONTRIBUTING -->
@@ -170,64 +152,24 @@ Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme)
 
 Mitwirkungen machen die Open-Source-Community zu einem so großartigen Ort zum Lernen, Inspirieren und Schaffen. Alle Beiträge, die du leistet, werden **sehr geschätzt**.
 
-Wenn du einen Vorschlag hast, der dieses Projekt verbessert, klone bitte einfach das Repository und erstelle eine Pull-Anfrage. Du kannst auch einfach ein Problem mit dem Stichwort "Verbesserung" eröffnen. Vergiss nicht, dem Projekt einen Stern zu geben! Danke noch einmal!
-
-1. Das Projekt klonen
-2. Erstelle einen Feature Branch (`git checkout -b feature/AmazingFeature` oder `git flow feature start AmazingFeature`).
-3. Übertrage deine Änderungen (`git commit -m 'Add some AmazingFeature'`).
-4. Den Branch in mein Repository (oder direkt an meine Quelle der Inspiration) pushen (`git push origin feature/AmazingFeature`).
-5. Öffne eine Pull-Anforderung.
-
-
-<p align="right">(<a href="#top">zum Seitenanfang</a>)</p>
-
-
+Bei Interesse, lies bitte [Mitwirkung an meinen Projekten](contributing/Contributing.md) und den [Verhaltenskodex für Mitwirkende](contributing/CodeOfConduct.md).
 
 <!-- LICENSE -->
 ## Lizenz
 
-Lizensiert unter der [Allgemeine Öffentliche GNU-Lizenz, Version 3](License.md).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+Lizensiert unter der [Allgemeinen Öffentlichen GNU-Lizenz, Version 3](License.md).
 
 
 <!-- CONTACT -->
 ## Kontakt
 
-<a href="https://github.com/nixe64"><img src="images/logo.jpg" alt="Profilbild" width="150" /></a>
-<p align="right">
-Andreas Nixdorf (<a href="https://github.com/nixe64/">nixe64</a>)
+Andreas Nixdorf \([nixe64](https://github.com/nixe64/")\)
+       
+Wenn du Vorschläge für neue Features hast oder einen Fehler melden möchtest, nutze bitte die GitHub Issues.
 
-Vorschläge für neue Funktionen und Fehlerberichte können nur im Repository von Othneil Drew gemacht werden.
-</block>
-</p>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+Wenn du an dieser Vorlage mitarbeiten möchtest, sende mir einfach einen Pull-Request.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Danksagungen
 
-Mein Dank geht an <a href="(https://github.com/othneildrew">Othneil Drew</a> für seine großartige ReadMe-Vorlage.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+Mein Dank geht an [Othneil Drew](https://github.com/othneildrew) für seine großartige [ReadMe-Vorlage](https://github.com/othneildrew/Best-README-Template).
