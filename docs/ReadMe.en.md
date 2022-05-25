@@ -90,7 +90,7 @@
 There are many great README templates available on GitHub. However, I only found [**one**](https://github.com/othneildrew/Best-README-Template.git) that really suited my needs. So I used it as the basis for my default community files.
 
 
-To get started, please delete this ReadMe.md (also the English language version) and rename ProjectReadMe.md and ProjectReadMe.en.md to ReadMe.md (and ReadMe.en.md).
+To get started, please delete this ReadMe.md (also the English language version) and rename ProjectReadMe.md and ProjectReadMe.en.md to ReadMe.md (and ReadMe.en.md). If you're publishing your project in english, rename ReadMe.md to ReadMe.de.md and vice versa.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
