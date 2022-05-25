@@ -1,4 +1,12 @@
-<div id="top"></div>
+<a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/osi-approved-license.png" align="right" width="150" /></a>
+<div align="right">
+<details>
+<summary>🇩🇪</summary>
+    🇩🇪 deutsch<br/>
+    <a href="License.en.md">🇬🇧 english</a>
+</details>
+</div>
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -17,10 +25,11 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
+<img src="https://img.shields.io/github/license/nixe64/.github?label=License&style=plastic" alt="License" />
+<img src="https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic" alt="Version" />
+<img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Contributors&style=plastic" alt="Contributors" />
+<img src="https://img.shields.io/github/forks/nixe64/.github?label=Forks&style=plastic" alt="Forks" />
+<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Issues&style=plastic" alt="Issues" />
 
 
 
@@ -48,151 +57,87 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Über das Projekt
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align="center">
+<a href="https://example.com"><img src="images/logo.jpg" alt="Projekt-Logo" width="348px"></a>
+</p>
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Hier ist eine leere Vorlage für den Anfang: Damit du nicht zu viele Informationen wiederholen musst, suche und ersetze mit deinem Texteditor folgendes: `github_username`, `repo_name`, `project_title`, `project_description`
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+### erstellt mit
 
-
-
-### Built With
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+* [Die beste ReadMe-Vorlage](https://github.com/othneildrew/Best-README-Template)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Einstieg
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Dies ist ein Beispiel dafür, wie du Anweisungen zur lokalen Einrichtung deines Projekts geben kannst.
+Befolgen Sie diese einfachen Beispielschritte, um eine lokale Kopie zum Laufen zu bringen.
 
-### Prerequisites
+### Voraussetzungen
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Dies ist ein Beispiel dafür, wie du Dinge auflisten kannst, die zur Verwendung der Software benötigt werden, und wie sie zu installieren sind.
+
+*npm
   ```sh
-  npm install npm@latest -g
-  ```
+   npm install npm@latest -g
+   ```
 
-### Installation
+##### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Klone das Repository
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-3. Install NPM packages
+3. Installiere die npm Packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Verwendung
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Nutze diesen Bereich, um zu zeigen, wie dein Projekt verwendet werden kann. Zusätzliche Screenshots, Codebeispiele und Demos eignen sich gut für diesen Bereich. Du kannst auch auf andere Ressourcen verlinken.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+*Weitere Beispiele finden Sie in der [Dokumentation](https://example.com)*.
 
 <!-- ROADMAP -->
-## Roadmap
+#### Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Funktionalität 1
+- [ ] Funktionalität 2
+- [ ] Funktionalität 3
+    - [ ] Teil-Funktionalität von Funktionalität 3
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme) findest du unter [Issues](https://github.com/othneildrew/Best-README-Template/issues).
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Mitwirkung
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Mitwirkungen machen die Open-Source-Community zu einem so großartigen Ort zum Lernen, Inspirieren und Schaffen. Alle Beiträge, die du leistet, werden **sehr geschätzt**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+Bei Interesse, lies bitte [Mitwirkung an meinen Projekten](contributing/Contribute.md) und den [Verhaltenskodex für Mitwirkende](contributing/CodeOfConduct.md).
 
 <!-- LICENSE -->
-## License
+## Lizenz
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+Lizensiert unter der [Allgemeinen Öffentlichen GNU-Lizenz, Version 3](License.md).
 
 <!-- CONTACT -->
-## Contact
+## Kontakt
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Andreas Nixdorf \([nixe64](https://github.com/nixe64/")\)
+       
+Wenn du Vorschläge für neue Features hast oder einen Fehler melden möchtest, nutze bitte die GitHub Issues.
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+Wenn du an diesem Projekt mitarbeiten möchtest, sende mir einfach einen Pull-Request.
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Anerkennung / Danksagungen
 
 * []()
 * []()
 * []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png

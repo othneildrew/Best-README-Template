@@ -124,6 +124,7 @@ For a complete list of proposed features (and known issues), see [open issues](h
 Contributions are what make the open source community such a great place to learn, inspire, and create. Any contributions you make are **much appreciated**.
 
 If interested, please read [Contributing to my projects](contributing/Contribute.en.md) and the [Contributor Covenant Code of Conduct](contributing/CodeOfConduct.en.md).
+
 <!-- LICENSE -->
 ## License
 

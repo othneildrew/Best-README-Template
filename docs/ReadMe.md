@@ -70,7 +70,7 @@ Um loszulegen, lösche bitte diese ReadMe.md (auch die englischsprachige Version
 
 ### erstellt mit
 
-Dieser Abschnitt sollte alle wichtigen Frameworks / Bibliotheken auflisten, die zum Starten deines Projekts benötigt werden. Erwähne alle Add-Ons / Plugins auch im Abschnitt „Danksagungen“. Hier sind ein paar Beispiele.
+Dieser Abschnitt sollte alle wichtigen Frameworks / Bibliotheken auflisten, die zum Starten deines Projekts benötigt werden. Erwähne alle Add-Ons / Plugins auch im Abschnitt „Anerkennung / Danksagungen“. Hier sind ein paar Beispiele.
 
 * [Die beste ReadMe-Vorlage](https://github.com/othneildrew/Best-README-Template)
 * [Visual Studio Code](https://code.visualstudio.com/)
@@ -134,7 +134,6 @@ Bei Interesse, lies bitte [Mitwirkung an meinen Projekten](contributing/Contribu
 
 Lizensiert unter der [Allgemeinen Öffentlichen GNU-Lizenz, Version 3](License.md).
 
-
 <!-- CONTACT -->
 ## Kontakt
 
@@ -145,6 +144,6 @@ Wenn du Vorschläge für neue Features hast oder einen Fehler melden möchtest, 
 Wenn du an dieser Vorlage mitarbeiten möchtest, sende mir einfach einen Pull-Request.
 
 <!-- ACKNOWLEDGMENTS -->
-## Danksagungen
+## Anerkennung / Danksagungen
 
 Mein Dank geht an [Othneil Drew](https://github.com/othneildrew) für seine großartige [ReadMe-Vorlage](https://github.com/othneildrew/Best-README-Template).
