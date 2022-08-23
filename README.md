@@ -151,12 +151,11 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Criar e colocar aqui o código de conduta***
-https://github.com/angular/angular/blob/main/CONTRIBUTING.md
+[Contributing Guidelines](https://github.com/angular/angular/blob/main/CONTRIBUTING.md)
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the appropriate tag. 
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -165,7 +164,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Remember to follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) and [Semantic Versioning](https://semver.org/)
+Remember to include a tag, and to follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) and [Semantic Versioning](https://semver.org/) when uploading your commit and/or creating the issue. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
