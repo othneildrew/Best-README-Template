@@ -27,14 +27,27 @@
 
 <!--  SHIELDS  ---->
 
+[![Version](https://img.shields.io/github/v/release/flutterando/asuka?style=plastic)](https://pub.dev/packages/asuka)
 [![License](https://img.shields.io/github/license/flutterando/asuka?style=plastic)](https://github.com/Flutterando/asuka/blob/master/LICENSE)
 [![Pub Points](https://img.shields.io/pub/points/asuka?label=pub%20points&style=plastic)](https://pub.dev/packages/asuka/score)
 [![Contributors](https://img.shields.io/github/contributors/flutterando/asuka?style=plastic)](https://github.com/Flutterando/asuka/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/flutterando/asuka?color=yellowgreen&logo=github&style=plastic)](https://github.com/Flutterando/asuka/graphs/contributors)
 
+
 [![Pub Publisher](https://img.shields.io/pub/publisher/asuka?style=plastic)](https://pub.dev/publishers/flutterando.com.br/packages)
 [![Flutterando Youtube](https://img.shields.io/youtube/channel/subscribers/UCplT2lzN6MHlVHHLt6so39A?color=blue&label=Flutterando&logo=YouTube&logoColor=red&style=plastic)](https://www.youtube.com/flutterando)
 </div>
+
+<!----
+About Shields, some recommendations:
++-+
+Build - GithubWorkflow ou Github Commit checks state
+CodeCoverage - Codecov
+Chat - Discord (already set to Flutterando in the example)
+License - Github
+Rating - Pub Likes, Pub Points and Pub Popularity (if still in early stages, we 		    recommend only Pub Points since it's controllable)
+Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org),  	    YouTube Channel Subscribers (Again, using Flutterando, as set in the   		    example)
+--->
 
 <br>
 
@@ -48,15 +61,13 @@
         <li><a href="#sponsors">Sponsors</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#how-to-use">How to Use</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#usage-examples">Usage Examples</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#features">Features</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -96,35 +107,107 @@ With few and intuitive lines of code you can have those in your project in a lot
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get Asuka in your project you can follow the instructions below:
+To get Asuka in your project follow either of the instructions below:
+
+a) Add Asuka as a dependency in your Pubspec.yaml:
+ ```yaml
+   dependencies:
+     asuka: any
+``` 
+
+b) Use Dart Pub:
+```sh
+  dart pub add asuka
+```
+
+<br>
 
 
-### Installation
+## How to Use
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Add the following code where you call your Material App:
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+```dart
+import 'package:asuka/asuka.dart';
 
+MaterialApp(
+    builder: Asuka.builder,
+    navigatorObservers: [
+       Asuka.asukaHeroController //This line is needed for the Hero widget to work
+    ],
+);
+``` 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
-## Usage
+### Usage examples
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<br>
+
+#### Snackbars:
+```dart
+import 'package:asuka/asuka.dart';
+
+Asuka.showSnackBar(SnackBar(
+    content: Text("Hello World"),
+));
+
+//some sugar code
+AsukaSnackbar.warning("Warning").show();
+
+AsukaSnackbar.success("success").show();
+
+AsukaSnackbar.alert("alert").show();
+
+AsukaSnackbar.info("info").show();
+
+AsukaSnackbar.message("message").show();
+```
+
+<br>
+
+#### BottomSheet
+```dart
+import 'package:asuka/asuka.dart';
+
+Asuka.showBottomSheet((context) => Container());
+
+```
+
+<br>
+
+#### Dialogs
+
+```dart
+import 'package:asuka/asuka.dart';
+
+Asuka.showDialog(
+    builder: (context) => AlertDialog(),
+);
+```
+
+<br>
+
+#### Overlay
+```dart
+import 'package:asuka/asuka.dart';
+
+var entry = OverlayEntry(
+    builder: (context) {
+    return Center(
+        child: CircularProgressIndicator(),
+    );
+  },
+);
+
+Asuka.addOverlay(entry);
+
+//to remove the overlay call this:
+entry.remove();
+
+```
+
+<br>
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -132,18 +215,17 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
+
 <!-- ROADMAP -->
-## Roadmap
+## Features
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- ✅ Snackbars
+- ✅ Dialog
+- ✅ BottomSheet
+- ✅ ModalBottomSheet
+- ✅ Overlay 
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+Right now this package has concluded all his intended features. If you have any suggestions or find something to report, see below how to contribute to it. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,15 +267,17 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Flutterando Community
 - [Discord](https://discord.gg/qNBDHNARja)
-- [Telegram]
-- [Website]
-- [Youtube Channel]
+- [Telegram](https://t.me/flutterando)
+- [Website](https://www.flutterando.com.br)
+- [Youtube Channel](https://www.youtube.com.br/flutterando)
 - [Other useful links](https://linktr.ee/flutterando)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!----
+  TODO: Escrever as Contributing Guidelines
+->
 
 <!-- ACKNOWLEDGMENTS -->
 ## Contributors 
