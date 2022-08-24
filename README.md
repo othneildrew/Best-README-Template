@@ -25,16 +25,15 @@
 
 <br>
 
-[![Powered by Mason](https://img.shields.io/endpoint?url=https%3A%2F%2Ftinyurl.com%2Fmason-badge)](https://github.com/felangel/mason)
-[![Powered by Mason](https://img.shields.io/endpoint?url=https%3A%2F%2Ftinyurl.com%2Fmason-badge)](https://github.com/felangel/mason)
-[![Powered by Mason](https://img.shields.io/endpoint?url=https%3A%2F%2Ftinyurl.com%2Fmason-badge)](https://github.com/felangel/mason)
-[![Powered by Mason](https://img.shields.io/endpoint?url=https%3A%2F%2Ftinyurl.com%2Fmason-badge)](https://github.com/felangel/mason)
-  <!-- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
+<!--  SHIELDS  ---->
+
+[![License](https://img.shields.io/github/license/flutterando/asuka?style=plastic)](https://github.com/Flutterando/asuka/blob/master/LICENSE)
+[![Pub Points](https://img.shields.io/pub/points/asuka?label=pub%20points&style=plastic)](https://pub.dev/packages/asuka/score)
+[![Contributors](https://img.shields.io/github/contributors/flutterando/asuka?style=plastic)](https://github.com/Flutterando/asuka/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/flutterando/asuka?color=yellowgreen&logo=github&style=plastic)](https://github.com/Flutterando/asuka/graphs/contributors)
+
+[![Pub Publisher](https://img.shields.io/pub/publisher/asuka?style=plastic)](https://pub.dev/publishers/flutterando.com.br/packages)
+[![Flutterando Youtube](https://img.shields.io/youtube/channel/subscribers/UCplT2lzN6MHlVHHLt6so39A?color=blue&label=Flutterando&logo=YouTube&logoColor=red&style=plastic)](https://www.youtube.com/flutterando)
 </div>
 
 <br>
@@ -70,9 +69,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Colocar print do exemplo do Asuka
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<br>
+<Center>
+<img src="images/Asuka.gif" alt="Asuka package working gif" width="400">
+</Center>
 
+<br>
 
 Asuka is a Dart package that aims to simplify and keep a clean approach when implementing some visual elements from Flutter like Snackbars, Dialogs and ModalSheets. 
 With few and intuitive lines of code you can have those in your project in a lot less time than  
@@ -94,8 +96,7 @@ With few and intuitive lines of code you can have those in your project in a lot
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get Asuka in your project you can follow the instructions below:
 
 
 ### Installation
