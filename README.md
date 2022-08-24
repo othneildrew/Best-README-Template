@@ -62,11 +62,7 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
       </ul>
     </li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#how-to-use">How to Use</a>
-      <ul>
-        <li><a href="#usage-examples">Usage Examples</a></li>
-      </ul>
-    </li>
+    <li><a href="#how-to-use">How to Use</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -137,14 +133,8 @@ MaterialApp(
     ],
 );
 ``` 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Now you just have to call the named constructors for each widget that you want to use: 
 
-<!-- USAGE EXAMPLES -->
-### Usage examples
-
-<br>
-
-#### Snackbars:
 ```dart
 import 'package:asuka/asuka.dart';
 
@@ -152,59 +142,7 @@ Asuka.showSnackBar(SnackBar(
     content: Text("Hello World"),
 ));
 
-//some sugar code
-AsukaSnackbar.warning("Warning").show();
-
 AsukaSnackbar.success("success").show();
-
-AsukaSnackbar.alert("alert").show();
-
-AsukaSnackbar.info("info").show();
-
-AsukaSnackbar.message("message").show();
-```
-
-<br>
-
-#### BottomSheet
-```dart
-import 'package:asuka/asuka.dart';
-
-Asuka.showBottomSheet((context) => Container());
-
-```
-
-<br>
-
-#### Dialogs
-
-```dart
-import 'package:asuka/asuka.dart';
-
-Asuka.showDialog(
-    builder: (context) => AlertDialog(),
-);
-```
-
-<br>
-
-#### Overlay
-```dart
-import 'package:asuka/asuka.dart';
-
-var entry = OverlayEntry(
-    builder: (context) {
-    return Center(
-        child: CircularProgressIndicator(),
-    );
-  },
-);
-
-Asuka.addOverlay(entry);
-
-//to remove the overlay call this:
-entry.remove();
-
 ```
 
 <br>
