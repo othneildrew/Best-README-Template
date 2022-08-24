@@ -55,12 +55,8 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#sponsors">Sponsors</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#sponsors">Sponsors</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#how-to-use">How to Use</a></li>
     <li><a href="#features">Features</a></li>
@@ -93,7 +89,7 @@ With few and intuitive lines of code you can have those in your project in a lot
 ## Sponsors
 
 <a href="https://fteam.dev">
-    <img src="images/sponsor-logo.png" alt="Logo" width="180">
+    <img src="images/sponsor-logo.png" alt="Logo" width="120" style="aspect-ratio: 1/1; border-radius: 50%">
   </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -154,7 +150,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
+<!-- FEATURES -->
 ## Features
 
 - ✅ Snackbars
@@ -217,8 +213,8 @@ Flutterando Community
   TODO: Escrever as Contributing Guidelines
 ->
 
-<!-- ACKNOWLEDGMENTS -->
-## Contributors 
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements 
 
 <a href="https://github.com/flutterando/asuka/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=flutterando/asuka" />
@@ -229,7 +225,7 @@ Flutterando Community
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- MANTAINED BY -->
 ## Maintaned by
 
 ---
@@ -237,7 +233,7 @@ Flutterando Community
 <br>
 <p align="center">
   <a href="https://www.flutterando.com.br">
-    <img width="110px" src="images/logo-flutterando.png">
+    <img width="110px" src="images/logo-flutterando.png" style="border-radius: 50%;">
   </a>
   <p align="center">
     Built and maintained by <a href="https://www.flutterando.com.br">Flutterando</a>.
