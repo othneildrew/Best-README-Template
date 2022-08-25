@@ -7,10 +7,14 @@
 <br />
 <div align="center">
   <a href="https://pub.dev/packages/asuka">
-    <img src="images/logo.png" alt="Logo" width="180">
+    <img src="example/logo.png" alt="Logo" width="180">
   </a>
 
   <p align="center">
+   <b>
+   THIS IS AN EXAMPLE OF A README USING THIS TEMPLATE, YOU CAN CHECK THIS PROJECT <a href="https://pub.dev/packages/asuka">HERE</a>
+   </b>
+   <br />
     A Simple and Clean approach to Snackbars, Dialogs and ModalSheets in a single provider.
     <br />
     <!-- <a href="https://link da documentação"><strong>Explore the docs »</strong></a>
@@ -77,7 +81,7 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
 
 <br>
 <Center>
-<img src="images/Asuka.gif" alt="Asuka package working gif" width="400">
+<img src="example/Asuka.gif" alt="Asuka package working gif" width="400">
 </Center>
 
 <br>

@@ -1,165 +1,204 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
+<h1 align="center">PROJECT TITLE - Optional: slogan/small description.</h1>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <!-- You should link the logo to the pub dev page of you project or a homepage otherwise -->
+  <a href="https://pub.dev/publishers/flutterando.com.br/packages">
+    <img src="images/logo.png" alt="Logo" width="180">
   </a>
 
-<h3 align="center">project_title</h3>
-
   <p align="center">
-    project_description
+    This project is meant to be used as a template for the Flutterando community projects. Here you can put a brief explanation of what is the project about
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <!-- Put the link for the documentation here below -->
+    <a href="https://pub.dev/publishers/flutterando.com.br/packages"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <!-- Disable unused links with with comments -->
+    <a href="https://pub.dev/publishers/flutterando.com.br/packages">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <!-- The Report Bug and Request Feature should point to the issues page of the project, in this example we use the Asuka page -->
+    <a href="https://github.com/Flutterando/asuka/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Flutterando/asuka/issues">Request Feature</a>
   </p>
+
+<br>
+
+<!--  SHIELDS  ---->
+
+
+<!-- The shields here are an example of what could be used and are the most recommended, there are more below in the "some recomendations about shields" section. 
+See the links in the example below, changing the parts after img.shields.io you can change the content of the shields. Alternatively, go to the website and generate new shields.  
+
+The ones used here are:
+- Release version
+- License
+- Pub Points (there are also shields for Pub Popularity and Pub Likes)
+- Number of Contributors
+- Number of Forks --->
+
+[![Version](https://img.shields.io/github/v/release/flutterando/asuka?style=plastic)](https://pub.dev/packages/asuka)
+[![License](https://img.shields.io/github/license/flutterando/asuka?style=plastic)](https://github.com/Flutterando/asuka/blob/master/LICENSE)
+[![Pub Points](https://img.shields.io/pub/points/asuka?label=pub%20points&style=plastic)](https://pub.dev/packages/asuka/score)
+[![Contributors](https://img.shields.io/github/contributors/flutterando/asuka?style=plastic)](https://github.com/Flutterando/asuka/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/flutterando/asuka?color=yellowgreen&logo=github&style=plastic)](https://github.com/Flutterando/asuka/graphs/contributors)
+
+<!---- We suggest to not change the last two for Flutterando projects 
+
+- Package Publisher
+- YouTube Channel 
+--->
+[![Pub Publisher](https://img.shields.io/pub/publisher/asuka?style=plastic)](https://pub.dev/publishers/flutterando.com.br/packages)
+[![Flutterando Youtube](https://img.shields.io/youtube/channel/subscribers/UCplT2lzN6MHlVHHLt6so39A?color=blue&label=Flutterando&logo=YouTube&logoColor=red&style=plastic)](https://www.youtube.com/flutterando)
 </div>
 
+<!----
+About Shields, some recommendations:
++-+
+Build - GithubWorkflow ou Github Commit checks state
+CodeCoverage - Codecov
+Chat - Discord 
+License - Github
+Rating - Pub Likes, Pub Points and Pub Popularity (if still in early stages, we recommend only Pub Points since it's controllable)
+Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org), YouTube Channel Subscribers (Again, using Flutterando, as set in the example)
+--->
 
+<br>
 
 <!-- TABLE OF CONTENTS -->
+<!-- Linked to every ## title below -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#sponsors">Sponsors</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#how-to-use">How to Use</a></li>
+    <li><a href="#features">Features</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
-
+<br>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+<!-- PROJECT EXAMPLE (IMAGE) -->
+
+<br>
+<Center>
+<img src="images/project-image.png" alt="Project Screenshot" width="400">
+</Center>
+
+<br>
+
+<!-- PROJECT DESCRIPTION -->
+
+Here you can write lenghtier descriptions of your project, going deeper about it's uses, how it came to be, aims, and whatever more is necessary for the client/user to understand it. 
+
+Be aware that you need to be direct, since this Readme is oriented to guide rather than teach how to use the project. 
+
+Anything more and you should point to the official documentation of your project.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- SPONSORS -->
+<!-- For now FTeam is the only sponsor for Flutterando packages. The community is open to more support for it's open source endeavors, so check it out and make contact with us through the links provided at the end -->
+## Sponsors
 
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+<a href="https://fteam.dev">
+    <img src="images/sponsor-logo.png" alt="Logo" width="120" style="aspect-ratio: 1/1; border-radius: 50%">
+  </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<br>
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+<!---- The description provided below was aimed to show how to install a pub.dev package, change it as you see fit for your project ---->
+To get your_package in your project follow either of the instructions below:
 
-### Prerequisites
+a) Add your_package as a dependency in your Pubspec.yaml:
+ ```yaml
+   dependencies:
+     your_package: any
+``` 
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+b) Use Dart Pub:
+```sh
+  dart pub add your_package
+```
 
-### Installation
+<br>
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+
+## How to Use
+
+<!---- In this section, provide a simple and short explanation of the base use of your project and a link to your documentation for more advanced uses --->
+
+Add the following code where you call your Material App:
+
+```dart
+import 'package:your_package/your_package.dart';
+
+MaterialApp(
+    builder: YourPackage.builder,
+    navigatorObservers: [
+       YourPackage.packageController 
+       //Include observations for your users when it's an important point in the usage
+    ],
+);
+``` 
+Now you just have to call the named constructors for each widget that you want to use: 
+
+```dart
+import 'package:your_package/your_package.dart';
+
+YourPackage.doesSomething(
+    content: Text("Hello World"),
+);
+
+YourPackage.success("success").show();
+```
+
+<br>
+
+_For more examples, please refer to the_ [Documentation]() 
+
+<!---- You can use the emoji 🚧 to indicate Work In Progress sections ---->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FEATURES -->
 
+<!---- Use this section to highlight your features and show  what is under progress. Use emojis for better communication if needed ---->
+## Features
 
-<!-- USAGE EXAMPLES -->
-## Usage
+- ✅ Main Feature
+- ✅ Side Feature
+- ✅ Other Feature
+- 🚧 Documentation
+- 🚧 Other Features 
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<!---- 
+We suggest, in case of the roadmap of features has been completed, to include the text below:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Right now this package has concluded all his intended features. If you have any suggestions or find something to report, see below how to contribute to it. 
+---->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,10 +206,15 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <!-- CONTRIBUTING -->
 ## Contributing
+ 
+🚧 [Contributing Guidelines]() - _Currently being updated_ 🚧
+<!---- Flutterando Contributing Guidelines are currently a work in progress.
+We recommend to keep the text below the way it is. 
+ --->
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the appropriate tag. 
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -178,6 +222,8 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+Remember to include a tag, and to follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) and [Semantic Versioning](https://semver.org/) when uploading your commit and/or creating the issue. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,41 +239,82 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
+
+<!---- Those are the current Flutterando contacts as of 25 August 2022 --->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Flutterando Community
+- [Discord](https://discord.gg/qNBDHNARja)
+- [Telegram](https://t.me/flutterando)
+- [Website](https://www.flutterando.com.br)
+- [Youtube Channel](https://www.youtube.com.br/flutterando)
+- [Other useful links](https://linktr.ee/flutterando)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements 
+
+
+Thank you to all the people who contributed to this project, whitout you this project would not be here today.
+
+<br>
+
+<!---- Change the link below to the contributors page of your project and change the repo= in the img src to properly point to your repository -->
+
+<a href="https://github.com/flutterando/asuka/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=flutterando/asuka" />
+</a>
+
+<!-- Here is an alternative to the contributors page: https://allcontributors.org/
+And the link for the currently used option in this readme: https://contrib.rocks/ -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- MANTAINED BY -->
+## Maintaned by
 
+---
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<br>
+<p align="center">
+  <a href="https://www.flutterando.com.br">
+    <img width="110px" src="images/logo-flutterando.png" style="border-radius: 50%;">
+  </a>
+  <p align="center">
+    Built and maintained by <a href="https://www.flutterando.com.br">Flutterando</a>.
+  </p>
+</p>
 
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+
+<!-- [Choose an Open Source License](https://choosealicense.com)
+[GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+[Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+[Malven's Grid Cheatsheet](https://grid.malven.co/)
+[Img Shields](https://shields.io)
+[GitHub Pages](https://pages.github.com)
+[Font Awesome](https://fontawesome.com)
+[React Icons](https://react-icons.github.io/react-icons/search) 
+
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
@@ -244,4 +331,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com  -->
