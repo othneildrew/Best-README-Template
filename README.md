@@ -6,17 +6,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://pub.dev/packages/asuka">
     <img src="images/logo.png" alt="Logo" width="180">
   </a>
 
   <p align="center">
     A Simple and Clean approach to Snackbars, Dialogs and ModalSheets in a single provider.
     <br />
-    <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <!-- <a href="https://link da documentação"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
+    <!-- <a href="https://link para o demo">View Demo</a> -->
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
@@ -43,7 +43,7 @@ About Shields, some recommendations:
 +-+
 Build - GithubWorkflow ou Github Commit checks state
 CodeCoverage - Codecov
-Chat - Discord (already set to Flutterando in the example)
+Chat - Discord 
 License - Github
 Rating - Pub Likes, Pub Points and Pub Popularity (if still in early stages, we 		    recommend only Pub Points since it's controllable)
 Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org),  	    YouTube Channel Subscribers (Again, using Flutterando, as set in the   		    example)
@@ -72,12 +72,17 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+
+<!-- PROJECT EXAMPLE (IMAGE) -->
+
 <br>
 <Center>
 <img src="images/Asuka.gif" alt="Asuka package working gif" width="400">
 </Center>
 
 <br>
+
+<!-- PROJECT DESCRIPTION -->
 
 Asuka is a Dart package that aims to simplify and keep a clean approach when implementing some visual elements from Flutter like Snackbars, Dialogs and ModalSheets. 
 With few and intuitive lines of code you can have those in your project in a lot less time than  
@@ -216,7 +221,11 @@ Flutterando Community
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements 
 
-These are the people who 
+
+Thank you to all the people who contributed to this project, whitout you this project would not be here today.
+
+<br>
+
 <a href="https://github.com/flutterando/asuka/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=flutterando/asuka" />
 </a>
