@@ -55,7 +55,7 @@
 *** I hope that others will also help to improve and add various language versions
 -->
 <p align="center">
-    <a href="/docs/README_cn.md">简体中文</a>
+    <a href="/docs/README_zh_cn.md">简体中文</a>
     <!--
     ·
     <a href="/docs/README_fr.md">Français </a>
