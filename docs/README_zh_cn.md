@@ -31,7 +31,7 @@
     <img src="../images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Best-README-Template-zh</h3>
+<h3 align="center">Best-README-Template-zh_CN</h3>
 
   <p align="center">
     让你快速开始构建项目的最佳 README 模板！
