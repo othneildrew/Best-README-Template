@@ -50,6 +50,35 @@
   </p>
 </div>
 
+<!--
+*** If the README.txt has multiple languages, create README-*.md files in different languages in /docs and then link them here.
+*** I hope that others will also help to improve and add various language versions
+-->
+<!--
+<p align="center">
+    <a href="/docs/README_cn.md">简体中文</a>
+    ·
+    <a href="/docs/README_fr.md">Français </a>
+    ·
+    <a href="/docs/README_es.md">Español</a>
+    ·
+    <a href="/docs/README_de.md">Deutsch</a>
+    ·
+    <a href="/docs/README_ja.md">日本語</a>
+    ·
+    <a href="/docs/README_pt-BR.md">Português Brasileiro</a>
+    ·
+    <a href="/docs/README_it.md">Italiano</a>
+    ·
+    <a href="/docs/README_kr.md">한국어</a>
+    .
+    <a href="/docs/README_nl.md">Nederlands</a>
+    .
+    <a href="/docs/README_np.md">नेपाली</a>
+    .
+    <a href="/docs/README_tr.md">Türkçe</a>
+  </p>
+-->
 
 
 <!-- TABLE OF CONTENTS -->
