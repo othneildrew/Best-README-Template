@@ -13,3 +13,9 @@
 ### Removed
 
 - Some packages/libraries from acknowledgements I no longer use
+
+## v1.1.0
+
+### Rechange the template (modernizing)
+- Added modern badges
+-
