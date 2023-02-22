@@ -14,8 +14,12 @@
 
 - Some packages/libraries from acknowledgements I no longer use
 
-## v1.1.0
+## v1.5.0
 
 ### Rechange the template (modernizing)
 - Added modern badges
--
+- Added more readme's
+- beautified
+- modern view 
+- lots of references and documentation
+- error fixed 
