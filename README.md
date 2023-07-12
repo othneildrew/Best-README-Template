@@ -1,21 +1,21 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- روش های بهتری برای لینک بازگشت به بالا: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
+*** با تشکر از شما برای بررسی بهترین قالب ریدمی. اگر پیشنهادی دارید
+*** که فکر میکنید باعث بهتر شدن پروژه میشود، لطفا ریپازیتوری را فورک کنید و یک پل ریکوئست ایجاد کنید
+*** یا برای فرایند ساده تر یک موضوع با تگ "بهتر سازی" ایجاد کنید.
+*** فراموش نکنید که به پروژه ستاره دهید.
+*** دوباره ممنون! حالا برید و یک چیز عالی بسازید! D:
 -->
 
 
 
-<!-- PROJECT SHIELDS -->
+<!-- استفاده از شیلدز -->
 <!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** من برای خوانایی از لینک های علامت گذاری شده ارجاعی استفاده میکنم.
+*** لینک های مرجع شده به جای پرانتز () از براکت [] میکنند.
+*** برای اعلام متغیر ها به پایین صفحه مراجعه کنید.
+*** لینک های "contributers-url" و "forks-utl" , ... لینک هایی مختصر و اختیاری هستند که میتوانید استفاده کنید.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
@@ -34,75 +34,74 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">بهترین قالب ریدمی</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+یک قالب عالی برای شروع پروژه های خود !
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>ویکی را بررسی کنید »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">نسخه نمایشی را ببینید</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">یک باگ را گزارش کنید</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">یک قابلیت را درخواست کنید</a>
   </p>
 </div>
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- فهرست -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>فهرست</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">درباره پروژه</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">ساخته شده توسط</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">راهنمای شروع</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">پیش نیاز ها</a></li>
+        <li><a href="#installation">نحوه نصب</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#usage">نحوه استفاده</a></li>
+    <li><a href="#roadmap">مسیر پروژه</a></li>
+    <li><a href="#contributing">همکاری</a></li>
+    <li><a href="#license">لایسنس</a></li>
+    <li><a href="#contact">راه های ارتباطی</a></li>
+    <li><a href="#acknowledgments">منابع</a></li>
   </ol>
 </details>
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- درباره پروژه -->
+## درباره پروژه
+[![اسکرین شات از برنامه][product-screenshot]](https://example.com)
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+تعداد زیادی قالب های ریدمی عالی در گیتهاب وجود دارد. اما من نتوانستم قالبی پیدا کنم که مناسب پروژه های من باشد، پس من این قالب بهبود یافته را ساختم. من همیشه میخواستم قالبی که میسازم، آخرین قالبی باشد که نیاز دارید و من فکر میکنم این قالب همان است.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+دلایل:
+* زمان شما باید صرف ساختن چیز های عالی بشود. یک پروژه که به بقیه کمک کند.
+* شما نباید زمان خود را صرف انجام کار های تکراری مانند ساختن ریدمی کنید.
+* شما باید از اصول DRY در کل زندگی خود استفاده کنید :smile:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+قطعا هیچ قالبی به تنهایی نمیتواند نیاز تمامی پروژه ها را برطرف کند. به همین خاطر من قالب های بیشتری در آینده اضافه خواهم کرد. شما همچنین میتوانید توسط فورک کردن پروژه و ایجاد کردن پول ریکوئست و یا شروع کردن یک موضوع قابلیت های جدید پیشنهاد کنید. با تشکر از تمامی افرادی که حمایت کردند. 
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+برای شروع از فایل `BLANK_README.md` استفاده کنید.
 
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<p align="right">(<a href="#readme-top">بازگشت</a>)</p>
 
 
-### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+### ساخته شده توسط
+
+در این بخش تمامی فریمورک ها و کتابخانه هایی که استفاده شده را لیست کنید. اد آن ها و پلاگین ها را در بخش "منابع" لیست کنید. مثال :
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -113,116 +112,114 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">بازگشت به بالا</a>)</p>
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- راهنمای شروع -->
+## راهنمای شروع
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+این یک مثال است از نحوه ای که مخاطب میتواند پروژه را به صورت محلی نصب کند.
+برای داشتن یک کپی ساده از پروژه این مراحل ساده را دنبال کنید.
 
-### Prerequisites
+### پیش نیاز ها
 
-This is an example of how to list things you need to use the software and how to install them.
+این یک مثال است از تمام چیز هایی که باید نصب کنید و نحوه نصب آنها .
 * npm
   ```sh
   npm install npm@latest -g
   ```
 
-### Installation
+### نحوه نصب
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_در بخش زیر میتوانید مخاطبان خود را برای نصب پروژه راهنمایی کنید. این قالب از هیچ سرویس خارجی استفاده نمیکند._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. یک کلید API رایگان دریافت کنید [https://example.com](https://example.com)
+2. ریپازیتوری را کپی کنید
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+3. پکیج های npm را نصب کنید
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. کلید API خود را در `config.js` وارد کنید.
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">بازگشت به بالا</a>)</p>
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- مثال های استفاده -->
+## نحوه استفاده
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+از این فضا برای نشان دادن نحوه های استفاده از پروژه استفاده کنید. اسکرین شات های بیشتر، بخش هایی از کد و نسخه نمایشی مناسب این بخش هستند. اینجا میتوانید منابع را لیست کنید.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_برای مثال های بیشتر به [ویکی](https://example.com) مراجعه کنید_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">بازگشت به بالا</a>)</p>
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
+<!-- مسیر پروژه -->
+## مسیر پروژه
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+- [x] اضافه کردن بخش تغییرات
+- [x] "اضافه کردن لینک های "بازگشت به بالا
+بب- [ ] ساختن قالب های بیشتر با مثال
+- [ ] یک سند "components" برای کپی و پیست ساده تر ریدمی
+- [ ] حمایت از زبان های مختلف
+    - [ ] چینی
+    - [ ] اسپانیایی
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+به [اینجا](https://github.com/othneildrew/Best-README-Template/issues) برای لیست قابلیت های اضافه شده و مشکلاتی که وجود دارد مراجعه کنید.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">بازگشت به بالا</a>)</p>
 
 
 
-<!-- CONTACT -->
-## Contact
+<!-- همکاری -->
+## همکاری
+به خاطر همکاری هاست که پروژه های اوپن-سورس یک فضای عالی برای یادگیری، اثر گذاری و ساختن هستند. از همه همکاری هایی که میکنید بسیار قدردانی میکنم.
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+که فکر میکنید باعث بهتر شدن پروژه میشود، لطفا ریپازیتوری را فورک کنید و یک پل ریکوئست ایجاد کنید
+یا برای فرایند ساده تر یک موضوع با تگ "بهتر سازی" ایجاد کنید.
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+1. پروژه را فورک کنید
+2. یک شاخه به نام feature بسازید (`git checkout -b feature/AmazingFeature`)
+3. تغییراتتان را ایجاد کنید (`git commit -m 'Add some AmazingFeature'`)
+4. به شاخه اصلی پوش کنید (`git push origin feature/AmazingFeature`)
+5. یک پل ریکوئست ایجاد کنید.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">بازگشت به بالا</a>)</p>
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- لایسنس -->
+## لایسنس
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+این پروژه تحت لایسنس MIT است. برای اطلاعات بیشتر به فایل `LICENSE.txt` مراجعه کنید.
+
+<p align="right">(<a href="#readme-top">بازگشت به بالا</a>)</p>
+
+
+<!-- راه های ارتباطی -->
+## راه های ارتباطی
+
+نام شما - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+لینک پروژه: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+<p align="right">(<a href="#readme-top">بازگشت به بالا</a>)</p>
+
+
+
+<!-- منابع -->
+## منابع
+
+از این فضا برای لیست کردن منابعی که از آن استفاده کردید ، استفاده کنید. من چند تا از منابع مورد علاقه ام را لیست کردم !
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
@@ -233,11 +230,11 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">بازگشت به بالا</a>)</p>
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- لینک ها و عکس ها -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
