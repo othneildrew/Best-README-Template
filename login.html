@@ -1,0 +1,55 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Log Ingestion</title>
+</head>
+<body>
+    <h1>Log Ingestion</h1>
+    <form id="logForm">
+        <label for="logLevel">Log Level:</label>
+        <input type="text" id="logLevel" name="logLevel" required><br><br>
+
+        <label for="logMessage">Log Message:</label>
+        <input type="text" id="logMessage" name="logMessage" required><br><br>
+
+        <label for="resourceId">Resource ID:</label>
+        <input type="text" id="resourceId" name="resourceId" required><br><br>
+
+        <!-- Add more fields for other log attributes as needed -->
+
+        <button type="submit">Submit Log</button>
+    </form>
+
+    <script>
+        document.getElementById('logForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const formData = new FormData(this);
+            const logData = {};
+            formData.forEach((value, key) => {
+                logData[key] = value;
+            });
+
+            // Sending logData to the server using fetch API
+            fetch('http://localhost:3000/logs', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(logData),
+            })
+            .then(response => response.text())
+            .then(data => {
+                console.log(data);
+                alert('Log submitted successfully');
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('Error submitting log');
+            });
+        });
+    </script>
+</body>
+</html>
