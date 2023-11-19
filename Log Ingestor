@@ -1,0 +1,45 @@
+from flask import Flask, request
+from elasticsearch import Elasticsearch
+from flask_sqlalchemy import SQLAlchemy
+from datetime import datetime
+
+app = Flask(__name__)
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///logs.db'
+db = SQLAlchemy(app)
+es = Elasticsearch()
+
+class Log(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    level = db.Column(db.String(50))
+    message = db.Column(db.Text)
+    resourceId = db.Column(db.String(50))
+    timestamp = db.Column(db.DateTime)
+    traceId = db.Column(db.String(50))
+    spanId = db.Column(db.String(50))
+    commit = db.Column(db.String(50))
+    parentResourceId = db.Column(db.String(50))
+
+    def to_dict(self):
+        return {column.name: getattr(self, column.name) for column in self.__table__.columns}
+
+db.create_all()
+
+@app.route('/ingest', methods=['POST'])
+def ingest_log():
+    log_data = request.get_json()
+
+    # Convert timestamp to datetime object
+    log_data['timestamp'] = datetime.strptime(log_data['timestamp'], "%Y-%m-%dT%H:%M:%SZ")
+
+    # Store log in the relational database
+    log_entry = Log(**log_data)
+    db.session.add(log_entry)
+    db.session.commit()
+
+    # Index the log data into Elasticsearch
+    es.index(index='logs', body=log_data)
+
+    return 'Log ingested successfully', 200
+
+if __name__ == '__main__':
+    app.run(port=3000)
