@@ -1,6 +1,6 @@
 # Contributing to PROJECT-NAME-V1.0
 
-Thank you for considering contributing to this project! Contributions are essential for improving and maintaining the Netflix Clone 2.0.
+Thank you for considering contributing to this project! Contributions are essential for improving and maintaining the PROJECT-NAME-V1.0.
 
 ## How to Contribute
 
