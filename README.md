@@ -199,7 +199,7 @@ Don't forget to give the project a star! Thanks again!
 
 <a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" />
-</a
+</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
