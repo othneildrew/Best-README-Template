@@ -138,7 +138,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/github_username/repo_name.git
    ```
 3. Install NPM packages
    ```sh
@@ -147,6 +147,11 @@ _Below is an example of how you can instruct your audience on installing and set
 4. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
+   ```
+5. Change git remote url to avoid accidental pushes to base project
+   ```sh
+   git remote set-url origin github_username/repo_name
+   git remote -v # confirm the changes
    ```
 
 <p style="text-align: right;">(<a href="#readme-top">back to top</a>)</p>
