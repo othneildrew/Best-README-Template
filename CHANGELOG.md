@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.1.2
+
+### Added or Changed
+- Change license to Unlicense; releasing the project fully into the public domain
+- Add simplified project cover image
+
+
+## v1.1.1
+
+### Added or Changed
+- Fixed back to top alignment (revert changes)
+
+
 ## v1.1.0
 
 ### Added or Changed
