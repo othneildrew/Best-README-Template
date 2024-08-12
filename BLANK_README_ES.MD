@@ -83,7 +83,7 @@
 <!-- SOBRE EL PROYECTO -->
 ## Sobre el Proyecto
 
-[![Captura de Pantalla][screenshot]](https://example.com)
+[![Captura de Pantalla][captura-pantalla]](https://example.com)
 
 Aquí tienes una plantilla en blanco para comenzar: Para evitar reescribir demasiada información, utiliza la función de búsqueda y reemplazo en tu editor de texto para los siguientes términos: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `titulo_del_proyecto`, `descripcion_del_proyecto`.
 
@@ -242,7 +242,7 @@ Enlace del Proyecto: [https://github.com/github_username/repo_name](https://gith
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[captura-pantalla]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
