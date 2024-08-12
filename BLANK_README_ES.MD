@@ -80,8 +80,6 @@
 
 
 
-
-
 <!-- SOBRE EL PROYECTO -->
 ## Sobre el Proyecto
 
