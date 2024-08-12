@@ -59,14 +59,14 @@
     <li>
       <a href="#sobre-el-proyecto">Sobre el Proyecto</a>
       <ul>
-        <li><a href="#tecnologias-utilizadas">Tecnologías Utilizadas</a></li>
+        <li><a href="#tecnologías-utilizadas">Tecnologías Utilizadas</a></li>
       </ul>
     </li>
     <li>
       <a href="#empezando">Empezando</a>
       <ul>
         <li><a href="#prerrequisitos">Prerrequisitos</a></li>
-        <li><a href="#instalacion">Instalación</a></li>
+        <li><a href="#instalación">Instalación</a></li>
       </ul>
     </li>
     <li><a href="#uso">Uso</a></li>
