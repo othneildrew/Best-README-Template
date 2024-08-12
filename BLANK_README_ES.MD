@@ -191,7 +191,7 @@ Si tienes una sugerencia para mejorar esto, por favor haz un fork del repositori
 ### Principales Contribuidores:
 
 <a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="Imagen de contribuciones" />
+  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
 </a>
 
 
