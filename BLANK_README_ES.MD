@@ -149,7 +149,7 @@ Este es un ejemplo de cómo hacer una lista de los elementos necesarios para usa
 <!-- EJEMPLOS DE USO -->
 ## Uso
 
-Utiliza este espacio para mostrar ejemplos útiles de cómo se puede utilizar el proyecto. Capturas de pantalla adicionales, ejemplos de código y demos funcionan bien en esta sección. También puedes enlazar a más recursos.
+Utiliza este espacio para mostrar ejemplos útiles de cómo se puede utilizar el proyecto. Capturas de pantalla, ejemplos de código y demos funcionan bien en esta sección. También puedes poner enlaces a más recursos.
 
 _Para más ejemplos, por favor consulta la [Documentación](https://example.com)_
 
@@ -176,7 +176,7 @@ Consulta los [issues abiertos](https://github.com/github_username/repo_name/issu
 
 Las contribuciones son lo que hace que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. Cualquier contribución que hagas es **muy apreciada**.
 
-Si tienes una sugerencia para mejorar esto, por favor haz un fork del repositorio y crea una pull request. También puedes simplemente abrir un problema con la etiqueta "enhancement".
+Si tienes una sugerencia para mejorar esto, por favor haz un fork del repositorio y crea una pull request. También puedes simplemente abrir un issue con la etiqueta "enhancement".
 ¡No olvides darle una estrella al proyecto! ¡Gracias de nuevo!
 
 1. Haz un fork del Proyecto
