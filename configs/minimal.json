@@ -1,0 +1,39 @@
+{
+  "project": {
+    "title": "My Awesome Project",
+    "description": "A brief description of what this project does and who it's for",
+    "logo_path": "images/logo.png",
+    "screenshot_path": "images/screenshot.png"
+  },
+  "repository": {
+    "github_username": "your-username",
+    "repo_name": "your-repo-name", 
+    "license": "MIT License"
+  },
+  "contact": {
+    "name": "Your Name",
+    "twitter_handle": "your_twitter",
+    "linkedin_username": "your_linkedin",
+    "email": "your.email@example.com",
+    "email_client": "example"
+  },
+  "sections": {
+    "about": {"enabled": true},
+    "built_with": {"enabled": false},
+    "getting_started": {"enabled": true},
+    "usage": {"enabled": true},
+    "roadmap": {"enabled": false},
+    "contributing": {"enabled": true},
+    "license": {"enabled": true},
+    "contact": {"enabled": true},
+    "acknowledgments": {"enabled": false}
+  },
+  "badges": {
+    "contributors": true,
+    "forks": true,
+    "stars": true,
+    "issues": true,
+    "license": true,
+    "linkedin": false
+  }
+}
