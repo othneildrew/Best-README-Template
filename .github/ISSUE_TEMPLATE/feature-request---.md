@@ -6,9 +6,11 @@ labels: enhancement
 ---
 
 ## Summary
+
 Brief explanation of the feature.
 
 ### Basic example
+
 Include a basic example or links here.
 
 ### Motivation
