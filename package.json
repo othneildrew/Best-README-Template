@@ -1,0 +1,18 @@
+{
+  "name": "readme-template-generator",
+  "version": "1.0.0",
+  "description": "Automated README generation from templates",
+  "main": "scripts/generate-readme.js",
+  "scripts": {
+    "generate": "node scripts/generate-readme.js configs/example.json README.md",
+    "generate:minimal": "node scripts/generate-readme.js configs/minimal.json README.md",
+    "dev": "node scripts/generate-readme.js configs/example.json README.md && echo 'README.md updated!'",
+    "validate": "node scripts/validate-config.js configs/example.json"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.8"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
