@@ -89,8 +89,8 @@
       "items": [
         {"text": "Add Changelog", "completed": true},
         {"text": "Add back to top links", "completed": true},
-        {"text": "Add Additional Templates w/ Examples", "completed": false},
-        {"text": "Add \"components\" document to easily copy & paste sections of the readme", "completed": false},
+        {"text": "Add Additional Templates w/ Examples", "completed": true},
+        {"text": "Add \"components\" document to easily copy & paste sections of the readme", "completed": true},
         {
           "text": "Multi-language Support",
           "completed": false,
