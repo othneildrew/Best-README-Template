@@ -27,6 +27,46 @@ Handlebars.registerHelper('eq', function(a, b, options) {
   }
 });
 
+// Add helper for 1-based indexing
+Handlebars.registerHelper('increment', function(value) {
+  return parseInt(value) + 1;
+});
+
+// Add helper for specific step checks
+Handlebars.registerHelper('isStep', function(index, step, options) {
+  if (parseInt(index) === parseInt(step) - 1) { // Convert to 0-based for comparison
+    return options.fn(this);
+  } else {
+    return options.inverse(this);
+  }
+});
+
+function stripTemplateComments(content) {
+  // Remove only template-specific comments, not user-helpful section headers
+  const patterns = [
+    // Markdownlint disable/enable comments (template-specific)
+    /^[ \t]*<!-- markdownlint-(?:disable|enable)[^>]*-->\r?\n/gm,
+    
+    // Section markers used by template engine (SECTION:name:START/END)
+    /^[ \t]*<!-- SECTION:[^>]*(?:START|END)\s*-->\r?\n/gm,
+    
+    // Badge markers used by template (BADGES:START/END) 
+    /^[ \t]*<!-- BADGES:(?:START|END)\s*-->\r?\n/gm
+  ];
+
+  let cleanContent = content;
+  
+  // Apply each pattern to remove template-specific comments only
+  patterns.forEach(pattern => {
+    cleanContent = cleanContent.replace(pattern, '');
+  });
+
+  // Clean up multiple consecutive blank lines (more than 2)
+  cleanContent = cleanContent.replace(/\n{3,}/g, '\n\n');
+
+  return cleanContent;
+}
+
 function generateReadme(configPath, outputPath = 'README.md') {
   try {
     // Use BLANK_README.md as the template
@@ -50,12 +90,16 @@ function generateReadme(configPath, outputPath = 'README.md') {
     // Generate README
     const readme = compiledTemplate(config);
     
+    // Strip all template comments from generated output
+    const cleanReadme = stripTemplateComments(readme);
+    
     // Write output
-    fs.writeFileSync(fullOutputPath, readme);
+    fs.writeFileSync(fullOutputPath, cleanReadme);
     
     console.log(`✅ README generated successfully: ${outputPath}`);
     console.log(`📄 Used config: ${configPath}`);
     console.log(`📋 Used template: ${templatePath}`);
+    console.log(`🧹 Stripped template comments from output`);
     
   } catch (error) {
     console.error('❌ Error generating README:', error.message);

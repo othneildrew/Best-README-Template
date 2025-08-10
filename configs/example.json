@@ -12,7 +12,7 @@
   },
   "contact": {
     "name": "Your Name",
-    "twitter_handle": "your_username",
+    "twitter_handle": "your_twitter",
     "linkedin_username": "othneildrew",
     "email": "email@example.com",
     "email_client": "example"
@@ -20,19 +20,51 @@
   "sections": {
     "about": {
       "enabled": true,
-      "content": "There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it."
+      "content": "There are many great README templates available on GitHub; however, I didn't\nfind one that really suited my needs so I created this enhanced one. I want to\ncreate a README template so amazing that it'll be the last one you ever need--\nI think this is it."
     },
     "built_with": {
       "enabled": true,
       "frameworks": [
-        {"name": "Next.js", "url": "https://nextjs.org/"},
-        {"name": "React", "url": "https://reactjs.org/"},
-        {"name": "Vue.js", "url": "https://vuejs.org/"},
-        {"name": "Angular", "url": "https://angular.io/"},
-        {"name": "Svelte", "url": "https://svelte.dev/"},
-        {"name": "Laravel", "url": "https://laravel.com"},
-        {"name": "Bootstrap", "url": "https://getbootstrap.com"},
-        {"name": "jQuery", "url": "https://jquery.com"}
+        {
+          "name": "Next.js", 
+          "url": "https://nextjs.org/",
+          "badge": "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+        },
+        {
+          "name": "React", 
+          "url": "https://reactjs.org/",
+          "badge": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+        },
+        {
+          "name": "Vue.js", 
+          "url": "https://vuejs.org/",
+          "badge": "https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
+        },
+        {
+          "name": "Angular", 
+          "url": "https://angular.io/",
+          "badge": "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
+        },
+        {
+          "name": "Svelte", 
+          "url": "https://svelte.dev/",
+          "badge": "https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"
+        },
+        {
+          "name": "Laravel", 
+          "url": "https://laravel.com",
+          "badge": "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"
+        },
+        {
+          "name": "Bootstrap", 
+          "url": "https://getbootstrap.com",
+          "badge": "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+        },
+        {
+          "name": "jQuery", 
+          "url": "https://jquery.com",
+          "badge": "https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"
+        }
       ]
     },
     "getting_started": {
@@ -41,16 +73,16 @@
         {"name": "npm", "command": "npm install npm@latest -g"}
       ],
       "installation_steps": [
-        "Get a free API Key at https://example.com",
+        "Get a free API Key at <https://example.com>",
         "Clone the repo",
         "Install NPM packages", 
-        "Enter your API in config.js",
+        "Enter your API in `config.js`",
         "Change git remote url to avoid accidental pushes to base project"
       ]
     },
     "usage": {
       "enabled": true,
-      "content": "Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources."
+      "content": "Use this space to show useful examples of how a project can be used. Additional\nscreenshots, code examples and demos work well in this space. You may also link\nto more resources."
     },
     "roadmap": {
       "enabled": true,

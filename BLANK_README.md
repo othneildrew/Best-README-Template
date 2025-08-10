@@ -33,8 +33,8 @@ See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
 <!-- PROJECT LOGO -->
 
-<br />
 <div align="center">
+  <!-- markdownlint-disable MD013 -->
   <a href="https://github.com/{{repository.github_username}}/{{repository.repo_name}}">
     <img src="{{project.logo_path}}" alt="Logo" width="80" height="80">
   </a>
@@ -44,27 +44,24 @@ See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
   <p align="center">
     {{project.description}}
     <br />
-        <a href="https://github.com/{{repository.github_username}}/
-    {{repository.repo_name}}">
-          <strong>Explore the docs »</strong>
-        </a>
+    <a href="https://github.com/{{repository.github_username}}/{{repository.repo_name}}">
+      <strong>Explore the docs »</strong>
+    </a>
     <br />
     <br />
-    <a href="https://github.com/{{repository.github_username}}/
-    {{repository.repo_name}}">
+    <a href="https://github.com/{{repository.github_username}}/{{repository.repo_name}}">
       View Demo
     </a>
     ·
-    <a href="https://github.com/{{repository.github_username}}/
-    {{repository.repo_name}}/issues/new?labels=bug&template=bug-report---.md">
+    <a href="https://github.com/{{repository.github_username}}/{{repository.repo_name}}/issues/new?labels=bug&template=bug-report---.md">
       Report Bug
     </a>
     ·
-    <a href="https://github.com/{{repository.github_username}}/
-    {{repository.repo_name}}/issues/new?labels=enhancement&template=feature-request---.md">
+    <a href="https://github.com/{{repository.github_username}}/{{repository.repo_name}}/issues/new?labels=enhancement&template=feature-request---.md">
       Request Feature
     </a>
   </p>
+  <!-- markdownlint-enable MD013 -->
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -146,32 +143,28 @@ Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- markdownlint-disable MD022 -->
 <!-- SECTION:built_with:START -->
 {{#sections.built_with.enabled}}
-
 ### Built With
+<!-- markdownlint-enable MD022 -->
 
 This section should list any major frameworks/libraries used to bootstrap your
 project. Leave any add-ons/plugins for the acknowledgements section. Here are a
 few examples.
 
-<!-- markdownlint-disable MD052 -->
-
+<!-- markdownlint-disable MD052 MD032 -->
 {{#sections.built_with.frameworks}}
-
 - [![{{name}}][{{name}}.shield]][{{name}}-url]
-
 {{/sections.built_with.frameworks}}
-
-<!-- markdownlint-enable MD052 -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<!-- markdownlint-enable MD052 MD032 -->
+<!-- markdownlint-disable MD022 -->
 {{/sections.built_with.enabled}}
 <!-- SECTION:built_with:END -->
-
 {{/sections.about.enabled}}
 <!-- SECTION:about:END -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 <!-- SECTION:getting_started:START -->
@@ -191,7 +184,6 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   {{command}}
   ```
-
 {{/sections.getting_started.prerequisites}}
 
 ### Installation
@@ -201,43 +193,41 @@ setting up your app. This template doesn't rely on any external dependencies
 or services._
 
 {{#sections.getting_started.installation_steps}}
-{{@index}}. {{.}}
-{{#if @first}}
+{{increment @index}}. {{.}}
+{{#isStep @index 2}}
 
    ```sh
    git clone https://github.com/{{../repository.github_username}}/{{../repository.repo_name}}.git
    ```
 
-{{/if}}
-{{#if @second}}
+{{/isStep}}
+{{#isStep @index 3}}
 
    ```sh
    npm install
    ```
 
-{{/if}}
-{{#if @third}}
+{{/isStep}}
+{{#isStep @index 4}}
 
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
 
-{{/if}}
-{{#if @fourth}}
+{{/isStep}}
+{{#isStep @index 5}}
 
    ```sh
    git remote set-url origin {{../repository.github_username}}/{{../repository.repo_name}}
    git remote -v # confirm the changes
    ```
 
-{{/if}}
-
+{{/isStep}}
 {{/sections.getting_started.installation_steps}}
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<!-- markdownlint-enable MD031 MD032 MD040 -->
 {{/sections.getting_started.enabled}}
 <!-- SECTION:getting_started:END -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 <!-- SECTION:usage:START -->
@@ -248,11 +238,10 @@ or services._
 {{sections.usage.content}}
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 {{/sections.usage.enabled}}
 <!-- SECTION:usage:END -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 <!-- SECTION:roadmap:START -->
@@ -266,15 +255,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
   * [ ] Nested Feature
 
 - [{{#if completed}}x{{else}} {{/if}}] {{text}}
-
 {{#if subitems}}
-
-- [{{#if completed}}x{{else}} {{/if}}] {{text}}
-
+{{#subitems}}
+  - [{{#if completed}}x{{else}} {{/if}}] {{text}}
 {{/subitems}}
 {{/if}}
-
 {{/sections.roadmap.items}}
+<!-- markdownlint-enable MD007 MD032 -->
 
 See the [open issues](https://github.com/{{repository.github_username}}/{{repository.repo_name}}/issues)
 for a full list of proposed features (and known issues).
@@ -283,7 +270,6 @@ for a full list of proposed features (and known issues).
 
 {{/sections.roadmap.enabled}}
 <!-- SECTION:roadmap:END -->
-
 <!-- CONTRIBUTING -->
 <!-- SECTION:contributing:START -->
 {{#sections.contributing.enabled}}
@@ -302,9 +288,6 @@ create a pull request. You can also simply open an issue with the tag
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- SECTION:contributing_contributors:START -->
 {{#sections.contributing.show_contributors}}
 
@@ -319,9 +302,9 @@ create a pull request. You can also simply open an issue with the tag
 
 {{/sections.contributing.show_contributors}}
 <!-- SECTION:contributing_contributors:END -->
-
 {{/sections.contributing.enabled}}
 <!-- SECTION:contributing:END -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 <!-- SECTION:license:START -->
@@ -331,10 +314,9 @@ create a pull request. You can also simply open an issue with the tag
 
 Distributed under the {{repository.license}}. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 {{/sections.license.enabled}}
 <!-- SECTION:license:END -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 <!-- SECTION:contact:START -->
@@ -344,12 +326,12 @@ Distributed under the {{repository.license}}. See `LICENSE.txt` for more informa
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - <email@email_client.com>
 
-Project Link: <https://github.com/{{repository.github_username}}/{{repository.repo_name}}>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+**Project Link:** [https://github.com/{{repository.github_username}}/{{repository.repo_name}}](https://github.com/{{repository.github_username}}/{{repository.repo_name}})
 
 {{/sections.contact.enabled}}
 <!-- SECTION:contact:END -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 <!-- SECTION:acknowledgments:START -->
@@ -360,16 +342,15 @@ Project Link: <https://github.com/{{repository.github_username}}/{{repository.re
 Use this space to list resources you find helpful and would like to give credit
 to. I've included a few of my favorites to kick things off!
 
+<!-- markdownlint-disable MD032-->
 {{#sections.acknowledgments.items}}
-
 - [{{name}}]({{url}})
-
 {{/sections.acknowledgments.items}}
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<!-- markdownlint-enable MD032-->
 {{/sections.acknowledgments.enabled}}
 <!-- SECTION:acknowledgments:END -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -388,6 +369,6 @@ to. I've included a few of my favorites to kick things off!
 [linkedin-url]: https://linkedin.com/in/{{contact.linkedin_username}}
 [product-screenshot]: {{project.screenshot_path}}
 {{#sections.built_with.frameworks}}
-[{{name}}.shield]: https://img.shields.io/badge/{{name}}-badge-url-here
+[{{name}}.shield]: {{badge}}
 [{{name}}-url]: {{url}}
 {{/sections.built_with.frameworks}}

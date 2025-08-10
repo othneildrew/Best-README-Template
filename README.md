@@ -17,8 +17,8 @@ See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 *** I'm using markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax
-*** you may use.
+*** for contributors-url, forks-url, etc. This is an optional,
+*** concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
@@ -46,13 +46,15 @@ See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
     </a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">
+      View Demo
+    </a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug
-    &template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">
+      Report Bug
+    </a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement
-    &template=feature-request---.md">
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">
       Request Feature
     </a>
   </p>
@@ -92,9 +94,9 @@ See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't
+There are many great README templates available on GitHub; however, I didn&#x27;t
 find one that really suited my needs so I created this enhanced one. I want to
-create a README template so amazing that it'll be the last one you ever need --
+create a README template so amazing that it&#x27;ll be the last one you ever need--
 I think this is it.
 
 Here's why:
@@ -120,14 +122,14 @@ This section should list any major frameworks/libraries used to bootstrap your
 project. Leave any add-ons/plugins for the acknowledgements section. Here are a
 few examples.
 
-- [![Next][Next.js]][Next-url]
-- [![React][React.js]][React-url]
-- [![Vue][Vue.js]][Vue-url]
-- [![Angular][Angular.io]][Angular-url]
-- [![Svelte][Svelte.dev]][Svelte-url]
-- [![Laravel][Laravel.com]][Laravel-url]
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-- [![JQuery][JQuery.com]][JQuery-url]
+- [![Next.js][Next.js.shield]][Next.js-url]
+- [![React][React.shield]][React-url]
+- [![Vue.js][Vue.js.shield]][Vue.js-url]
+- [![Angular][Angular.shield]][Angular-url]
+- [![Svelte][Svelte.shield]][Svelte-url]
+- [![Laravel][Laravel.shield]][Laravel-url]
+- [![Bootstrap][Bootstrap.shield]][Bootstrap-url]
+- [![jQuery][jQuery.shield]][jQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,11 +157,11 @@ _Below is an example of how you can instruct your audience on installing and
 setting up your app. This template doesn't rely on any external dependencies
 or services._
 
-1. Get a free API Key at <https://example.com>
+1. Get a free API Key at &lt;https://example.com&gt;
 2. Clone the repo
 
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/othneildrew/Best-README-Template.git
    ```
 
 3. Install NPM packages
@@ -168,7 +170,7 @@ or services._
    npm install
    ```
 
-4. Enter your API in `config.js`
+4. Enter your API in &#x60;config.js&#x60;
 
    ```js
    const API_KEY = 'ENTER YOUR API';
@@ -177,7 +179,7 @@ or services._
 5. Change git remote url to avoid accidental pushes to base project
 
    ```sh
-   git remote set-url origin github_username/repo_name
+   git remote set-url origin othneildrew/Best-README-Template
    git remote -v # confirm the changes
    ```
 
@@ -202,7 +204,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Add Changelog
 - [x] Add back to top links
 - [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Add &quot;components&quot; document to easily copy &amp; paste sections of the readme
 - [ ] Multi-language Support
   - [ ] Chinese
   - [ ] Spanish
@@ -252,10 +254,15 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name  
-𝕏[@your_twitter](https://twitter.com/your_username)  
-📧[email@example.com](mailto:email@example.com)  
-Project Link: <https://github.com/your_username/repo_name>
+| | |
+|:---:|:---|
+| <img src="https://github.com/othneildrew.png" alt="Your Name" width="50" height="50" style="border-radius: 50%;"> | **Your Name** |
+| 📧 | [email@example.com](mailto:email@example.com) |
+| 🐙 | [@othneildrew](https://github.com/othneildrew) |
+| 💼 | [LinkedIn](https://linkedin.com/in/othneildrew) • 𝕏 [@your_twitter](https://twitter.com/your_twitter) |
+
+**Project Link:** [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -268,8 +275,8 @@ to. I've included a few of my favorites to kick things off!
 
 - [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Malven's Grid Cheatsheet](https://grid.malven.co/)
+- [Malven&#x27;s Flexbox Cheatsheet](https://flexbox.malven.co/)
+- [Malven&#x27;s Grid Cheatsheet](https://grid.malven.co/)
 - [Img Shields](https://shields.io)
 - [GitHub Pages](https://pages.github.com)
 - [Font Awesome](https://fontawesome.com)
@@ -363,19 +370,19 @@ By using pre-commit.ci, you can ensure that your code follows best practices and
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Next.js.shield]: https://img.shields.io/badge/Next-black?style&#x3D;for-the-badge&amp;logo&#x3D;next.js&amp;logoColor&#x3D;white
+[Next.js-url]: https://nextjs.org/
+[React.shield]: https://img.shields.io/badge/react-%2320232a.svg?style&#x3D;for-the-badge&amp;logo&#x3D;react&amp;logoColor&#x3D;%2361DAFB
 [React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Vue.js.shield]: https://img.shields.io/badge/vuejs-%2335495e.svg?style&#x3D;for-the-badge&amp;logo&#x3D;vuedotjs&amp;logoColor&#x3D;%234FC08D
+[Vue.js-url]: https://vuejs.org/
+[Angular.shield]: https://img.shields.io/badge/angular-%23DD0031.svg?style&#x3D;for-the-badge&amp;logo&#x3D;angular&amp;logoColor&#x3D;white
 [Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[Svelte.shield]: https://img.shields.io/badge/svelte-%23f1413d.svg?style&#x3D;for-the-badge&amp;logo&#x3D;svelte&amp;logoColor&#x3D;white
 [Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel.shield]: https://img.shields.io/badge/laravel-%23FF2D20.svg?style&#x3D;for-the-badge&amp;logo&#x3D;laravel&amp;logoColor&#x3D;white
 [Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap.shield]: https://img.shields.io/badge/bootstrap-%23563D7C.svg?style&#x3D;for-the-badge&amp;logo&#x3D;bootstrap&amp;logoColor&#x3D;white
 [Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com
+[jQuery.shield]: https://img.shields.io/badge/jquery-%230769AD.svg?style&#x3D;for-the-badge&amp;logo&#x3D;jquery&amp;logoColor&#x3D;white
+[jQuery-url]: https://jquery.com
