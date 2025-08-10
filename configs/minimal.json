@@ -7,7 +7,7 @@
   },
   "repository": {
     "github_username": "your-username",
-    "repo_name": "your-repo-name", 
+    "repo_name": "your-repo-name",
     "license": "MIT License"
   },
   "contact": {
@@ -18,15 +18,15 @@
     "email_client": "example"
   },
   "sections": {
-    "about": {"enabled": true},
-    "built_with": {"enabled": false},
-    "getting_started": {"enabled": true},
-    "usage": {"enabled": true},
-    "roadmap": {"enabled": false},
-    "contributing": {"enabled": true},
-    "license": {"enabled": true},
-    "contact": {"enabled": true},
-    "acknowledgments": {"enabled": false}
+    "about": { "enabled": true },
+    "built_with": { "enabled": false },
+    "getting_started": { "enabled": true },
+    "usage": { "enabled": true },
+    "roadmap": { "enabled": false },
+    "contributing": { "enabled": true },
+    "license": { "enabled": true },
+    "contact": { "enabled": true },
+    "acknowledgments": { "enabled": false }
   },
   "badges": {
     "contributors": true,
