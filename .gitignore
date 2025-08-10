@@ -5,19 +5,28 @@ yarn-debug.log*
 yarn-error.log*
 package-lock.json
 
+# Python virtual environment
+.venv/
+venv/
+
 # Generated files
 *.tmp
 
-# OS
+# OS generated files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
 
-# IDE
+# IDE files
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# Testing
-coverage/
-.nyc_output/
+# Temporary files
+*.tmp
+*.temp

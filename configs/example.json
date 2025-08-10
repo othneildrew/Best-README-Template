@@ -12,10 +12,24 @@
   },
   "contact": {
     "name": "Your Name",
-    "twitter_handle": "your_twitter",
-    "linkedin_username": "othneildrew",
     "email": "email@example.com",
-    "email_client": "example"
+    "email_client": "example",
+    "socials": [
+      {
+        "platform": "LinkedIn",
+        "username": "othneildrew",
+        "url": "https://linkedin.com/in/othneildrew",
+        "icon": "💼",
+        "enabled": true
+      },
+      {
+        "platform": "Twitter",
+        "username": "your_twitter",
+        "url": "https://twitter.com/your_twitter",
+        "icon": "🐦",
+        "enabled": false
+      }
+    ]
   },
   "sections": {
     "about": {
@@ -73,11 +87,29 @@
         { "name": "npm", "command": "npm install npm@latest -g" }
       ],
       "installation_steps": [
-        "Get a free API Key at <https://example.com>",
-        "Clone the repo",
-        "Install NPM packages",
-        "Enter your API in `config.js`",
-        "Change git remote url to avoid accidental pushes to base project"
+        {
+          "text": "Get a free API Key at https://example.com",
+          "command": "# Register at https://example.com"
+        },
+        {
+          "text": "Clone the repo",
+          "command": "git clone https://github.com/your_username_/Project-Name.git",
+          "language": "bash"
+        },
+        {
+          "text": "Install NPM packages",
+          "command": "npm install",
+          "language": "bash"
+        },
+        {
+          "text": "Enter your API in `config.js`",
+          "command": "const API_KEY = 'ENTER YOUR API';"
+        },
+        {
+          "text": "Change git remote url to avoid accidental pushes to base project",
+          "command": "git remote set-url origin https://github.com/your_username_/Project-Name.git",
+          "language": "bash"
+        }
       ]
     },
     "usage": {
@@ -148,7 +180,6 @@
     "forks": true,
     "stars": true,
     "issues": true,
-    "license": true,
-    "linkedin": true
+    "license": true
   }
 }

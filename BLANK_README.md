@@ -1,9 +1,3 @@
-# {{project.title}}
-
-<!-- Improved compatibility of back to top link:
-See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a id="readme-top"></a>
-
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -11,6 +5,18 @@ See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
+<!-- PROJECT LOGO AND TITLE -->
+<!-- Improved compatibility of back to top link:
+See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a id="readme-top"></a>
+<div align="center">
+  <!-- markdownlint-disable MD013 MD033 -->
+  <h1>{{project.title}}</h1>
+  <a href="https://github.com/{{repository.github_username}}/{{repository.repo_name}}">
+    <img src="{{project.logo_path}}" alt="Logo" width="80" height="80">
+  </a>
+  <!-- markdownlint-enable MD013 MD033 -->
+</div>
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -22,25 +28,20 @@ See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+<div align="center">
+
 <!-- BADGES:START -->
 {{#badges.contributors}}[![Contributors][contributors-shield]][contributors-url]{{/badges.contributors}}
 {{#badges.forks}}[![Forks][forks-shield]][forks-url]{{/badges.forks}}
 {{#badges.stars}}[![Stargazers][stars-shield]][stars-url]{{/badges.stars}}
 {{#badges.issues}}[![Issues][issues-shield]][issues-url]{{/badges.issues}}
 {{#badges.license}}[![{{repository.license}}][license-shield]][license-url]{{/badges.license}}
-{{#badges.linkedin}}[![LinkedIn][linkedin-shield]][linkedin-url]{{/badges.linkedin}}
 <!-- BADGES:END -->
-
-<!-- PROJECT LOGO -->
+</div>
+<!-- PROJECT DESCRIPTION -->
 
 <div align="center">
   <!-- markdownlint-disable MD013 -->
-  <a href="https://github.com/{{repository.github_username}}/{{repository.repo_name}}">
-    <img src="{{project.logo_path}}" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">{{project.title}}</h3>
-
   <p align="center">
     {{project.description}}
     <br />
@@ -126,39 +127,22 @@ See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
 {{sections.about.content}}
 
-Here's why:
-
-- Your time should be focused on creating something amazing. A project that
-  solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README
-  from scratch
-- You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be
-different. So I'll be adding more in the near future. You may also suggest
-changes by forking this repo and creating a pull request or opening an issue.
-Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- markdownlint-disable MD022 -->
 <!-- SECTION:built_with:START -->
 {{#sections.built_with.enabled}}
+<!-- markdownlint-disable MD022 MD052 MD032 -->
 ### Built With
-<!-- markdownlint-enable MD022 -->
 
 This section should list any major frameworks/libraries used to bootstrap your
 project. Leave any add-ons/plugins for the acknowledgements section. Here are a
 few examples.
 
-<!-- markdownlint-disable MD052 MD032 -->
 {{#sections.built_with.frameworks}}
 - [![{{name}}][{{name}}.shield]][{{name}}-url]
 {{/sections.built_with.frameworks}}
-<!-- markdownlint-enable MD052 MD032 -->
-<!-- markdownlint-disable MD022 -->
+<!-- markdownlint-enable MD022 MD052 MD032 -->
 {{/sections.built_with.enabled}}
 <!-- SECTION:built_with:END -->
 {{/sections.about.enabled}}
@@ -193,36 +177,13 @@ setting up your app. This template doesn't rely on any external dependencies
 or services._
 
 {{#sections.getting_started.installation_steps}}
-{{increment @index}}. {{.}}
-{{#isStep @index 2}}
+{{increment @index}}. {{{text}}}{{#if command}}
 
-   ```sh
-   git clone https://github.com/{{../repository.github_username}}/{{../repository.repo_name}}.git
+   ```{{#if language}}{{language}}{{else}}sh{{/if}}
+   {{{command}}}
    ```
+{{/if}}
 
-{{/isStep}}
-{{#isStep @index 3}}
-
-   ```sh
-   npm install
-   ```
-
-{{/isStep}}
-{{#isStep @index 4}}
-
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-{{/isStep}}
-{{#isStep @index 5}}
-
-   ```sh
-   git remote set-url origin {{../repository.github_username}}/{{../repository.repo_name}}
-   git remote -v # confirm the changes
-   ```
-
-{{/isStep}}
 {{/sections.getting_started.installation_steps}}
 <!-- markdownlint-enable MD031 MD032 MD040 -->
 {{/sections.getting_started.enabled}}
@@ -235,7 +196,7 @@ or services._
 
 ## Usage
 
-{{sections.usage.content}}
+{{{sections.usage.content}}}
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 {{/sections.usage.enabled}}
@@ -312,7 +273,8 @@ create a pull request. You can also simply open an issue with the tag
 
 ## License
 
-Distributed under the {{repository.license}}. See `LICENSE.txt` for more information.
+Distributed under the {{repository.license}}. See `{{repository.license_file}}`
+for more information.
 
 {{/sections.license.enabled}}
 <!-- SECTION:license:END -->
@@ -327,7 +289,6 @@ Distributed under the {{repository.license}}. See `LICENSE.txt` for more informa
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - <email@email_client.com>
 
 **Project Link:** [https://github.com/{{repository.github_username}}/{{repository.repo_name}}](https://github.com/{{repository.github_username}}/{{repository.repo_name}})
-
 {{/sections.contact.enabled}}
 <!-- SECTION:contact:END -->
 
@@ -364,9 +325,7 @@ to. I've included a few of my favorites to kick things off!
 [issues-shield]: https://img.shields.io/github/issues/{{repository.github_username}}/{{repository.repo_name}}.svg?style=for-the-badge
 [issues-url]: https://github.com/{{repository.github_username}}/{{repository.repo_name}}/issues
 [license-shield]: https://img.shields.io/github/license/{{repository.github_username}}/{{repository.repo_name}}.svg?style=for-the-badge
-[license-url]: https://github.com/{{repository.github_username}}/{{repository.repo_name}}/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/{{contact.linkedin_username}}
+[license-url]: https://github.com/{{repository.github_username}}/{{repository.repo_name}}/blob/master/{{repository.license_file}}
 [product-screenshot]: {{project.screenshot_path}}
 {{#sections.built_with.frameworks}}
 [{{name}}.shield]: {{badge}}
