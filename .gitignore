@@ -1,52 +1,23 @@
-# Node.js dependencies
+# Node.js
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# Package lock files (choose one strategy)
 package-lock.json
-# OR keep package-lock.json and ignore yarn.lock instead:
-# yarn.lock
 
 # Generated files
-# README.md  # Uncomment if you want to ignore generated README
-*.log
+*.tmp
 
-# OS generated files
+# OS
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
 
-# IDE files
-.vscode/settings.json
-.vscode/launch.json
+# IDE
+.vscode/
 .idea/
 *.swp
 *.swo
-*~
 
-# Temporary files
-*.tmp
-*.temp
-
-# Environment files
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Coverage reports
+# Testing
 coverage/
-*.lcov
-
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
+.nyc_output/
