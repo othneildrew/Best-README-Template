@@ -250,7 +250,7 @@ create a pull request. You can also simply open an issue with the tag
 
 ## License
 
-Distributed under the Unlicense License. See ``
+Distributed under the Unlicense License. See `LICENSE.txt`
 for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -370,7 +370,7 @@ By using pre-commit.ci, you can ensure that your code follows best practices and
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Next.js.shield]: https://img.shields.io/badge/Next-black?style&#x3D;for-the-badge&amp;logo&#x3D;next.js&amp;logoColor&#x3D;white
 [Next.js-url]: https://nextjs.org/

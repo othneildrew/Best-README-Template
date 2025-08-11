@@ -8,7 +8,8 @@
   "repository": {
     "github_username": "othneildrew",
     "repo_name": "Best-README-Template",
-    "license": "Unlicense License"
+    "license": "Unlicense License",
+    "license_file": "LICENSE.txt"
   },
   "contact": {
     "name": "Your Name",
