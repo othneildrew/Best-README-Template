@@ -1,9 +1,3 @@
-# Best-README-Template
-
-<!-- Improved compatibility of back to top link:
-See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a id="readme-top"></a>
-
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -11,6 +5,16 @@ See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
+<!-- PROJECT LOGO AND TITLE -->
+<!-- Improved compatibility of back to top link:
+See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a id="readme-top"></a>
+<div align="center">
+  <h1>Best-README-Template</h1>
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+</div>
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -22,22 +26,17 @@ See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+<div align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
+</div>
+<!-- PROJECT DESCRIPTION -->
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
@@ -99,21 +98,6 @@ find one that really suited my needs so I created this enhanced one. I want to
 create a README template so amazing that it&#x27;ll be the last one you ever need--
 I think this is it.
 
-Here's why:
-
-- Your time should be focused on creating something amazing. A project that
-  solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README
-  from scratch
-- You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be
-different. So I'll be adding more in the near future. You may also suggest
-changes by forking this repo and creating a pull request or opening an issue.
-Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
@@ -157,30 +141,34 @@ _Below is an example of how you can instruct your audience on installing and
 setting up your app. This template doesn't rely on any external dependencies
 or services._
 
-1. Get a free API Key at &lt;https://example.com&gt;
-2. Clone the repo
+1. Get a free API Key at https://example.com
 
    ```sh
-   git clone https://github.com/othneildrew/Best-README-Template.git
+   # Register at https://example.com
+   ```
+
+2. Clone the repo
+
+   ```bash
+   git clone https://github.com/your_username_/Project-Name.git
    ```
 
 3. Install NPM packages
 
-   ```sh
+   ```bash
    npm install
    ```
 
-4. Enter your API in &#x60;config.js&#x60;
+4. Enter your API in `config.js`
 
-   ```js
+   ```sh
    const API_KEY = 'ENTER YOUR API';
    ```
 
 5. Change git remote url to avoid accidental pushes to base project
 
-   ```sh
-   git remote set-url origin othneildrew/Best-README-Template
-   git remote -v # confirm the changes
+   ```bash
+   git remote set-url origin https://github.com/your_username_/Project-Name.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -204,8 +192,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Add Changelog
 - [x] Add back to top links
 - [x] Add Additional Templates w/ Examples
-- [x] Add &quot;components&quot; document to easily copy &amp; paste sections of
-the readme
+- [x] Add &quot;components&quot; document to easily copy &amp; paste sections of the readme
 - [ ] Multi-language Support
   - [ ] Chinese
   - [ ] Spanish
@@ -247,7 +234,8 @@ create a pull request. You can also simply open an issue with the tag
 
 ## License
 
-Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+Distributed under the Unlicense License. See ``
+for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -260,7 +248,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 | <img src="https://github.com/othneildrew.png" alt="Your Name" width="50" height="50" style="border-radius: 50%;"> | **Your Name** |
 | 📧 | [email@example.com](mailto:email@example.com) |
 | 🐙 | [@othneildrew](https://github.com/othneildrew) |
-| 💼 | [LinkedIn](https://linkedin.com/in/othneildrew) • 𝕏 [@your_twitter](https://twitter.com/your_twitter) |
+| 💼 | [LinkedIn](https://linkedin.com/in/othneildrew) |
 
 **Project Link:** [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
@@ -366,9 +354,7 @@ By using pre-commit.ci, you can ensure that your code follows best practices and
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/
 [product-screenshot]: images/screenshot.png
 [Next.js.shield]: https://img.shields.io/badge/Next-black?style&#x3D;for-the-badge&amp;logo&#x3D;next.js&amp;logoColor&#x3D;white
 [Next.js-url]: https://nextjs.org/

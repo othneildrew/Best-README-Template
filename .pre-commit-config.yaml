@@ -3,7 +3,7 @@ minimum_pre_commit_version: "2.6.0"
 repos:
   # https://pre-commit.com/hooks.html
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: v6.0.0
     hooks:
       # - id: check-illegal-windows-names
       - id: check-case-conflict
