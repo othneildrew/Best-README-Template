@@ -34,7 +34,7 @@
   "sections": {
     "about": {
       "enabled": true,
-      "content": "There are many great README templates available on GitHub; however, I didn't\nfind one that really suited my needs so I created this enhanced one. I want to\ncreate a README template so amazing that it'll be the last one you ever need--\nI think this is it."
+      "content": "There are many great README templates available on GitHub; however, I didn't\nfind one that really suited my needs so I created this enhanced one. I want to\ncreate a README template so amazing that it'll be the last one you ever need--\nI think this is it.\n\nHere's why:\n\n- Your time should be focused on creating something amazing. A project that\nsolves a problem and helps others\n- You shouldn't be doing the same tasks over and over like creating a README\nfrom scratch\n- You should implement DRY principles to the rest of your life 😄\n\nOf course, no one template will serve all projects since your needs may be\ndifferent. So I'll be adding more in the near future. You may also suggest\nchanges by forking this repo and creating a pull request or opening an issue.\nThanks to all the people have contributed to expanding this template!\n\nUse the `BLANK_README.md` to get started."
     },
     "built_with": {
       "enabled": true,
