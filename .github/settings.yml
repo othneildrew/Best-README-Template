@@ -1,0 +1,142 @@
+# See https://github.com/marketplace/actions/manage-administrative-repository-settings-from-pull-requests for details
+collaborators:
+  # Especially useful if the repository is private or part of an organization
+
+settings:
+  # Useful if you have default repo settings you wish to apply when creating a new repo
+
+labels:
+  # Useful to blow out a lot of standard labels and make busy PR / Issue screens easier on eyes
+  # Colors can be researched at https://hexcolor16.com
+  - name: bug
+    description: Bug identified
+    color: D73A4A
+    new_name: 🐞 Bug
+
+  - name: documentation
+    description: Improvements or additions to documentation
+    color: 228AFF # 0075ca
+    new_name: 📝 Documentation
+
+  - name: duplicate
+    description: This issue or pull request already exists
+    color: 7A5901 # cfd3d7
+    new_name: 💩 Duplicate
+
+  - name: enhancement
+    description: Feature added in the PR
+    color: A2EEEF
+    new_name: ✅ Feature
+
+  - name: 'good first issue'
+    description: Good for newcomers
+    color: 7057ff
+    new_name: 👶 Good First Issue
+
+  - name: 'help wanted'
+    description: Extra attention is needed
+    color: 008672
+    new_name: 🆘 Help Wanted
+
+  - name: invalid
+    description: This doesn't seem right
+    color: E4E669
+    new_name: 🚫 Invalid
+
+  - name: question
+    description: Further information is requested
+    color: D876E3
+    new_name: ❓ Question
+
+  - name: wontfix
+    description: This will not be worked on
+    color: FFFFFF
+    new_name: 🙅‍♂️ Wontfix
+
+  - name: ⚠️ Breaking Change
+    description: Breaking change in the PR
+    color: F1F800
+
+  - name: 🐳 Build
+    description: Indicates the change is related to the build
+    color: 0FD4DA
+
+  - name: 🚀 CI/CD
+    description: Indicates the change is related to CI/CD workflows
+    color: FF4D4D
+
+  - name: ⚙️ Configuration
+    description: Indicates the scope is related to the configuration
+    color: BDBDBD
+
+  - name: 📦 Dependencies
+    description: Pull requests that update a dependency file
+    color: 228AFF
+
+  - name: 👀 Feature Requested
+    description: Request for a feature
+    color: 07D90A
+
+  - name: 🕵🏻 Fix
+    description: Fix applied in the PR
+    color: F4D03F
+
+  - name: 🔧 Github Configuration
+    description: Indicates the change is related to github settings
+    color: '555555'
+
+  - name: 💻 Source
+    description: Indicates the scope is related to the own service logic
+    color: FDC720
+
+  - name: 🧪 Tests
+    description: Indicates the scope is related to the tests
+    color: 088E26
+
+  - name: 🤩 size/xs
+    description: Pull request size XS
+    color: 27AE60
+
+  - name: 🥳 size/s
+    description: Pull request size S
+    color: 2ECC71
+
+  - name: 😎 size/m
+    description: Pull request size M
+    color: F1C40F
+
+  - name: 😖 size/l
+    description: Pull request size L
+    color: F39C12
+
+  - name: 🤯 size/xl
+    description: Pull request size XL
+    color: E67E22
+
+  - name: ignore-for-release
+    description: Ignore pull request for a new release
+    color: EDEDED
+
+  - name: 'autorelease: tagged'
+    description: Used by release-please to indicate a release has been tagged
+    color: EDEDED
+
+  - name: 'autorelease: pending'
+    description: Used by release-please to indicate a release is pending
+    color: EDEDED
+
+branch_protections:
+  # Great if you have standards of practice to require certain checks before merging PRs
+
+environments:
+  # Useful if you have a multi-stage deployment process and want to enforce certain checks before deploying to production
+
+secrets:
+  # Useful if you have a standard set of secrets you want to ensure are always present in the repository
+
+variables:
+  # Useful if you have a standard set of environment variables you want to ensure are always present in the repository
+
+batch_file_operations:
+  # Useful if you have a standard set of files you want to ensure are always present in the repository
+  # or if you want to centrally manage common / shared files across multiple repositories

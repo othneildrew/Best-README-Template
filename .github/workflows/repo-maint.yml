@@ -1,0 +1,75 @@
+# Description: This workflow is used to maintain the repository by:
+# closing stale issues and PRs that have not had any update in 10-days,
+# locking issues and PRs that have been closed for 60-days,
+# and marking issues and PRs older than 90-days as stale.
+# All of these settings can be adjusted below.
+name: 'Issue & PR Maintenance'
+on:
+
+  schedule:
+    - cron: '0 0 * * *'
+
+  push:
+    paths:
+      - '.github/workflows/repo-maint.yml'
+
+jobs:
+  stale:
+    name: Close🚪 & Stale 💩
+    runs-on: [ "ubuntu-latest" ]
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      # TODO: Deprecated NodeJS Version
+      - name: Clean Agent Workspace
+        uses: tiacsys/clean-after-action@v3.0.0
+
+      - name: Stale Issues and PRs
+        uses: actions/stale@v6.0.1
+        with:
+          repo-token: ${{ github.token }}
+          # Staling issues and PR's
+          days-before-stale: 90
+          stale-issue-label: stale
+          stale-pr-label: stale
+          stale-issue-message: |
+            This issue has been automatically marked as stale because it has been open 90 days
+            with no activity. Remove stale label or comment or this issue will be closed in 10 days
+          stale-pr-message: |
+            This PR has been automatically marked as stale because it has been open 90 days
+            with no activity. Remove stale label or comment or this PR will be closed in 10 days
+          # Not stale if have this labels or part of milestone
+          exempt-issue-labels: bug,wip,on-hold
+          exempt-pr-labels: bug,wip,on-hold
+          exempt-all-milestones: true
+          # Close issue operations
+          # Label will be automatically removed if the issues are no longer closed nor locked.
+          days-before-close: 10
+          delete-branch: true
+          close-issue-message: This issue was automatically closed because it remained marked as stale for 10 days
+          close-pr-message: This PR was automatically closed because remained marked as stale for 10 days
+
+  lock:
+    name: Lock🔒
+    runs-on: [ "ubuntu-latest" ]
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      #TODO: Deprecated NodeJS Version
+      - name: Clean Agent Workspace
+        uses: tiacsys/clean-after-action@v3.0.0
+
+      - name: Lock Threads
+        uses: dessant/lock-threads@v5.0.1
+        with:
+          github-token: ${{ github.token }}
+          issue-comment: >
+            I'm going to lock this issue because it has been closed for _60 days_ ⏳. This helps our maintainers find and focus on the active issues.
+            If you have found a problem that seems similar to this, please open a new issue and complete the issue template so we can capture all the details necessary to investigate further.
+          issue-inactive-days: '60'
+          pr-comment: >
+            I'm going to lock this pull request because it has been closed for _60 days_ ⏳. This helps our maintainers find and focus on the active issues.
+            If you have found a problem that seems related to this change, please open a new issue and complete the issue template so we can capture all the details necessary to investigate further.
+          pr-inactive-days: '60'

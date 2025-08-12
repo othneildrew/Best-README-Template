@@ -1,0 +1,55 @@
+name: 🔧 Repo Config
+
+# Controls when the workflow will run
+on:
+  push:
+    paths:
+      - '.github/settings.yml'
+      - '.github/workflows/repo-config.yml'
+
+  schedule:
+    # Everyday @ 0000 - https://crontab.cronhub.io/
+    # Useful to ensure that when settings are changed temporarily, they are reverted back to the default
+    - cron: '0 0 * * *'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "repo-manager"
+  repo-manager:
+    concurrency:
+      group: ${{ matrix.repo }}-${{ matrix.settings_file}}
+      cancel-in-progress: true
+    strategy:
+      matrix:
+        repo:
+          - self
+        settings_file:
+          - .github/settings.yml
+      fail-fast: false
+
+    name: ⚙️ ${{ matrix.repo }} from ${{ matrix.settings_file }}
+    if: ${{ inputs.action != 'skip' && inputs.repos != '[]' }}
+    # The type of runner that the job will run on
+    runs-on: [ "ubuntu-latest" ]
+    permissions:
+      contents: read
+      pull-requests: write
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      #TODO: Deprecated NodeJS Version
+      - name: Clean Agent Workspace
+        uses: tiacsys/clean-after-action@v3.0.0
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout
+        uses: actions/checkout@v4.1.7
+
+      # Runs a single command using the runners shell
+      - name: Run RepoManager
+        if: '!cancelled()' # This is a workaround for a bug in the cancel-in-progress feature
+        uses: actuarysailor/gha-repo-manager@v2.2.3
+        with:
+          repo: ${{ matrix.repo }}
+          action: 'apply'
+          settings_file: ${{ matrix.settings_file }}
+          token: ${{ github.token }}

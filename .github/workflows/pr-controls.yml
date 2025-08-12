@@ -1,0 +1,101 @@
+name: 'Controls to Standardize Pull Requests'
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/pr-controls.yml'
+  # Note, pull_request_target is used to ensure that the action runs
+  # with the permissions and secrets defined in the repository
+  # however, if this workflow is updated in source branch or fork, it will run the current definition
+  # in the target branch.  We use the pull_request above to validate the changes to the new definition.
+  # https://stackoverflow.com/questions/74957218/what-is-the-difference-between-pull-request-and-pull-request-target-event-in-git
+  pull_request_target:
+    types:
+      - opened
+      - edited
+      - synchronize
+      - reopened
+
+jobs:
+  pr_title:
+    name: 'Check PR Title 📝'
+    runs-on: [ "ubuntu-latest" ]
+    permissions:
+      contents: read
+    steps:
+      #TODO: Deprecated NodeJS Version
+      - name: Clean Agent Workspace
+        uses: tiacsys/clean-after-action@v3.0.0
+
+      - name: Conventional Commits
+        uses: amannn/action-semantic-pull-request@v5.5.3
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          # Configure which types are allowed.
+          # Default: https://github.com/commitizen/conventional-commit-types
+          types: |
+            fix
+            feat
+            docs
+            ci
+            chore
+          # Configure that a scope must always be provided.
+          requireScope: false
+          # Configure additional validation for the subject based on a regex.
+          # This example ensures the subject starts with an uppercase character.
+          subjectPattern: ^[A-Z].+$
+          # If `subjectPattern` is configured, you can use this property to override
+          # the default error message that is shown when the pattern doesn't match.
+          # The variables `subject` and `title` can be used within the message.
+          subjectPatternError: |
+            The subject "{subject}" found in the pull request title "{title}"
+            didn't match the configured pattern. Please ensure that the subject
+            starts with an uppercase character.
+          # For work-in-progress PRs you can typically use draft pull requests
+          # from Github. However, private repositories on the free plan don't have
+          # this option and therefore this action allows you to opt-in to using the
+          # special "[WIP]" prefix to indicate this state. This will avoid the
+          # validation of the PR title and the pull request checks remain pending.
+          # Note that a second check will be reported if this is enabled.
+          wip: false
+          # When using "Squash and merge" on a PR with only one commit, GitHub
+          # will suggest using that commit message instead of the PR title for the
+          # merge commit, and it's easy to commit this by mistake. Enable this option
+          # to also validate the commit message for one commit PRs.
+          validateSingleCommit: true
+
+  pr_labels:
+    name: Apply Labels
+    runs-on: [ "ubuntu-latest" ]
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      #TODO: Deprecated NodeJS Version
+      - name: Clean Agent Workspace
+        uses: tiacsys/clean-after-action@v3.0.0
+
+      - name: 'PR Scope 🔭🧧'
+        uses: actions/labeler@v5.0.0
+        with:
+          configuration-path: .github/pr-scope-labeler.yml
+
+      - name: 'PR Size 🏯'
+        uses: codelytv/pr-size-labeler@v1.10.1
+        with:
+          xs_label: '🤩 size/xs'
+          xs_max_size: '10'
+          s_label: '🥳 size/s'
+          s_max_size: '100'
+          m_label: '😎 size/m'
+          m_max_size: '500'
+          l_label: '😖 size/l'
+          l_max_size: '1000'
+          xl_label: '🤯 size/xl'
+          fail_if_xl: 'false'
+          message_if_xl: >
+            This PR exceeds the recommended size of 1000 lines.
+            Please make sure you are NOT addressing multiple issues with one PR.
+            Note this PR might be rejected due to its size.
+          files_to_ignore: 'package-lock.json *.lock docs/* dist/*'

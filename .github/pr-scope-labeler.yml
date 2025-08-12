@@ -1,0 +1,71 @@
+# This file is used to configure the PR Scope Labeler action
+# in .github/workflows/pr-controls.yml
+💻 Source:
+  - changed-files:
+      - any-glob-to-any-file:
+          - src/**
+
+🧪 Tests:
+  - changed-files:
+      - any-glob-to-any-file:
+          - tests/**
+          - vitest*config*.ts
+          - .env.test
+
+📝 Documentation:
+  - changed-files:
+      - any-glob-to-any-file:
+          - docs/**
+          - README*
+          - images/**
+
+🐳 Build:
+  - changed-files:
+      - any-glob-to-any-file:
+          - .dockerignore
+          - Dockerfile
+          - docker-compose.yml
+          - .nvmrc
+          - .swcrc
+          - tsconfig*.json
+
+⚙️ Configuration:
+  - changed-files:
+      - any-glob-to-any-file:
+          - .dockerignore
+          - .editorconfig
+          - .env*
+          - .eslintignore
+          - .eslintrc
+          - .gitignore
+          - .npmignore
+          - .npmrc
+          - .nvmrc
+          - .prettierignore
+          - .swcrc
+          - .yamllint.yml
+          - '*config*.ts'
+          - '*.config.mjs'
+          - tsconfig*.json
+
+📦 Dependencies:
+  - changed-files:
+      - any-glob-to-any-file:
+          - package.json
+          - package-lock.json
+
+🚀 CI/CD:
+  - changed-files:
+      - any-glob-to-any-file:
+          - .github/workflows/**
+          - .github/dependabot.yml
+          - .github/pr-scope-labeler.yml
+
+🔧 Github Configuration:
+  - changed-files:
+      - any-glob-to-any-file:
+          - .github/ISSUE_TEMPLATE/**
+          - .github/CODEOWNERS
+          - .github/PULL_REQUEST_TEMPLATE.md
+          - .github/settings.yml
+          - .github/workflows/repo-gov.yml

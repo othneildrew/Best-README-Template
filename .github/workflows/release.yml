@@ -1,0 +1,22 @@
+name: Release
+
+on:
+  push:
+    # Sequence of patterns matched against refs/heads
+    branches:
+      - main
+
+jobs:
+  release:
+    name: 'Create Release PR 🚀'
+    runs-on: ["ubuntu-latest"]
+    steps:
+
+      - name: 'Release Please 🎉'
+        uses: googleapis/release-please-action@v4.1.1
+        with:
+          token: ${{ github.token }}
+          # only needed if you want these files loaded from a branch other than the default branch
+          target-branch: main
+          manifest-file: .github/.release-please-manifest.json
+          config-file: .github/release-please-config.json

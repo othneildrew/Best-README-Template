@@ -1,0 +1,23 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "release-search-depth": 400,
+  "group-pull-request-title-pattern": "chore${scope}: Release ${component} v${version}",
+  "pull-request-title-pattern": "chore${scope}: Release ${component} v${version}",
+  "packages": {
+    ".": {
+      "pull-request-title-pattern": "chore${scope}: Release v${version}",
+      "tag-separator": "@",
+      "include-v-in-tag": true,
+      "changelog-path": "CHANGELOG.md",
+      "release-type": "simple",
+      "bump-minor-pre-major": false,
+      "bump-patch-for-minor-pre-major": false,
+      "draft": false,
+      "prerelease": false,
+      "exclude-paths": [".github"],
+      "include-component-in-tag": false,
+      "extra-files": []
+    }
+  },
+  "plugins": []
+}
