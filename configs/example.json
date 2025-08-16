@@ -1,0 +1,186 @@
+{
+  "project": {
+    "title": "Best-README-Template",
+    "description": "An awesome README template to jumpstart your projects!",
+    "logo_path": "images/logo.png",
+    "screenshot_path": "images/screenshot.png"
+  },
+  "repository": {
+    "github_username": "othneildrew",
+    "repo_name": "Best-README-Template",
+    "license": "Unlicense License",
+    "license_file": "LICENSE.txt"
+  },
+  "contact": {
+    "name": "Your Name",
+    "email": "email@example.com",
+    "email_client": "example",
+    "socials": [
+      {
+        "platform": "LinkedIn",
+        "username": "othneildrew",
+        "url": "https://linkedin.com/in/othneildrew",
+        "icon": "💼",
+        "enabled": true
+      },
+      {
+        "platform": "Twitter",
+        "username": "your_twitter",
+        "url": "https://twitter.com/your_twitter",
+        "icon": "🐦",
+        "enabled": false
+      }
+    ]
+  },
+  "sections": {
+    "about": {
+      "enabled": true,
+      "content": "There are many great README templates available on GitHub; however, I didn't\nfind one that really suited my needs so I created this enhanced one. I want to\ncreate a README template so amazing that it'll be the last one you ever need--\nI think this is it.\n\nHere's why:\n\n- Your time should be focused on creating something amazing. A project that\nsolves a problem and helps others\n- You shouldn't be doing the same tasks over and over like creating a README\nfrom scratch\n- You should implement DRY principles to the rest of your life 😄\n\nOf course, no one template will serve all projects since your needs may be\ndifferent. So I'll be adding more in the near future. You may also suggest\nchanges by forking this repo and creating a pull request or opening an issue.\nThanks to all the people have contributed to expanding this template!\n\nUse the `BLANK_README.md` to get started."
+    },
+    "built_with": {
+      "enabled": true,
+      "frameworks": [
+        {
+          "name": "Next.js",
+          "url": "https://nextjs.org/",
+          "badge": "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+        },
+        {
+          "name": "React",
+          "url": "https://reactjs.org/",
+          "badge": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+        },
+        {
+          "name": "Vue.js",
+          "url": "https://vuejs.org/",
+          "badge": "https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
+        },
+        {
+          "name": "Angular",
+          "url": "https://angular.io/",
+          "badge": "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
+        },
+        {
+          "name": "Svelte",
+          "url": "https://svelte.dev/",
+          "badge": "https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"
+        },
+        {
+          "name": "Laravel",
+          "url": "https://laravel.com",
+          "badge": "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"
+        },
+        {
+          "name": "Bootstrap",
+          "url": "https://getbootstrap.com",
+          "badge": "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+        },
+        {
+          "name": "jQuery",
+          "url": "https://jquery.com",
+          "badge": "https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"
+        }
+      ]
+    },
+    "getting_started": {
+      "enabled": true,
+      "prerequisites": [
+        { "name": "npm", "command": "npm install npm@latest -g" }
+      ],
+      "installation_steps": [
+        {
+          "text": "Get a free API Key at https://example.com",
+          "command": "# Register at https://example.com"
+        },
+        {
+          "text": "Clone the repo",
+          "command": "git clone https://github.com/your_username_/Project-Name.git",
+          "language": "bash"
+        },
+        {
+          "text": "Install NPM packages",
+          "command": "npm install",
+          "language": "bash"
+        },
+        {
+          "text": "Enter your API in `config.js`",
+          "command": "const API_KEY = 'ENTER YOUR API';"
+        },
+        {
+          "text": "Change git remote url to avoid accidental pushes to base project",
+          "command": "git remote set-url origin https://github.com/your_username_/Project-Name.git",
+          "language": "bash"
+        }
+      ]
+    },
+    "usage": {
+      "enabled": true,
+      "content": "Use this space to show useful examples of how a project can be used. Additional\nscreenshots, code examples and demos work well in this space. You may also link\nto more resources."
+    },
+    "roadmap": {
+      "enabled": true,
+      "items": [
+        { "text": "Add Changelog", "completed": true },
+        { "text": "Add back to top links", "completed": true },
+        { "text": "Add Additional Templates w/ Examples", "completed": true },
+        {
+          "text": "Add \"components\" document to easily copy & paste sections of\nthe readme",
+          "completed": true
+        },
+        {
+          "text": "Multi-language Support",
+          "completed": false,
+          "subitems": [
+            { "text": "Chinese", "completed": false },
+            { "text": "Spanish", "completed": false }
+          ]
+        }
+      ]
+    },
+    "contributing": {
+      "enabled": true,
+      "show_contributors": true
+    },
+    "license": {
+      "enabled": true
+    },
+    "contact": {
+      "enabled": true
+    },
+    "acknowledgments": {
+      "enabled": true,
+      "items": [
+        {
+          "name": "Choose an Open Source License",
+          "url": "https://choosealicense.com"
+        },
+        {
+          "name": "GitHub Emoji Cheat Sheet",
+          "url": "https://www.webpagefx.com/tools/emoji-cheat-sheet"
+        },
+        {
+          "name": "Malven's Flexbox Cheatsheet",
+          "url": "https://flexbox.malven.co/"
+        },
+        {
+          "name": "Malven's Grid Cheatsheet",
+          "url": "https://grid.malven.co/"
+        },
+        { "name": "Img Shields", "url": "https://shields.io" },
+        { "name": "GitHub Pages", "url": "https://pages.github.com" },
+        { "name": "Font Awesome", "url": "https://fontawesome.com" },
+        {
+          "name": "React Icons",
+          "url": "https://react-icons.github.io/react-icons/search"
+        }
+      ]
+    }
+  },
+  "badges": {
+    "contributors": true,
+    "forks": true,
+    "stars": true,
+    "issues": true,
+    "license": true
+  }
+}
