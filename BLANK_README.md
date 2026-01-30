@@ -322,7 +322,7 @@ Don't forget to give the project a star! Thanks again!
   
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the project_license. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 
